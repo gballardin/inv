@@ -1,0 +1,2256 @@
+Code	Name	High	Low	Close	Volume	Change	X
+FAAAX	Franklin K2 Alternative Strategies Fund	10.82	10.82	10.82	0	0.01	0.09
+FAACX	Nuveen Flagship All-American Muni Bd Fd	12.00	12.00	12.00	0	0.00	0.00
+FAAFX	The Fairholme Allocation Fund	8.360	8.360	8.360	0	0.030	0.36
+FAAGX	Nuveen Strategy Aggressive Growth	14.69	14.69	14.69	0	0.02	0.14
+FAAIX	Fidelity Advisor Asset Manager 70% Class	19.98	19.98	19.98	0	0.01	0.05
+FAAPX	Fa 529 Port 2019-Old Cl A	19.09	19.09	19.09	0	0.15	0.79
+FAARX	Nuveen Flagship All-American Muni Bd Fd	12.05	12.05	12.05	0	0.00	0.00
+FAASX	Fidelity Advisor Asset Manager 70% Class	19.92	19.92	19.92	0	0.01	0.05
+FAATX	American Funds 2010 Target Date	10.48	10.48	10.48	0	0.00	0.00
+FAAWX	Nuveen All-American Municipal B	12.05	12.05	12.05	0	0.00	0.00
+FAAXX	First American Government Obligations	0.0100	0.0100	0.0100	0	0.0000	0.00
+FABCX	Fidelity Advisor Series II Fidelity	19.15	19.15	19.15	0	0.00	0.00
+FABDX	Franklin Flexible Alpha Bond Fund Cl C	9.920	9.920	9.920	0	0.010	0.10
+FABFX	Franklin Flexible Alpha Bond Fund Cl A	9.960	9.960	9.960	0	0.010	0.10
+FABLX	Fidelity Advisor Series II Fidelity	19.29	19.29	19.29	0	0.00	0.00
+FABMX	Franklin Flexible Alpha Bond Fund Cl R	9.940	9.940	9.940	0	0.010	0.10
+FABNX	Franklin Flexible Alpha Bond Fund Cl R6	9.950	9.950	9.950	0	0.000	0.00
+FABSX	Nuveen Strategic Income Fund Class R3	10.85	10.85	10.85	0	0.00	0.00
+FABZX	Franklin K2 Alternative Strategies Fund	10.86	10.86	10.86	0	0.01	0.09
+FACCX	Nuveen All-American Municipal Bond Fund	12.00	12.00	12.00	0	0.00	0.00
+FACDX	Fidelity Advisor Series Vii Fidelity	37.78	37.78	37.78	0	-0.06	0.16
+FACEX	Frost Core Growth Equity Investor Class	13.65	13.65	13.65	0	0.04	0.29
+FACFX	Fidelity Advisor Freedom 2010 Cl A	12.31	12.31	12.31	0	0.01	0.08
+FACGX	Fidelity Advisor Series II Fidelity	54.16	54.16	54.16	0	0.08	0.15
+FACIX	Fidelity Advisor Municipal Income 2019	10.77	10.77	10.77	0	0.00	0.00
+FACMX	Nuveen Minnesota Intermediate Municipal	10.76	10.76	10.76	0	0.00	0.00
+FACNX	Fidelity Advisor Canada Fund Class A	49.64	49.64	49.64	0	-0.30	0.60
+FACPX	Fidelity Advisor Consumer Discretionary	19.88	19.88	19.88	0	0.03	0.15
+FACSX	Nuveen Mid Cap Value Fd Cl C	35.22	35.22	35.22	0	0.10	0.28
+FACTX	Fidelity Advisor Series Vii Fidelity	35.52	35.52	35.52	0	-0.06	0.17
+FACVX	Fidelity Advisor Convertible Securities	27.42	27.42	27.42	0	0.06	0.22
+FADAX	Fidelity Advisor Series I Fidelity	16.82	16.82	16.82	0	-0.01	0.06
+FADCX	Fidelity Advisor Series ViII Fidelity	19.38	19.38	19.38	0	0.02	0.10
+FADIX	Fidelity Advisor Series ViII Fidelity	20.13	20.13	20.13	0	0.01	0.05
+FADLX	Frost Low Duration Bond Fund Investor	10.27	10.27	10.27	0	-0.01	0.10
+FADPX	Fa 529 Port 2022-Cl D	23.47	23.47	23.47	0	0.23	0.99
+FADSX	Nuveen Equity Index Fund Class R3	28.19	28.19	28.19	0	0.00	0.00
+FADTX	Fidelity Advisor Series Vii Fidelity	39.90	39.90	39.90	0	0.09	0.23
+FADVX	Frost Value Equity Fund Investor Class	10.12	10.12	10.12	0	0.01	0.10
+FAEGX	Fidelity Advisor Equity Growth Fund T	97.92	97.92	97.92	0	-0.07	0.07
+FAEIX	Nuveen Equity Index Fund Class A	28.19	28.19	28.19	0	0.01	0.04
+FAEMX	Fidelity Advisor Emerging Markets Income	14.39	14.39	14.39	0	0.07	0.49
+FAEPX	Fa 529 Port 2022-Cl P	22.72	22.72	22.72	0	0.22	0.98
+FAERX	Fidelity Advisor Overseas Fund T Shares	21.98	21.98	21.98	0	0.07	0.32
+FAETX	American Funds 2030 Target Date	12.95	12.95	12.95	0	0.01	0.08
+FAFAX	Fidelity Advisor Freedom Income Class A	10.97	10.97	10.97	0	0.01	0.09
+FAFCX	Fidelity Advisor Series Vii Fidelity	14.92	14.92	14.92	0	0.02	0.13
+FAFDX	Fidelity Advisor Series Vii Fidelity	15.83	15.83	15.83	0	0.02	0.13
+FAFEX	Fidelity Advisor Freedom 2030 Cl A	13.56	13.56	13.56	0	0.01	0.07
+FAFFX	Fidelity Advisor Freedom 2040 Cl A	13.84	13.84	13.84	0	0.02	0.14
+FAFIX	Nuveen Core Plus Bond Fund Cl A	11.21	11.21	11.21	0	0.00	0.00
+FAFJX	Nuveen Limited Term Municipal Bond Fd Cl	11.13	11.13	11.13	0	0.00	0.00
+FAFKX	Nuveen Co Municipal Bond Fd Cl C	11.12	11.12	11.12	0	0.00	0.00
+FAFLX	Nuveen La Municipal Bond Fd Cl C	11.63	11.63	11.63	0	-0.01	0.09
+FAFMX	Nuveen Oh Municipal Bond Fd Cl C	11.90	11.90	11.90	0	0.00	0.00
+FAFNX	Nuveen Mi Municipal Bond Fd Cl C	11.92	11.92	11.92	0	0.01	0.08
+FAFOX	Nuveen Ks Municipal Bond Fd Cl C	11.15	11.15	11.15	0	-0.01	0.09
+FAFPX	Nuveen Mo Municipal Bond Fd Cl C	11.68	11.68	11.68	0	0.00	0.00
+FAFRX	Franklin Floating Rate Daily Access	8.750	8.750	8.750	0	0.010	0.11
+FAFSX	Fidelity Advisor Series Vii Fidelity	15.68	15.68	15.68	0	0.02	0.13
+FAFTX	Franklin Federal Tax Free Income Fund	12.56	12.56	12.56	0	0.00	0.00
+FAFWX	American Funds Retirement Income	10.66	10.66	10.66	0	0.00	0.00
+FAGAX	Fidelity Advisor Series II Fidelity	59.95	59.95	59.95	0	0.09	0.15
+FAGCX	Fidelity Advisor Growth Opportunities	63.28	63.28	63.28	0	0.09	0.14
+FAGIX	Fidelity Capital and Income Fund	9.680	9.680	9.680	0	0.000	0.00
+FAGKX	Fidelity Growth Strategies Fund Class K	34.84	34.84	34.84	0	-0.01	0.03
+FAGNX	Fidelity Advisor Energy Class T	34.36	34.36	34.36	0	0.10	0.29
+FAGOX	Fidelity Advisor Growth Opportunities	59.72	59.72	59.72	0	0.08	0.13
+FAHCX	Fidelity Advisor High Income Advantage	10.02	10.02	10.02	0	0.01	0.10
+FAHDX	Fidelity Advisor High Income Advantage	10.68	10.68	10.68	0	0.01	0.09
+FAHEX	Fidelity Advisor High Income Advantage	10.66	10.66	10.66	0	0.01	0.09
+FAHIX	Fidelity Advisor Municipal Income Fund	13.85	13.85	13.85	0	-0.01	0.07
+FAHYX	Fidelity Advisor High Income Advantage	10.74	10.74	10.74	0	0.01	0.09
+FAIDX	Fidelity Advisor International Discovery	39.29	39.29	39.29	0	0.05	0.13
+FAIGX	Fidelity Advisor Balanced Fd T Shares	19.49	19.49	19.49	0	0.00	0.00
+FAIIX	Nuveen Core Bond Fund Class A	10.10	10.10	10.10	0	0.01	0.10
+FAINX	Fallen Angels Income Fund	10.37	10.37	10.37	0	0.00	0.00
+FAIOX	Fidelity Advisor Balanced Fund Class I	19.64	19.64	19.64	0	0.00	0.00
+FAIPX	Nuveen Inflation Protected Securities	11.37	11.37	11.37	0	0.01	0.09
+FAIRX	Fairholme Fd	19.15	19.15	19.15	0	0.04	0.21
+FAITX	American Funds 2050 Target Date	13.06	13.06	13.06	0	0.00	0.00
+FAIVX	Fidelity Advisor Equity Value Fund Class	16.30	16.30	16.30	0	0.02	0.12
+FAIXX	First American Funds - Institutional	0.0200	0.0200	0.0200	0	0.0000	0.00
+FAKDX	Frost Kempner Multi-Cap Deep Value	9.370	9.370	9.370	0	-0.010	0.11
+FAKSX	Frost Mid Cap Equity Fund Investor Class	9.860	9.860	9.860	0	0.040	0.41
+FAKTX	American Funds 2015 Target Date	11.09	11.09	11.09	0	0.00	0.00
+FALAX	Fidelity Advisor Series I Fidelity	28.95	28.95	28.95	0	0.08	0.28
+FALEX	Franklin Alabama Tax-Free Income Fund	11.69	11.69	11.69	0	0.00	0.00
+FALGX	Fidelity Advisor Series I Fidelity	28.88	28.88	28.88	0	0.09	0.31
+FALIX	Fidelity Advisor Large Cap Fund Class I	30.19	30.19	30.19	0	0.10	0.33
+FALTX	Nuveen Short Term Bond Class A	9.900	9.900	9.900	0	0.000	0.00
+FAMAX	Nuveen Mn Intermediate Municipal Bond	10.73	10.73	10.73	0	0.00	0.00
+FAMCX	Fidelity Advisor Series II Fidelity	13.85	13.85	13.85	0	0.00	0.00
+FAMDX	Fam Small Cap Fund Institutional Shares	16.80	16.80	16.80	0	0.13	0.78
+FAMEX	Fam Equity Income Fund	27.36	27.36	27.36	0	0.03	0.11
+FAMFX	Fam Small Cap Fund Investor Share Class	16.78	16.78	16.78	0	0.13	0.78
+FAMGX	Fidelity Advisor Series Opportunistic	15.37	15.37	15.37	0	-0.01	0.07
+FAMKX	Fidelity Advisor Emerging Markets Class	22.94	22.94	22.94	0	-0.09	0.39
+FAMMX	Fidelity Advisor Municipal Income 2017	10.47	10.47	10.47	0	0.00	0.00
+FAMRX	Fidelity Asset Manager 85%	16.73	16.73	16.73	0	0.01	0.06
+FAMTX	Nuveen Mn Intermediate Municipal Bond	10.67	10.67	10.67	0	0.00	0.00
+FAMUX	Fidelity Advisor Series II Fidelity	13.81	13.81	13.81	0	0.00	0.00
+FAMVX	Fam Value Fund	66.33	66.33	66.33	0	0.12	0.18
+FANAX	Fidelity Advisor Energy Class A	33.61	33.61	33.61	0	0.10	0.30
+FANCX	Fidelity Advisor Short-Term Bond Fund	8.660	8.660	8.660	0	0.000	0.00
+FANIX	Fidelity Advisor Energy Fund Class I	35.42	35.42	35.42	0	0.10	0.28
+FANSX	Nuveen High Income Bond Class R	7.680	7.680	7.680	0	0.010	0.13
+FAOAX	Fidelity Advisor Series Vii Fidelity	21.44	21.44	21.44	0	0.06	0.28
+FAOCX	Fidelity Advisor Ser Vii Fidelity	20.77	20.77	20.77	0	0.07	0.34
+FAOFX	Fidelity Advisor Series Growth	10.94	10.94	10.94	0	0.01	0.09
+FAOIX	Fidelity Advisor Overseas Fund Class I	21.92	21.92	21.92	0	0.08	0.37
+FAOTX	American Funds 2020 Target Date	11.83	11.83	11.83	0	0.00	0.00
+FAPAX	Fidelity Advisor Municipal Income 2019	10.77	10.77	10.77	0	0.00	0.00
+FAPTX	American Funds 2025 Target Retirement Fd	12.37	12.37	12.37	0	0.00	0.00
+FAPXX	Retail Prime Obligations Fund Class A	0.0200	0.0200	0.0200	0	0.0000	0.00
+FAQIX	Nuveen Dividend Value Fund Class I	15.72	15.72	15.72	0	0.05	0.32
+FAQTX	American Funds 2035 Target Date	13.04	13.04	13.04	0	0.00	0.00
+FARCX	Nuveen Real Estate Securities Fund Cl I	25.78	25.78	25.78	0	0.14	0.55
+FARFX	Fidelity Advisor Income Replacement 2042	60.02	60.02	60.02	0	0.06	0.10
+FARIX	Fulcrum Diversified Absolute Return Fund	9.660	9.660	9.660	0	-0.010	0.10
+FARMX	Strategic Advisers Small-Mid Cap	10.91	10.91	10.91	0	0.06	0.55
+FARNX	Fidelity Event Driven Opportunities Fund	11.87	11.87	11.87	0	0.09	0.76
+FARPX	Fidelity Advisor Income Replacement Fund	61.58	61.58	61.58	0	0.05	0.08
+FARRX	Franklin Real Return Fund Advisor Class	10.19	10.19	10.19	0	0.01	0.10
+FARSX	Fidelity Advisor Income Replacement Fund	60.55	60.55	60.55	0	0.06	0.10
+FARVX	Fidelity Advisor Income Replacement 2038	58.70	58.70	58.70	0	0.06	0.10
+FARWX	Fidelity Advisor Income Replacement 2040	60.04	60.04	60.04	0	0.06	0.10
+FARYX	Fulcrum Diversified Absolute Return Fund	9.660	9.660	9.660	0	-0.020	0.21
+FASAX	Focused Multi-Asset Strategy Portfolio -	16.46	16.46	16.46	0	0.06	0.37
+FASCX	Franklin K2 Alternative Strategies Fund	10.70	10.70	10.70	0	0.01	0.09
+FASDX	Fidelity Advisor Strategic Dividend &	14.94	14.94	14.94	0	0.01	0.07
+FASEX	Nuveen Mid Cap Value Fund A	37.00	37.00	37.00	0	0.11	0.30
+FASGX	Fidelity Asset Manager 70%	19.97	19.97	19.97	0	0.01	0.05
+FASHX	Fidelity Advisor Limited Term Municipal	10.72	10.72	10.72	0	0.00	0.00
+FASIX	Fidelity Asset Manager 20%	13.31	13.31	13.31	0	0.00	0.00
+FASMX	Fidelity Asset Manager 50%	17.07	17.07	17.07	0	0.01	0.06
+FASOX	Fidelity Advisor Value Strategies Fund	42.94	42.94	42.94	0	0.14	0.33
+FASPX	Fidelity Advisor Value Strategies Fund	41.63	41.63	41.63	0	0.13	0.31
+FASRX	Franklin K2 Alternative Strategies Fund	10.87	10.87	10.87	0	0.01	0.09
+FASSX	Federated Adjustable Rate Securities Fd	9.690	9.690	9.690	0	0.000	0.00
+FASTX	Frost Moderate Allocation Fund Investor	12.87	12.87	12.87	0	0.01	0.08
+FATEX	Fidelity Advisor Series Vii Fidelity	38.08	38.08	38.08	0	0.08	0.21
+FATHX	Fidelity Advisor Freedom 2035 Cl A	12.92	12.92	12.92	0	0.01	0.08
+FATIX	Fidelity Advisor Technology Fund Class I	42.48	42.48	42.48	0	0.09	0.21
+FATJX	Fidelity Advisor Event Driven	11.51	11.51	11.51	0	0.09	0.79
+FATRX	Frost Total Return Bond Fund Investor	10.54	10.54	10.54	0	0.00	0.00
+FATTX	American Funds 2045 Target Date	13.37	13.37	13.37	0	0.01	0.07
+FATWX	Fidelity Advisor Freedom 2025 Cl A	12.80	12.80	12.80	0	0.01	0.08
+FAUDX	Strategic Advisers Short Duration Fund	10.04	10.04	10.04	0	0.00	0.00
+FAUFX	Fidelity Advisor Utilities Cl T	26.68	26.68	26.68	0	0.09	0.34
+FAUGX	Fist Adjust US Govt Sec Fund Cl A1	8.410	8.410	8.410	0	0.000	0.00
+FAUMX	Frost Municipal Bond Fund Investor Class	10.67	10.67	10.67	0	0.00	0.00
+FAUTX	American Funds 2040 Target Date	13.26	13.26	13.26	0	0.01	0.08
+FAUZX	Franklin Adjustable U.S. Government	8.420	8.420	8.420	0	0.000	0.00
+FAVAX	Fidelity Advisor Equity Value Cl A	16.04	16.04	16.04	0	0.03	0.19
+FAVCX	Fidelity Advisor Equity Value Cl C	15.65	15.65	15.65	0	0.02	0.13
+FAVFX	Fidelity Advisor Value Class A	22.16	22.16	22.16	0	0.06	0.27
+FAVIX	Fidelity Advisor Municipal Income 2017	10.47	10.47	10.47	0	0.00	0.00
+FAVTX	Fidelity Advisor Equity Value Class T	16.01	16.01	16.01	0	0.02	0.13
+FAWCX	Nuveen Large Cap Growth Opportunities	25.53	25.53	25.53	0	-0.03	0.12
+FAWTX	American Funds 2060 Target Date	10.56	10.56	10.56	0	0.01	0.09
+FAXXX	First American Prime Obligation	0.3100	0.3100	0.3100	0	0.0000	0.00
+FAYZX	Fidelity Advisor Multi-Asset Income Fund	10.59	10.59	10.59	0	0.02	0.19
+FAZCX	Nuveen Flagship Arizona Municipal Bond	11.14	11.14	11.14	0	0.01	0.09
+FAZIX	Franklin Arizona Tax-Free Income Fund	11.43	11.43	11.43	0	0.00	0.00
+FAZTX	Nuveen Flagship Arizona Muni Bd Fd Cl A	11.14	11.14	11.14	0	0.01	0.09
+FAZYX	Fidelity Advisor Multi-Asset Income Fund	10.59	10.59	10.59	0	0.02	0.19
+FAZZX	Franklin Arizona Tax-Free Income Fd Cl	11.28	11.28	11.28	0	-0.01	0.09
+FBAAX	Focused Balanced Strategy Portfolio	15.92	15.92	15.92	0	0.04	0.25
+FBABX	Sunamerica Focused Balanced Strategy	15.77	15.77	15.77	0	0.04	0.25
+FBACX	Focused Balanced Strategy Ptf Class C	15.83	15.83	15.83	0	0.04	0.25
+FBAKX	Fidelity Balanced Fund Class K	22.45	22.45	22.45	0	0.00	0.00
+FBALX	Fidelity Balanced Fund	22.45	22.45	22.45	0	0.00	0.00
+FBATX	American Funds 2010 Target Date	10.51	10.51	10.51	0	0.00	0.00
+FBBBX	Fa 529 Moderate Growth Port-Cl P	20.37	20.37	20.37	0	0.25	1.24
+FBBEX	Fa 529 Stock Selector Mid Cap Port-Cl A	27.01	27.01	27.01	0	0.20	0.75
+FBBFX	Fa 529 Stock Selector Mid Cap Port-Cl C	24.36	24.36	24.36	0	0.18	0.74
+FBBGX	Fa 529 Strategic Income Port-Cl A	18.47	18.47	18.47	0	0.09	0.49
+FBBHX	Fa 529 Port 2034-Cl A	10.63	10.63	10.63	0	0.17	1.63
+FBBTX	American Funds 2015 Target Date	11.14	11.14	11.14	0	0.00	0.00
+FBCTX	American Funds 2020 Target Date	11.88	11.88	11.88	0	0.01	0.08
+FBCVX	Fidelity Blue Chip Value	16.74	16.74	16.74	0	0.03	0.18
+FBDAX	Franklin Total Return Fund Advisor Class	10.08	10.08	10.08	0	0.01	0.10
+FBDIX	Franklin Strategic Biotechnology	140.2	140.2	140.2	0	1.2	0.83
+FBDTX	American Funds 2025 Target Date	12.43	12.43	12.43	0	0.01	0.08
+FBETX	American Funds 2030 Target Date	13.01	13.01	13.01	0	0.01	0.08
+FBFTX	American Funds 2035 Target Date	13.08	13.08	13.08	0	0.01	0.08
+FBFWX	American Funds Retirement Income	10.76	10.76	10.76	0	0.01	0.09
+FBFZX	Franklin Balanced Fund - Advisor Class	11.93	11.93	11.93	0	-0.01	0.08
+FBGKX	Fidelity Blue Chip Growth Fund Class K	71.00	71.00	71.00	0	0.07	0.10
+FBGRX	Fidelity Blue Chip Growth Fund	70.84	70.84	70.84	0	0.06	0.08
+FBGTX	American Funds 2040 Target Date	13.30	13.30	13.30	0	0.01	0.08
+FBHTX	American Funds 2045 Target Date	13.43	13.43	13.43	0	0.01	0.07
+FBIDX	Spartan U.S. Bond Index Fd Inv Cl	11.99	11.99	11.99	0	0.00	0.00
+FBIFX	Fidelity Freedom Index 2040 Fd Cl K	16.13	16.13	16.13	0	0.02	0.12
+FBIJX	First Investors Balanced Income Fund -	10.79	10.79	10.79	0	-0.01	0.09
+FBIKX	First Investors Balanced Income Fund -	10.82	10.82	10.82	0	0.00	0.00
+FBILX	First Investors Balanced Income Fund -	10.82	10.82	10.82	0	-0.01	0.09
+FBIOX	Fidelity Select Biotechnology Pt	187.9	187.9	187.9	0	2.1	1.10
+FBJTX	American Funds 2055 Target Date	16.25	16.25	16.25	0	0.01	0.06
+FBKTX	American Funds 2060 Target Date	10.56	10.56	10.56	0	0.01	0.09
+FBKWX	Fidelity Advisor Total Bond Fund Class Z	10.87	10.87	10.87	0	0.00	0.00
+FBLAX	Franklin Balanced Fund Class A	11.91	11.91	11.91	0	-0.01	0.08
+FBLEX	Fidelity Series Stock Selector Large Cap	11.88	11.88	11.88	0	0.02	0.17
+FBLTX	Fidelity Sai Long-Term Treasury Bond	11.37	11.37	11.37	0	-0.01	0.09
+FBLYX	Fidelity Advisor Global Equity Income Fd	12.77	12.77	12.77	0	-0.01	0.08
+FBMAX	Fidelity Series Broad Market	15.57	15.57	15.57	0	0.00	0.00
+FBMCX	Franklin Balanced Fund Class C	11.81	11.81	11.81	0	-0.01	0.08
+FBMPX	Fidelity Select Multimedia Portfolio	73.36	73.36	73.36	0	0.30	0.41
+FBNAX	Fidelity Advisor Short-Term Bond Fund	8.660	8.660	8.660	0	0.000	0.00
+FBNDX	Fidelity Investment Grade Bond Fund	8.060	8.060	8.060	0	0.000	0.00
+FBNIX	Fidelity Advisor Short-Term Bond Fund	8.660	8.660	8.660	0	0.000	0.00
+FBNRX	Tpln Global Bond Fund Cl R6	11.34	11.34	11.34	0	0.00	0.00
+FBNTX	Fidelity Advisor Short-Term Bond Fund	8.660	8.660	8.660	0	0.000	0.00
+FBOGX	Tpln Global Smaller Co-Cl R6	8.850	8.850	8.850	0	0.010	0.11
+FBPBX	Fbp Appreciation & Income Opportunities	17.55	17.55	17.55	0	0.01	0.06
+FBPEX	Fbp Equity & Dividend Plus Fund	24.11	24.11	24.11	0	0.02	0.08
+FBRLX	Franklin Lifesmart 2015 Retirement	10.95	10.95	10.95	0	0.01	0.09
+FBRNX	Fidelity Advisor Stock Selector All Cap	36.30	36.30	36.30	0	0.00	0.00
+FBSAX	Franklin Balance Sheet Investment Fund	36.97	36.97	36.97	0	0.13	0.35
+FBSCX	Nuveen Short Term Bond Fund Class C	9.940	9.940	9.940	0	0.000	0.00
+FBSIX	Franklin Balance Sheet Investment Fund	36.93	36.93	36.93	0	0.13	0.35
+FBSOX	Fidelity Select IT Services	42.13	42.13	42.13	0	0.23	0.55
+FBSRX	Franklin Balance Sheet Investment Fund -	35.94	35.94	35.94	0	0.12	0.34
+FBTAX	Fidelity Advisor Biotechnology Cl A	21.34	21.34	21.34	0	0.21	0.99
+FBTCX	Fidelity Advisor Biotechnology Cl C	18.65	18.65	18.65	0	0.18	0.97
+FBTDX	Fss Fr Bio-Tech Discovery Cl C	137.4	137.4	137.4	0	1.1	0.82
+FBTIX	Fidelity Advisor Biotechnology Fund	22.47	22.47	22.47	0	0.22	0.99
+FBTRX	First Investors Series Fd Total Return	18.85	18.85	18.85	0	0.00	0.00
+FBTTX	Fidelity Advisor Biotechnology Cl T	20.33	20.33	20.33	0	0.20	0.99
+FBUSX	Fidelity Advisor Global Equity Income	12.80	12.80	12.80	0	0.00	0.00
+FCADX	Fidelity Advisor International Discovery	38.67	38.67	38.67	0	0.04	0.10
+FCAFX	Fidelity Advisor Freedom Income Cl C	10.94	10.94	10.94	0	0.01	0.09
+FCAGX	Fidelity Advisor Small Cap Growth Fd Cl	19.74	19.74	19.74	0	0.05	0.25
+FCAHX	Franklin California High Yield Municipal	11.43	11.43	11.43	0	0.00	0.00
+FCAIX	Fiera Capital Diversified Alternatives	9.770	9.770	9.770	0	0.020	0.21
+FCAKX	Fidelity Capital Appreciation Fund Class	33.10	33.10	33.10	0	0.01	0.03
+FCAMX	Franklin California High Yield Municipal	11.36	11.36	11.36	0	0.01	0.09
+FCANX	Fidelity Advisor Asset Manager 30% Class	10.62	10.62	10.62	0	0.01	0.09
+FCAPX	Franklin International Small Cap Growth	18.51	18.51	18.51	0	0.08	0.43
+FCARX	Fiera Capital Diversified Alternatives	9.690	9.690	9.690	0	0.020	0.21
+FCASX	Fidelity Advisor Asset Manager 70% Class	19.77	19.77	19.77	0	0.01	0.05
+FCAVX	Franklin California Tax-Free Income Fund	7.790	7.790	7.790	0	0.000	0.00
+FCAZX	Franklin Templeton Corefolio Allocation	17.20	17.20	17.20	0	0.02	0.12
+FCBAX	Fidelity Advisor Corporate Bond Fund	11.74	11.74	11.74	0	0.00	0.00
+FCBCX	Nuveen Strategic Income Fund Class C	10.75	10.75	10.75	0	0.00	0.00
+FCBFX	Fidelity Corporate Bond Fund	11.74	11.74	11.74	0	0.00	0.00
+FCBIX	Fidelity Advisor Corporate Bond Fund	11.74	11.74	11.74	0	0.00	0.00
+FCBSX	Franklin Balance Sheet Investment Fund -	34.54	34.54	34.54	0	0.11	0.32
+FCBTX	Fidelity Advisor Corporate Bond Fund	11.74	11.74	11.74	0	0.00	0.00
+FCBYX	Nuveen Strategic Income Fund Class I	10.80	10.80	10.80	0	0.00	0.00
+FCCCX	Fidelity Advisor Corporate Bond Fund	11.74	11.74	11.74	0	0.00	0.00
+FCCGX	Fidelity Advisor Small Cap Growth Fd Cl	18.03	18.03	18.03	0	0.05	0.28
+FCCIX	Franklin California Intermediate Term	12.50	12.50	12.50	0	-0.01	0.08
+FCCLX	Fa 529 College Port-Cl C	14.81	14.81	14.81	0	0.08	0.54
+FCCNX	Fidelity Advisor Canada Fund Class C	48.43	48.43	48.43	0	-0.30	0.62
+FCCVX	Fidelity Advisor Convertible Securities	27.24	27.24	27.24	0	0.06	0.22
+FCDAX	Fidelity Advisor Stock Selector Small	24.42	24.42	24.42	0	0.12	0.49
+FCDCX	Fidelity Advisor Stock Selector Small	22.91	22.91	22.91	0	0.12	0.53
+FCDDX	Nuveen Strategic Income Fund Class A	10.81	10.81	10.81	0	0.00	0.00
+FCDIX	Fidelity Advisor Stock Selector Small	24.92	24.92	24.92	0	0.12	0.48
+FCDLX	Fa 529 College Port-Cl D	16.06	16.06	16.06	0	0.09	0.56
+FCDTX	Fidelity Advisor Stock Selector Small	23.89	23.89	23.89	0	0.12	0.50
+FCECX	Fidelity Advisor Consumer Discretionary	17.36	17.36	17.36	0	0.02	0.12
+FCEDX	Franklin Focused Core Equity Fund Cl C	13.25	13.25	13.25	0	0.04	0.30
+FCEIX	Nuveen Equity Index Fund Class C	27.81	27.81	27.81	0	0.00	0.00
+FCEPX	Fidelity Advisor Total Bond Fund Class C	10.90	10.90	10.90	0	0.01	0.09
+FCEQX	Franklin Focused Core Equity Fund Class	13.85	13.85	13.85	0	0.04	0.29
+FCERX	Franklin Focused Core Equity Fund Cl R	13.69	13.69	13.69	0	0.04	0.29
+FCEZX	Franklin Focused Core Equity Fund Cl Adv	14.01	14.01	14.01	0	0.04	0.29
+FCFAX	Frost Credit Fund Investor Class Shares	9.630	9.630	9.630	0	-0.010	0.10
+FCFCX	Fidelity Advisor Freedom 2010 Cl C	12.17	12.17	12.17	0	0.01	0.08
+FCFEX	Fidelity Advisor Freedom 2030 Cl C	13.35	13.35	13.35	0	0.01	0.07
+FCFFX	Fidelity Advisor Freedom 2040 Cl C	13.55	13.55	13.55	0	0.01	0.07
+FCFIX	Frost Credit Fund - Institutional Class	9.640	9.640	9.640	0	-0.010	0.10
+FCFRX	Franklin Floating Rate Daily Access	8.750	8.750	8.750	0	0.010	0.11
+FCFSX	Templeton Foreign Smaller Companies Fund	15.90	15.90	15.90	0	0.01	0.06
+FCFTX	Fidelity Advisor Freedom 2010 Cl T	12.26	12.26	12.26	0	0.01	0.08
+FCFVX	Fidelity Advisor Freedom 2005 Cl C	11.79	11.79	11.79	0	0.01	0.08
+FCFWX	American Funds Retirement Income	10.88	10.88	10.88	0	0.01	0.09
+FCGAX	Franklin Growth Fund Advisor Class	78.89	78.89	78.89	0	0.01	0.01
+FCGBX	Templeton Global Balanced Fund Class C	2.830	2.830	2.830	0	0.000	0.00
+FCGCX	Fidelity Advisor Global Commodity Stock	10.84	10.84	10.84	0	0.01	0.09
+FCGRX	Franklin Global Real Estate Fd Cl C	9.500	9.500	9.500	0	0.020	0.21
+FCGSX	Fidelity Series Growth Company Fund	13.32	13.32	13.32	0	0.02	0.15
+FCHIX	Franklin High Income Fund Class C	1.860	1.860	1.860	0	0.010	0.54
+FCHKX	Fidelity Advisor China Region Fund Class	25.68	25.68	25.68	0	0.06	0.23
+FCHPX	Fidelity Municipal Income 2023 Fund	10.51	10.51	10.51	0	0.00	0.00
+FCHSX	Fidelity Advisor Event Driven	11.68	11.68	11.68	0	0.10	0.86
+FCIFX	Fidelity Advisor Freedom 2010 Fund Class	12.37	12.37	12.37	0	0.01	0.08
+FCIGX	Fidelity Advisor Small Cap Growth Fund	20.46	20.46	20.46	0	0.05	0.24
+FCIHX	Ai U.S. Inflation-Protected Fund - Class	10.63	10.63	10.63	0	0.02	0.19
+FCIIX	Franklin Flex Cap Growth Fund Class C	36.69	36.69	36.69	0	0.07	0.19
+FCIPX	Nuveen Inflation Protected Securities	11.20	11.20	11.20	0	0.01	0.09
+FCISX	Franklin Income Fund Class C	2.280	2.280	2.280	0	0.000	0.00
+FCITX	Federal Intermediate Term Tax-Free	12.59	12.59	12.59	0	-0.01	0.08
+FCIVX	Frontier MFG Core Infrastructure Fund -	15.25	15.25	15.25	0	0.02	0.13
+FCIZX	Fci Bond Fund	10.64	10.64	10.64	0	0.00	0.00
+FCKSX	Nuveen Flagship Ks Muni Bd Fd Cl C [Srs	11.16	11.16	11.16	0	0.00	0.00
+FCLAX	Fidelity Advisor Industrials Cl A	35.68	35.68	35.68	0	-0.07	0.20
+FCLCX	Fidelity Advisor Industrials Cl C	32.36	32.36	32.36	0	-0.07	0.22
+FCLIX	Fidelity Advisor Industrials Fund Class	37.39	37.39	37.39	0	-0.08	0.21
+FCLTX	Fidelity Advisor Industrials Cl T	34.92	34.92	34.92	0	-0.07	0.20
+FCMAX	Fidelity Advisor California Municipal	13.47	13.47	13.47	0	0.00	0.00
+FCMIX	Mutual International Fd Cl C	13.86	13.86	13.86	0	0.06	0.43
+FCMKX	Fidelity Advisor California Municipal	13.45	13.45	13.45	0	0.00	0.00
+FCMLX	Forward Commodity Long/Short Strategy Fd	15.91	15.91	15.91	0	-0.13	0.81
+FCMMX	Strategic Advisers Multi-Manager 2060	9.830	9.830	9.830	0	0.140	1.44
+FCMNX	Nuveen Minnesota Municipal Bond Fd Cl	12.07	12.07	12.07	0	0.01	0.08
+FCMQX	Fidelity Advisor California Municipal	13.48	13.48	13.48	0	0.00	0.00
+FCMSX	Forward Commodity Long/Short Strategy Fd	15.82	15.82	15.82	0	-0.13	0.82
+FCMTX	Fidelity Advisor California Municipal	13.51	13.51	13.51	0	0.00	0.00
+FCNAX	Fidelity Advisor Consumer Discretionary	21.17	21.17	21.17	0	0.02	0.09
+FCNBX	Templeton International Bond Fund Class	10.14	10.14	10.14	0	0.00	0.00
+FCNCX	Nuveen Flagship North Carolina Municipal	11.33	11.33	11.33	0	0.00	0.00
+FCNIX	Fidelity Advisor Consumer Discretionary	22.74	22.74	22.74	0	0.02	0.09
+FCNKX	Fidelity Contra Fund Class K	102.7	102.7	102.7	0	0.0	0.03
+FCNRX	Nuveen Flagship Nc Muni Bd Fd Cl R [Srs	11.38	11.38	11.38	0	0.00	0.00
+FCNTX	Fidelity Contra Fund	102.7	102.7	102.7	0	0.0	0.04
+FCNVX	Fidelity Conservative Income Bond Fd	10.04	10.04	10.04	0	0.00	0.00
+FCNZX	Franklin Connecticut Tax-Free Income	10.86	10.86	10.86	0	0.01	0.09
+FCOCX	Nuveen Flagship Co Muni Bd Fd Cl C [Srs	11.12	11.12	11.12	0	0.00	0.00
+FCOIX	Franklin Colorado Tax-Free Income Fund	12.24	12.24	12.24	0	0.00	0.00
+FCOMX	Forward Commodity Long/Short Strategy Fd	15.66	15.66	15.66	0	-0.13	0.82
+FCONX	Fidelity Conservative Income Bond Fd	10.04	10.04	10.04	0	0.00	0.00
+FCORX	Nuveen Colorado Municipal Bond Fd Cl I	11.14	11.14	11.14	0	0.00	0.00
+FCOTX	Nuveen Flagship Colorado Muni Bd Fd Cl A	11.15	11.15	11.15	0	0.00	0.00
+FCOZX	Franklin Colorado Tax-Free Income Fund	12.10	12.10	12.10	0	0.00	0.00
+FCPAX	Fidelity Advisor Series Vii	16.14	16.14	16.14	0	0.02	0.12
+FCPCX	Fidelity Advisor Series ViII Fidelity	14.40	14.40	14.40	0	0.01	0.07
+FCPEX	Fidelity Small Cap Enhanced Index Fund	12.84	12.84	12.84	0	0.10	0.78
+FCPGX	Fidelity Small Cap Growth Fund	20.41	20.41	20.41	0	0.05	0.25
+FCPIX	Fidelity Advisor International Capital	17.22	17.22	17.22	0	0.01	0.06
+FCPLX	Fa 529 College Port-Cl P	15.47	15.47	15.47	0	0.09	0.59
+FCPOX	Fa 529 College Port-Old Cl A	16.71	16.71	16.71	0	0.10	0.60
+FCPSX	Fa Small Cap 529 Port C	15.04	15.04	15.04	0	0.21	1.42
+FCPVX	Fidelity Small Cap Value Fund	18.47	18.47	18.47	0	0.10	0.54
+FCRDX	Fidelity Conservative Income Municipal	10.05	10.05	10.05	0	0.00	0.00
+FCRFX	Fidelity Advisor Income Replacement 2042	59.67	59.67	59.67	0	0.06	0.10
+FCRPX	Fidelity Advisor Income Replacement Fund	61.34	61.34	61.34	0	0.05	0.08
+FCRSX	Fidelity Advisor Income Replacement Fund	60.28	60.28	60.28	0	0.05	0.08
+FCRVX	Fidelity Advisor Income Replacement 2038	58.32	58.32	58.32	0	0.06	0.10
+FCRWX	Fidelity Advisor Income Replacement 2040	59.61	59.61	59.61	0	0.05	0.08
+FCSAX	Strategic Advisers Core Fund	15.66	15.66	15.66	0	0.11	0.71
+FCSCX	Franklin Adjustable U.S. Government	8.410	8.410	8.410	0	0.000	0.00
+FCSDX	Fidelity Advisor Strategic Dividend &	14.87	14.87	14.87	0	0.02	0.13
+FCSFX	Fidelity Series Commodity Strategy Fd Cl	5.260	5.260	5.260	0	0.040	0.77
+FCSGX	Franklin Small Cap Growth Fd Cl C	15.83	15.83	15.83	0	0.02	0.13
+FCSHX	Fidelity Advisor Limited Term Municipal	10.70	10.70	10.70	0	0.00	0.00
+FCSIX	Nuveen High Income Bond Cl C	7.520	7.520	7.520	0	0.010	0.13
+FCSKX	Franklin Convertible Securities	19.00	19.00	19.00	0	-0.02	0.11
+FCSMX	Franklin International Small Cap Growth	18.18	18.18	18.18	0	0.08	0.44
+FCSPX	Federated Corporate Bond Strategy	11.19	11.19	11.19	0	0.00	0.00
+FCSRX	Fidelity Advisor Strategic Real Return	8.720	8.720	8.720	0	0.030	0.35
+FCSSX	Fidelity Series Commodity Strategy Fd	5.200	5.200	5.200	0	0.030	0.58
+FCSTX	Fidelity California Limited Term	10.80	10.80	10.80	0	0.00	0.00
+FCSZX	Franklin Convertible Securities Fund	18.90	18.90	18.90	0	-0.02	0.11
+FCTCX	Nuveen Flagship Connecticut Municipal	11.02	11.02	11.02	0	0.00	0.00
+FCTFX	Fidelity California Municipal Income	13.45	13.45	13.45	0	0.00	0.00
+FCTGX	Fidelity Advisor Small Cap Growth Fd Cl	19.24	19.24	19.24	0	0.04	0.21
+FCTHX	Fidelity Advisor Freedom 2035 Cl C	12.63	12.63	12.63	0	0.01	0.08
+FCTIX	Franklin Connecticut Tax-Free Income	10.95	10.95	10.95	0	0.01	0.09
+FCTLX	Franklin Total Return Fund - Class C	9.980	9.980	9.980	0	0.010	0.10
+FCTRX	Nuveen Flagship Ct Muni Bd Fd Cl R [Srs	11.07	11.07	11.07	0	0.01	0.09
+FCTTX	Nuveen Flagship Connecticut Muni Bd Fd	11.03	11.03	11.03	0	0.00	0.00
+FCTWX	Fidelity Advisor Freedom 2025 Cl C	12.62	12.62	12.62	0	0.02	0.16
+FCUAX	Franklin California Ultra-Shor	10.000	10.000	10.000	0	0.000	0.00
+FCUZX	Franklin California Ultra-Shor	10.000	10.000	10.000	0	0.000	0.00
+FCVAX	Fidelity Advisor Small Cap Value Fd Cl A	18.15	18.15	18.15	0	0.10	0.55
+FCVCX	Fidelity Advisor Small Cap Value Fd Cl C	16.73	16.73	16.73	0	0.09	0.54
+FCVFX	Fidelity Advisor Value Class C	21.04	21.04	21.04	0	0.06	0.29
+FCVIX	Fidelity Advisor Small Cap Value Fund	18.48	18.48	18.48	0	0.10	0.54
+FCVSX	Fidelity Convertible Securities Fund	27.53	27.53	27.53	0	0.07	0.25
+FCVTX	Fidelity Advisor Small Cap Value Fd Cl T	17.77	17.77	17.77	0	0.10	0.57
+FCWRX	Templeton China World Cl R6	22.63	22.63	22.63	0	0.04	0.18
+FCYIX	Fidelity Select Industrials	31.55	31.55	31.55	0	-0.06	0.19
+FDAAX	Franklin Floating Rate Daily Access Fund	8.750	8.750	8.750	0	0.000	0.00
+FDAFX	Fidelity Advisor Freedom 2020 Cl A	13.03	13.03	13.03	0	0.01	0.08
+FDAGX	Fidelity Advisor Consumer Staples Fund	97.04	97.04	97.04	0	-0.79	0.81
+FDAPX	Fa 529 Diversified Intl Port-Cl A	23.11	23.11	23.11	0	0.60	2.67
+FDASX	Fidelity Advisor Global Strategies Fund	8.990	8.990	8.990	0	0.010	0.11
+FDBAX	Federated Bond Fund Class A	9.390	9.390	9.390	0	0.000	0.00
+FDBBX	Federated Bond Fund Class B	9.450	9.450	9.450	0	0.000	0.00
+FDBCX	Federated Bond Fund Class C	9.450	9.450	9.450	0	0.000	0.00
+FDBIX	Federated Bond Fund Class Is	9.400	9.400	9.400	0	0.000	0.00
+FDCAX	Fidelity Capital Trust Capital	33.03	33.03	33.03	0	0.01	0.03
+FDCCX	Nuveen Nc Municipal Bond Fd Cl C	11.32	11.32	11.32	0	0.00	0.00
+FDCDX	Nuveen Ct Municipal Bond Fd Cl C	11.01	11.01	11.01	0	0.00	0.00
+FDCFX	Fidelity Advisor Freedom 2020 Cl C	12.92	12.92	12.92	0	0.02	0.16
+FDCGX	Fidelity Advisor Consumer Staples Fund	94.59	94.59	94.59	0	-0.77	0.81
+FDCPX	Fidelity Select Computer Pt	76.07	76.07	76.07	0	0.81	1.08
+FDCSX	Fidelity Advisor Global Strategies Fund	8.840	8.840	8.840	0	0.010	0.11
+FDECX	Fidelity Advisor Capital Development	13.23	13.23	13.23	0	0.04	0.30
+FDEEX	Fidelity Freedom 2055 Fund	11.74	11.74	11.74	0	0.01	0.09
+FDEGX	Fidelity Growth Strategies Fund	34.58	34.58	34.58	0	-0.01	0.03
+FDEIX	Fidelity Advisor Capital Development	14.52	14.52	14.52	0	0.04	0.28
+FDEKX	Fidelity Disciplined Equity Fund Class K	33.15	33.15	33.15	0	0.06	0.18
+FDENX	Fidelity Freedome K 2055 Fund	12.01	12.01	12.01	0	0.02	0.17
+FDEQX	Fidelity Disciplined Equity Fund	33.19	33.19	33.19	0	0.07	0.21
+FDERX	Federated Equity Income Fund - R Shares	22.19	22.19	22.19	0	0.03	0.14
+FDESX	Fidelity Advisor Diversified Stock Fund	22.46	22.46	22.46	0	0.06	0.27
+FDETX	Fidelity Advisor Capital Development	14.47	14.47	14.47	0	0.05	0.35
+FDEVX	Tpln Developing Mkt Fd-Cl R6	16.77	16.77	16.77	0	0.01	0.06
+FDEWX	Fidelity Freedom Index 2055 Fd Cl W	12.97	12.97	12.97	0	0.01	0.08
+FDFAX	Fidelity Select Consumer Staples	97.92	97.92	97.92	0	-0.79	0.80
+FDFFX	Fidelity Independence Fund	35.73	35.73	35.73	0	0.15	0.42
+FDFKX	Fidelity Independence Fund Class K	35.76	35.76	35.76	0	0.15	0.42
+FDFWX	American Funds Retirement Income	10.67	10.67	10.67	0	0.00	0.00
+FDGAX	Fa 529 Dividend Growth Port-Cl A	22.34	22.34	22.34	0	0.16	0.72
+FDGCX	Fidelity Advisor Series I Fidelity	16.01	16.01	16.01	0	-0.01	0.06
+FDGDX	Fa 529 Dividend Growth Port-Cl D	21.57	21.57	21.57	0	0.16	0.75
+FDGFX	Fidelity Dividend Growth Fund	31.94	31.94	31.94	0	-0.01	0.03
+FDGGX	Fa 529 Dividend Growth Port-Cl C	20.15	20.15	20.15	0	0.15	0.75
+FDGIX	Fidelity Advisor Dividend Growth Fund	17.61	17.61	17.61	0	0.00	0.00
+FDGKX	Fidelity Dividend Growth Fund Class K	31.93	31.93	31.93	0	-0.01	0.03
+FDGPX	Fa 529 Dividend Growth Port-Cl P	20.83	20.83	20.83	0	0.15	0.73
+FDGRX	Fidelity Growth Co Fund	141.0	141.0	141.0	0	0.3	0.18
+FDGTX	Fidelity Advisor Series I Fidelity	16.74	16.74	16.74	0	0.00	0.00
+FDHAX	First Trust Short Duration High Income	20.05	20.05	20.05	0	0.00	0.00
+FDHCX	First Trust Short Duration High Income	20.03	20.03	20.03	0	0.00	0.00
+FDHIX	First Trust Short Duration High Income	20.05	20.05	20.05	0	0.00	0.00
+FDIAX	Fidelity Advisor Limited Term Bond Fund	11.58	11.58	11.58	0	0.00	0.00
+FDIFX	Fidelity Advisor Freedom 2020 Fund Class	13.14	13.14	13.14	0	0.01	0.08
+FDIGX	Fidelity Advisor Consumer Staples Fund	97.75	97.75	97.75	0	-0.80	0.81
+FDIIX	Fa 529 Diversified Intl Port-Cl C	20.84	20.84	20.84	0	0.54	2.66
+FDIKX	Fidelity Diversified International Fund	35.98	35.98	35.98	0	0.01	0.03
+FDIPX	Fa 529 Diversified Intl Port-Cl D	22.33	22.33	22.33	0	0.58	2.67
+FDIVX	Fidelity Diversified International Fund	36.02	36.02	36.02	0	0.01	0.03
+FDKLX	Fidelity Freedom Index 2060 Fund - Class	10.57	10.57	10.57	0	0.01	0.09
+FDKNX	Fidelity Freedom K 2060 Fund	10.50	10.50	10.50	0	0.02	0.19
+FDKPX	Fidelity Advisor Freedom 2060 Fund	10.20	10.20	10.20	0	0.01	0.10
+FDKQX	Fidelity Advisor Freedom 2060 Fund Class	10.23	10.23	10.23	0	0.01	0.10
+FDKSX	Fidelity Advisor Freedom 2060 Fund	10.23	10.23	10.23	0	0.01	0.10
+FDKTX	Fidelity Advisor Freedom 2060 Fund	10.20	10.20	10.20	0	0.01	0.10
+FDKVX	Fidelity Freedom 2060 Fund	10.42	10.42	10.42	0	0.02	0.19
+FDLSX	Fidelity Select Leisure & Entertainment	135.2	135.2	135.2	0	0.5	0.40
+FDMAX	Fidelity Advisor Communications	12.51	12.51	12.51	0	0.00	0.00
+FDMCX	Fidelity Advisor Communications	11.11	11.11	11.11	0	0.00	0.00
+FDMIX	Fidelity Advisor Communications	12.98	12.98	12.98	0	-0.01	0.08
+FDMLX	Fidelity Series Intrinsic Opportunities	15.14	15.14	15.14	0	0.06	0.40
+FDMMX	Fidelity Massachuseets Municipal Income	12.83	12.83	12.83	0	0.00	0.00
+FDMTX	Fidelity Advisor Communications	12.06	12.06	12.06	0	0.00	0.00
+FDNRX	Franklin Dynatech Fd Cl R	50.55	50.55	50.55	0	-0.03	0.06
+FDPIX	Falling U.S. Dollar Profund Investor	17.81	17.81	17.81	0	-0.02	0.11
+FDPPX	Fa 529 Diversified Intl Port-Cl P	21.57	21.57	21.57	0	0.56	2.67
+FDPSX	Falling U.S. Dollar Profund Service	16.96	16.96	16.96	0	-0.01	0.06
+FDRAX	Federated Managed Risk Fund- A Shares	8.970	8.970	8.970	0	0.020	0.22
+FDRIX	Federated Managed Risk Fund- Is Shares	8.990	8.990	8.990	0	0.020	0.22
+FDSAX	Focused Dividend Strategy Portfolio	17.18	17.18	17.18	0	0.16	0.94
+FDSBX	Focused Dividend Strategy Portfolio	17.05	17.05	17.05	0	0.15	0.89
+FDSCX	Fidelity Stock Selector Small Cap Fund	24.86	24.86	24.86	0	0.13	0.53
+FDSFX	Frost Conservative Allocation Fund	10.73	10.73	10.73	0	0.00	0.00
+FDSSX	Fidelity Stock Selector All Cap Fund	36.30	36.30	36.30	0	0.00	0.00
+FDSTX	Focused Dividend Strategy Portfolio	17.03	17.03	17.03	0	0.15	0.89
+FDSVX	Fidelity Growth Discovery Fund	26.09	26.09	26.09	0	-0.02	0.08
+FDSWX	Sunamerica Series Inc. Focused Dividend	17.17	17.17	17.17	0	0.15	0.88
+FDTCX	Fidelity Advisor Diversified Stock Fund	21.23	21.23	21.23	0	0.06	0.28
+FDTEX	Fidelity Advisor Diversified Stock Fund	21.72	21.72	21.72	0	0.06	0.28
+FDTFX	Fidelity Advisor Freedom 2020 Cl T	13.02	13.02	13.02	0	0.01	0.08
+FDTGX	Fidelity Advisor Consumer Staples Fund	96.21	96.21	96.21	0	-0.79	0.81
+FDTIX	Fidelity Advisor Diversified Stock Fund	23.13	23.13	23.13	0	0.06	0.26
+FDTOX	Fidelity Advisor Diversified Stock Fund	21.90	21.90	21.90	0	0.06	0.27
+FDTRX	Franlin Dynatech Fund Cl R6	53.17	53.17	53.17	0	-0.03	0.06
+FDTSX	Fidelity Advisor Global Strategies Fund	8.960	8.960	8.960	0	0.010	0.11
+FDTTX	Fidelity Advisor Capital Development	14.02	14.02	14.02	0	0.05	0.36
+FDTZX	Fidelity Advisor Capital Development	13.67	13.67	13.67	0	0.04	0.29
+FDVAX	Fidelity Advisor Series ViII Fidelity	20.30	20.30	20.30	0	0.01	0.05
+FDVIX	Fidelity Advisor Diversified	20.65	20.65	20.65	0	0.01	0.05
+FDVLX	Fidelity Value Fund	106.5	106.5	106.5	0	0.3	0.28
+FDXAX	Nuveen Mid Cap Index Class A	18.47	18.47	18.47	0	0.07	0.38
+FDXCX	Nuveen Mid Cap Index Fund Class C	17.69	17.69	17.69	0	0.07	0.40
+FDYAX	Forward Dynamic Income Fund - Class A	26.40	26.40	26.40	0	-0.11	0.41
+FDYIX	Fidelity Advisor Global Strategies Fund	9.030	9.030	9.030	0	0.010	0.11
+FDYNX	Franklin Dynatech Fund Class C	44.42	44.42	44.42	0	-0.02	0.05
+FDYRX	Forward Dynamic Income Fund - Investor	26.45	26.45	26.45	0	-0.10	0.38
+FDYSX	Fidelity Global Strategies Fund	9.030	9.030	9.030	0	0.010	0.11
+FDYTX	Forward Dynamic Income Fund -	26.49	26.49	26.49	0	-0.10	0.38
+FDYZX	Franklin Dynatech Fund Class Advisor	52.87	52.87	52.87	0	-0.03	0.06
+FEAAX	Fidelity Advisor Series ViII Fidelity	31.50	31.50	31.50	0	-0.04	0.13
+FEAFX	First Eagle Fund of America Class Y	35.66	35.66	35.66	0	0.05	0.14
+FEAIX	First Eagle Fd of America Cl I	35.71	35.71	35.71	0	0.05	0.14
+FEAMX	First Eagle Fund of America Class C	28.97	28.97	28.97	0	0.04	0.14
+FEATX	Fidelity Advisor Series ViII Fidelity	30.61	30.61	30.61	0	-0.04	0.13
+FEBAX	First Eagle Global Income Builder Fd Cl	11.23	11.23	11.23	0	0.01	0.09
+FEBCX	First Eagle Global Income Builder Fd Cl	11.20	11.20	11.20	0	0.01	0.09
+FEBIX	First Eagle Global Income Builder Fd Cl	11.20	11.20	11.20	0	0.00	0.00
+FEBPX	Strategic Advisers Multi Manager Income	10.29	10.29	10.29	0	0.06	0.59
+FECPX	Strategic Advisers Multi Manager 2030 Fd	10.85	10.85	10.85	0	0.14	1.31
+FEDAX	Fidelity Advisor Emerging Markets	12.41	12.41	12.41	0	0.00	0.00
+FEDCX	Fidelity Series Emerging Markets Debt Fd	10.38	10.38	10.38	0	0.05	0.48
+FEDDX	Fidelity Emerging Markets Discovery Fd	12.48	12.48	12.48	0	0.00	0.00
+FEDFX	Fidelity Series Emerging Markets Debt Fd	10.38	10.38	10.38	0	0.05	0.48
+FEDGX	Fidelity Advisor Emerging Markets	12.13	12.13	12.13	0	0.00	0.00
+FEDIX	Fidelity Advisor Emerging Markets	12.51	12.51	12.51	0	0.00	0.00
+FEDPX	Strategic Advisers Multi Manager 2025 Fd	11.02	11.02	11.02	0	0.13	1.19
+FEDTX	Fidelity Advisor Emerging Markets	12.35	12.35	12.35	0	-0.01	0.08
+FEFAX	First Eagle Fund of America Class A	34.88	34.88	34.88	0	0.05	0.14
+FEFCX	Franklin Focused Core Equity Fund Class	14.03	14.03	14.03	0	0.03	0.21
+FEFIX	Fidelity Advisor Freedom 2030 Fund Class	13.65	13.65	13.65	0	0.02	0.15
+FEGAX	Fa 529 Equity Growth Port-Cl A	24.42	24.42	24.42	0	0.29	1.20
+FEGCX	Fa 529 Equity Growth Port-Cl C	21.90	21.90	21.90	0	0.26	1.20
+FEGDX	Fa 529 Equity Growth Port-Cl D	23.52	23.52	23.52	0	0.28	1.20
+FEGIX	First Eagle Gold Fund Class I	20.65	20.65	20.65	0	-0.07	0.34
+FEGOX	First Eagle Gold Fund Class C	19.00	19.00	19.00	0	-0.07	0.37
+FEGPX	Fa 529 Equity Growth Port-Cl P	22.72	22.72	22.72	0	0.27	1.20
+FEHAX	First Eagle High Yield Fd Cl A	8.870	8.870	8.870	0	0.020	0.23
+FEHCX	First Eagle High Yield Fd Cl C	8.860	8.860	8.860	0	0.010	0.11
+FEHIX	First Eagle High Yield Fd Cl I	8.870	8.870	8.870	0	0.010	0.11
+FEHPX	Strategic Advisers Multi Manager 2005 Fd	10.45	10.45	10.45	0	0.08	0.77
+FEIAX	Fidelity Advisor Series III Fidelity	31.13	31.13	31.13	0	0.05	0.16
+FEICX	Fidelity Advisor Series III Fidelity	31.29	31.29	31.29	0	0.05	0.16
+FEIDX	Fa 529 Equity Income Port-Cl D	21.57	21.57	21.57	0	0.16	0.75
+FEIFX	Fist Equity Income Fund - Advisor Class	23.23	23.23	23.23	0	-0.03	0.13
+FEIIX	Nuveen Equity Index Fund Cl I	28.19	28.19	28.19	0	0.01	0.04
+FEIKX	Fidelity Equity Income Fund Class K	55.55	55.55	55.55	0	0.08	0.14
+FEIMX	Fa Strategic Income 529 Port Z	11.42	11.42	11.42	0	0.06	0.53
+FEIPX	Fa 529 Equity Income Port-Cl P	20.88	20.88	20.88	0	0.15	0.72
+FEIQX	Franklin Equity Income Fund Class R6	23.23	23.23	23.23	0	-0.03	0.13
+FEIRX	Fidelity Advisor Equity Income Fund T	31.73	31.73	31.73	0	0.06	0.19
+FEISX	Nuveen Dividend Value Fund Class R3	15.51	15.51	15.51	0	0.05	0.32
+FEIXX	Retail Prime Obligations Fund Class T	0.2800	0.2800	0.2800	0	0.0100	3.70
+FEIZX	Fa 529 Equity Income Port-Cl A	22.36	22.36	22.36	0	0.16	0.72
+FEJPX	Strategic Advisers Multi Manager 2015 Fd	10.82	10.82	10.82	0	0.10	0.93
+FEKAX	Federated Equity Advantage Fund - A	12.54	12.54	12.54	0	-0.03	0.24
+FEKIX	Federated Equity Advantage Fund - Is	12.54	12.54	12.54	0	-0.02	0.16
+FEKPX	Strategic Advisers Multi Manager 2020 Fd	10.82	10.82	10.82	0	0.11	1.03
+FELAX	Fidelity Advisor Electronics Cl A	17.45	17.45	17.45	0	-0.08	0.46
+FELCX	Fidelity Advisor Electronics Cl C	15.53	15.53	15.53	0	-0.07	0.45
+FELIX	Fidelity Advisor Electronics Fund Class	18.24	18.24	18.24	0	-0.09	0.49
+FELTX	Fidelity Advisor Electronics Cl T	16.82	16.82	16.82	0	-0.08	0.47
+FEMCX	Fidelity Advisor Emerging Europe Middle	8.160	8.160	8.160	0	-0.010	0.12
+FEMDX	Franklin Templeton Emerging Markets Debt	11.07	11.07	11.07	0	0.02	0.18
+FEMEX	Fidelity Advisor Emerging Europe Middle	8.230	8.230	8.230	0	-0.010	0.12
+FEMFX	Fidelity Series Emerging Markets Fund Cl	17.18	17.18	17.18	0	-0.03	0.17
+FEMGX	Templeton Emerging Markets Bond Fd Cl A	8.890	8.890	8.890	0	0.000	0.00
+FEMIX	Fidelity Advisor New York Municipal	13.85	13.85	13.85	0	0.00	0.00
+FEMKX	Fidelity Emerging Markets Fund	24.94	24.94	24.94	0	-0.10	0.40
+FEMMX	Forward Emerging Markets Fund Advisors	9.570	9.570	9.570	0	-0.020	0.21
+FEMPX	Strategic Advisers Multi Manager 2010 Fd	10.62	10.62	10.62	0	0.09	0.85
+FEMSX	Fidelity Series Emerging Markets Fund	17.12	17.12	17.12	0	-0.03	0.17
+FEMTX	Fidelity Advisor Emerging Europe Middle	8.190	8.190	8.190	0	-0.010	0.12
+FENPX	Strategic Advisers Multi Manager 2035 Fd	11.11	11.11	11.11	0	0.16	1.46
+FEOVX	First Eagle Overseas Variable Fund	27.56	27.56	27.56	0	0.02	0.07
+FEPAX	Fidelity Advisor Total Bond Fund Class A	10.90	10.90	10.90	0	0.01	0.09
+FEPCX	Fa 529 Equity Income Port-Cl C	20.12	20.12	20.12	0	0.14	0.70
+FEPIX	Fidelity Advisor Total Bond Fund Class I	10.87	10.87	10.87	0	0.00	0.00
+FEPTX	Fidelity Advisor Total Bond Fund Class T	10.88	10.88	10.88	0	0.01	0.09
+FEQIX	Fidelity Equity Income Fund	55.57	55.57	55.57	0	0.08	0.14
+FEQTX	Fidelity Equity Dividend Income Fd	26.86	26.86	26.86	0	0.01	0.04
+FERCX	Fidelity Advisor Emerging Asia Cl C	28.69	28.69	28.69	0	-0.03	0.10
+FERGX	Fidelity Sai Emerging Markets Index Fund	12.19	12.19	12.19	0	-0.03	0.25
+FERIX	Fidelity Advisor Emerging Asia Fund	32.46	32.46	32.46	0	-0.04	0.12
+FESGX	First Eagle Global Fund Class C	55.70	55.70	55.70	0	0.03	0.05
+FESIX	Fidelity Sai Real Estate Index Fund	11.85	11.85	11.85	0	0.07	0.59
+FESOX	First Eagle Overseas Fund Class C	23.39	23.39	23.39	0	0.01	0.04
+FESPX	Strategic Advisers Multi Manager 2055 Fd	11.24	11.24	11.24	0	0.16	1.44
+FETIX	Federated Enhanced Treasury Income Fund	14.08	14.08	14.08	0	0.01	0.07
+FETKX	Fidelity Equity Dividend Income Fd Cl K	26.86	26.86	26.86	0	0.01	0.04
+FEUCX	Fidelity Advisor Global Equity Cl C	14.76	14.76	14.76	0	0.03	0.20
+FEUGX	Federated Adjustable Rate Securities	9.700	9.700	9.700	0	0.000	0.00
+FEUIX	Fidelity Advisor Global Capital	17.46	17.46	17.46	0	0.04	0.23
+FEUSX	Federated Government Ultrashort Duration	9.870	9.870	9.870	0	0.000	0.00
+FEVAX	First Eagle U.S. Value Fund Class A	20.57	20.57	20.57	0	-0.01	0.05
+FEVCX	First Eagle U.S. Value Fund Class C	20.06	20.06	20.06	0	0.00	0.00
+FEVIX	First Eagle U.S. Value Fund Class I	20.88	20.88	20.88	0	0.00	0.00
+FEWPX	Strategic Advisers Multi Manager 2040 Fd	11.04	11.04	11.04	0	0.16	1.47
+FEXKX	Fidelity Export & Multinational Fund	21.70	21.70	21.70	0	0.00	0.00
+FEXPX	Fidelity Export and Multinational Fund	21.73	21.73	21.73	0	0.00	0.00
+FEYAX	Fidelity Advisor Asset Manager 85% Class	16.58	16.58	16.58	0	0.00	0.00
+FEYCX	Fidelity Advisor Asset Manager 85% Class	16.28	16.28	16.28	0	0.01	0.06
+FEYIX	Fidelity Advisor Asset Manager 85% Class	16.68	16.68	16.68	0	0.01	0.06
+FEYPX	Strategic Advisors Multi Manager 2050 Fd	11.03	11.03	11.03	0	0.15	1.38
+FEYTX	Fidelity Advisor Asset Manager 85% Class	16.47	16.47	16.47	0	0.00	0.00
+FEZPX	Strategic Advisors Multi Manager 2045 Fd	11.25	11.25	11.25	0	0.16	1.44
+FFAAX	Franklin Templeton Founding Funds	13.19	13.19	13.19	0	0.03	0.23
+FFACX	Franklin Templeton Founding Funds	12.90	12.90	12.90	0	0.03	0.23
+FFAGX	Fa 529 Aggressive Growth Port Class A	20.35	20.35	20.35	0	0.33	1.65
+FFAIX	Nuveen Core Plus Bond Fund Cl C	11.16	11.16	11.16	0	0.00	0.00
+FFALX	Franklin Templeton Founding Funds	13.11	13.11	13.11	0	0.03	0.23
+FFAMX	Fidelity Advisor Asset Manager 50% Class	17.00	17.00	17.00	0	0.01	0.06
+FFANX	Fidelity Asset Manager 40%	11.00	11.00	11.00	0	0.01	0.09
+FFARX	Franklin Templeton Founding Funds	13.13	13.13	13.13	0	0.04	0.31
+FFAVX	Fidelity Advisor Freedom 2005 Cl A	11.83	11.83	11.83	0	0.01	0.08
+FFBFX	Emerald Banking and Finance Fd -	31.64	31.64	31.64	0	0.22	0.70
+FFCCX	Forward Commodity Long/Short Strategy Fd	15.27	15.27	15.27	0	-0.13	0.84
+FFCGX	Fa 529 Aggressive Growth Port Class C	18.27	18.27	18.27	0	0.29	1.61
+FFCMX	Fidelity Advisor Asset Manager 50% Class	16.89	16.89	16.89	0	0.01	0.06
+FFCRX	Franklin Flex Cap Growth Fund Cl R6	48.04	48.04	48.04	0	0.09	0.19
+FFCXX	First American Tax Free Obligations Fund	0.1800	0.1800	0.1800	0	0.0100	5.88
+FFDAX	Forward International Dividend Fd Cl A	8.010	8.010	8.010	0	0.010	0.13
+FFDKX	Fidelity Fund Class K	42.02	42.02	42.02	0	-0.06	0.14
+FFECX	Nuveen Dividend Value Fd Cl C	15.32	15.32	15.32	0	0.05	0.33
+FFEDX	Fidelity Freedom Index 2025 Fund Class W	15.13	15.13	15.13	0	0.02	0.13
+FFEFX	Nuveen Dividend Value Fd Cl R6	15.77	15.77	15.77	0	0.05	0.32
+FFEGX	Fidelity Freedom Index 2030 Fund Class W	15.49	15.49	15.49	0	0.01	0.06
+FFEIX	Nuveen Dividend Value Fund Class A	15.55	15.55	15.55	0	0.04	0.26
+FFEZX	Fidelity Freedom Index 2035 Fund Class W	16.04	16.04	16.04	0	0.02	0.12
+FFFAX	Fidelity Freedom Income Fund	11.63	11.63	11.63	0	0.01	0.09
+FFFCX	Fidelity Freedom 2010 Fund	15.41	15.41	15.41	0	0.01	0.06
+FFFDX	Fidelity Freedom 2020 Fund	15.36	15.36	15.36	0	0.02	0.13
+FFFEX	Fidelity Freedom 2030 Fund	16.05	16.05	16.05	0	0.03	0.19
+FFFFX	Fidelity Freedom 2040	9.250	9.250	9.250	0	0.010	0.11
+FFFGX	Fidelity Freedom 2045 Fund	10.46	10.46	10.46	0	0.02	0.19
+FFFHX	Fidelity Freedom 2050 Fund	10.51	10.51	10.51	0	0.02	0.19
+FFFIX	Fidelity Advisor Freedom 2045 Fund Class	10.76	10.76	10.76	0	0.02	0.19
+FFFJX	Fidelity Advisor Freedom 2045 Fund Class	10.50	10.50	10.50	0	0.01	0.10
+FFFLX	Fidelity Advisor Freedom 2050 Fund Class	10.63	10.63	10.63	0	0.02	0.19
+FFFPX	Fidelity Advisor Freedom 2050 Fund Class	10.69	10.69	10.69	0	0.01	0.09
+FFFQX	Fidelity Advisor Freedom 2050 Fund Class	10.57	10.57	10.57	0	0.01	0.09
+FFFTX	Fidelity Advisor Freedom 2045 Fund Class	10.61	10.61	10.61	0	0.01	0.09
+FFFVX	Fidelity Freedom 2005	12.15	12.15	12.15	0	0.01	0.08
+FFFYX	Fidelity Advisor Freedom 2050 Fund Class	10.47	10.47	10.47	0	0.01	0.10
+FFFZX	Fidelity Advisor Freedom 2045 Fund Class	10.69	10.69	10.69	0	0.02	0.19
+FFGAX	Fidelity Advisor Global Commodity Stock	10.95	10.95	10.95	0	0.01	0.09
+FFGCX	Fidelity Global Commodity Stock Fund	10.97	10.97	10.97	0	0.00	0.00
+FFGFX	Fidelity Freedom Index 2005 Fund Class W	12.91	12.91	12.91	0	0.01	0.08
+FFGIX	Fidelity Advisor Global Commodity Stock	10.97	10.97	10.97	0	0.01	0.09
+FFGRX	Emerald Growth Fund Inv Cl	19.76	19.76	19.76	0	0.13	0.66
+FFGSX	Fidelity Series Growth Company Fund	13.34	13.34	13.34	0	0.03	0.23
+FFGTX	Fidelity Advisor Global Commodity Stock	10.93	10.93	10.93	0	0.00	0.00
+FFGZX	Fidelity Freedom Index Income Fund Class	11.65	11.65	11.65	0	0.01	0.09
+FFHCX	Fidelity Series Floating Rate High	9.380	9.380	9.380	0	0.010	0.11
+FFHFX	Fidelity Series Floting Rate High Income	9.380	9.380	9.380	0	0.010	0.11
+FFIDX	Fidelity Fund	42.03	42.03	42.03	0	-0.07	0.17
+FFIEX	Forward International Dividend Fund	6.510	6.510	6.510	0	0.000	0.00
+FFIGX	Fidelity Series International Growth	14.23	14.23	14.23	0	0.02	0.14
+FFIHX	Ai U.S. Inflation-Protected Fund - Class	10.94	10.94	10.94	0	0.01	0.09
+FFIIX	Nuveen Core Plus Bond Fund Cl I	11.19	11.19	11.19	0	0.00	0.00
+FFILX	Formulafolios US Equity Fund	10.61	10.61	10.61	0	0.01	0.09
+FFIMX	Fidelity Advisor Asset Manager 50% Class	17.04	17.04	17.04	0	0.01	0.06
+FFINX	Forward International Dividend Fund	8.010	8.010	8.010	0	0.010	0.13
+FFIOX	Formulafolios US Equity Fund Investor	10.58	10.58	10.58	0	0.01	0.09
+FFIPX	Fidelity Series Inflation-Protected Bond	10.03	10.03	10.03	0	0.01	0.10
+FFIRX	Forward International Real Estate Fund	14.29	14.29	14.29	0	0.01	0.07
+FFISX	Nuveen Core Plus Bond Fund Class R	11.25	11.25	11.25	0	0.00	0.00
+FFIVX	Fidelity Advisor Freedom 2005 Fund Class	11.91	11.91	11.91	0	0.01	0.08
+FFIXX	Money Market Fund Institutional Class	0.3800	0.3800	0.3800	0	0.0000	0.00
+FFIZX	Fidelity Freedom Index 2040 Fund Class W	16.13	16.13	16.13	0	0.02	0.12
+FFKAX	Fidelity Freedom K Income Fund	11.91	11.91	11.91	0	0.01	0.08
+FFKCX	Fidelity Freedom K 2010 Fund	13.02	13.02	13.02	0	0.01	0.08
+FFKDX	Fidelity Freedom K 2020 Fund	14.29	14.29	14.29	0	0.01	0.07
+FFKEX	Fidelity Freedom K 2030 Fund	15.13	15.13	15.13	0	0.03	0.20
+FFKFX	Fidelity Freedom K 2040 Fund	15.59	15.59	15.59	0	0.02	0.13
+FFKGX	Fidelity Freedom K 2045 Fund	16.05	16.05	16.05	0	0.03	0.19
+FFKHX	Fidelity Freedom K 2050 Fund	16.17	16.17	16.17	0	0.02	0.12
+FFKVX	Fidelity Freedom K 2005 Fund	13.05	13.05	13.05	0	0.01	0.08
+FFLDX	Fidelity Freedom Index 2055 Fund Class W	12.98	12.98	12.98	0	0.01	0.08
+FFLEX	Fidelity Freedom Index 2060 Fund Class W	10.57	10.57	10.57	0	0.01	0.09
+FFMRX	Templeton Frontier Markets Fd Cl R6	10.97	10.97	10.97	0	0.02	0.18
+FFMXX	Money Market Fund Retail Class	0.3000	0.3000	0.3000	0	0.0000	0.00
+FFNAX	Fidelity Advisor Asset Manager 40% Class	11.00	11.00	11.00	0	0.01	0.09
+FFNCX	Fidelity Advisor Asset Manager 40% Class	10.95	10.95	10.95	0	0.00	0.00
+FFNIX	Fidelity Advisor Asset Manager 40% Class	11.00	11.00	11.00	0	0.00	0.00
+FFNOX	Fidelity Oxford Street Trust Fidelity	38.67	38.67	38.67	0	0.05	0.13
+FFNTX	Fidelity Advisor Asset Manager 40% Class	10.98	10.98	10.98	0	0.00	0.00
+FFOGX	Fa 529 Aggressive Growth Port Old Class	20.31	20.31	20.31	0	0.33	1.65
+FFOLX	Fidelity Freedom Index 2045 Fund Class W	16.27	16.27	16.27	0	0.02	0.12
+FFOPX	Fidelity Freedom Index 2050 Fund Class W	16.38	16.38	16.38	0	0.01	0.06
+FFPGX	Fa 529 Aggressive Growth Port Class P	19.16	19.16	19.16	0	0.31	1.64
+FFRAX	Fidelity Advisor Floating Rate High	9.540	9.540	9.540	0	0.000	0.00
+FFRCX	Fidelity Advisor Floating Rate High	9.540	9.540	9.540	0	0.000	0.00
+FFRDX	Franklin Floating Rate Daily Access Fund	8.750	8.750	8.750	0	0.010	0.11
+FFREX	Forward Real Estate Fund Investor Class	16.04	16.04	16.04	0	0.12	0.75
+FFRGX	Fa 529 Aggressive Growth Port Class D	19.80	19.80	19.80	0	0.32	1.64
+FFRHX	Fidelity Floating Rate High Income	9.530	9.530	9.530	0	0.010	0.11
+FFRIX	Fidelity Advisor Floating Rate High	9.520	9.520	9.520	0	0.000	0.00
+FFRMX	Templeton Frontier Markets Fund Class C	10.74	10.74	10.74	0	0.02	0.19
+FFRSX	Federated Floating Rate Strategic Income	9.880	9.880	9.880	0	0.000	0.00
+FFRTX	Fidelity Advisor Floating Rate High	9.530	9.530	9.530	0	0.010	0.11
+FFRZX	Templeton Frontier Markets Fund Class	10.96	10.96	10.96	0	0.02	0.18
+FFSAX	Touchstone Flexible Income Fd Cl A	10.99	10.99	10.99	0	0.01	0.09
+FFSIX	Fidelity Advisor Financial Services Fund	16.26	16.26	16.26	0	0.02	0.12
+FFSLX	Forward Select Income Fund Investor	25.03	25.03	25.03	0	0.06	0.24
+FFSMX	Fidelity Spartan Total Market Index Fd	63.62	63.62	63.62	0	0.06	0.09
+FFSPX	Strategic Advisers Growth Multi-Manager	13.13	13.13	13.13	0	0.00	0.00
+FFSRX	Forward Real Estate Long/Short Fd Inv Cl	37.25	37.25	37.25	0	0.23	0.62
+FFSTX	Fidelity Series International Small Cap	15.76	15.76	15.76	0	0.01	0.06
+FFTFX	Franklin Federal Limited Term Tax-Free	10.41	10.41	10.41	0	-0.01	0.10
+FFTGX	Forward Tactical Growth Fund Investor	25.22	25.22	25.22	0	0.02	0.08
+FFTHX	Fidelity Freedom 2035	13.18	13.18	13.18	0	0.02	0.15
+FFTMX	Fidelity Advisor Asset Manager 50% Class	16.99	16.99	16.99	0	0.01	0.06
+FFTTX	Fidelity Series Long-Term Treas	9.800	9.800	9.800	0	0.000	0.00
+FFTVX	Fidelity Advisor Freedom 2005 Cl T	11.81	11.81	11.81	0	0.01	0.08
+FFTWX	Fidelity Freedom 2025	13.13	13.13	13.13	0	0.02	0.15
+FFVAX	Fidelity Advisor Freedom 2015 Cl A	12.28	12.28	12.28	0	0.01	0.08
+FFVCX	Fidelity Advisor Freedom 2015 Cl C	12.16	12.16	12.16	0	0.01	0.08
+FFVFX	Fidelity Freedom 2015	12.62	12.62	12.62	0	0.02	0.16
+FFVIX	Fidelity Advisor Freedom 2015 Fund Class	12.38	12.38	12.38	0	0.01	0.08
+FFVNX	Fidelity Series International Value Fund	9.660	9.660	9.660	0	0.020	0.21
+FFVTX	Fidelity Advisor Freedom 2015 Cl T	12.25	12.25	12.25	0	0.01	0.08
+FFWTX	Fidelity Freedom Index 2010 Fund Class W	13.62	13.62	13.62	0	0.02	0.15
+FFXCX	Forward EM Corporate Debt Fund Cl C	7.910	7.910	7.910	0	0.010	0.13
+FFXIX	Forward EM Corporate Debt Fund Insti	7.820	7.820	7.820	0	0.010	0.13
+FFXMX	Forward EM Corporate Debt Fund Advisor	7.810	7.810	7.810	0	0.020	0.26
+FFXRX	Forward EM Corporate Debt Fund Investor	7.890	7.890	7.890	0	0.020	0.25
+FFXSX	Fidelity Limited Term Government Fund	10.12	10.12	10.12	0	0.00	0.00
+FGABX	Fidelity Advisor Global Equity Income Fd	12.77	12.77	12.77	0	0.00	0.00
+FGACX	Nuveen Flagship Georgia Municipal Bond	11.24	11.24	11.24	0	0.00	0.00
+FGADX	Franklin Gold and Precious Metals Fund	24.44	24.44	24.44	0	-0.04	0.16
+FGAIX	Franklin Georgia Tax-Free Income Fund	12.65	12.65	12.65	0	0.00	0.00
+FGALX	Fa 529 Growth Opportunities Port-Cl A	16.02	16.02	16.02	0	0.26	1.65
+FGARX	Nuveen Flagship Ga Muni Bd Fd Cl R [Srs	11.25	11.25	11.25	0	0.00	0.00
+FGATX	Nuveen Flagship Georgia Muni Bd Fd Cl A	11.29	11.29	11.29	0	0.00	0.00
+FGBAX	Fidelity Advisor Investment Grade Bond	8.050	8.050	8.050	0	0.000	0.00
+FGBCX	Fidelity Advisor Investment Grade Bond	8.060	8.060	8.060	0	0.000	0.00
+FGBFX	Fidelity Global Bond Fund Retail Class	9.470	9.470	9.470	0	0.010	0.11
+FGBIX	Fidelity Advisor Global Bond Fund -	9.460	9.460	9.460	0	0.000	0.00
+FGBLX	Fidelity Global Balanced Fund	23.65	23.65	23.65	0	0.02	0.08
+FGBPX	Fidelity Advisor Investment Grade Bond	8.070	8.070	8.070	0	0.010	0.12
+FGBRX	Templeton Global Bond Fund Class R	11.38	11.38	11.38	0	0.00	0.00
+FGBTX	Fidelity Advisor Investment Grade Bond	8.060	8.060	8.060	0	0.010	0.12
+FGBWX	Fidelity Advisor Global Bond Fund Class	9.460	9.460	9.460	0	0.000	0.00
+FGBYX	Fidelity Advisor Global Bond Fund Class	9.440	9.440	9.440	0	0.000	0.00
+FGBZX	Fidelity Advisor Global Bond Fund Class	9.460	9.460	9.460	0	0.000	0.00
+FGCIX	Federated Short-Intermediate Total	10.45	10.45	10.45	0	0.00	0.00
+FGCKX	Fidelity Growth Company Fund Class K	141.0	141.0	141.0	0	0.3	0.18
+FGCSX	Federated Short-Intermediate Total	10.44	10.44	10.44	0	0.00	0.00
+FGDAX	Fidelity Advisor Gold Fund Class A	25.90	25.90	25.90	0	-0.11	0.42
+FGDCX	Fidelity Advisor Gold Fund Class C	24.39	24.39	24.39	0	-0.11	0.45
+FGDIX	Fidelity Advisor Gold Fund Class I	26.53	26.53	26.53	0	-0.12	0.45
+FGDKX	Fidelity Growth Discovery Fund Class K	26.11	26.11	26.11	0	-0.02	0.08
+FGDPX	Fa 529 Growth Opportunities Port-Cl C	15.59	15.59	15.59	0	0.24	1.56
+FGDTX	Fidelity Advisor Gold Fund Class T	25.43	25.43	25.43	0	-0.12	0.47
+FGDXX	First American Mm Fds Gv Obligations	0.0100	0.0100	0.0100	0	0.0000	0.00
+FGEAX	Fidelity Advisor Global Equity Cl A	16.73	16.73	16.73	0	0.04	0.24
+FGETX	Fidelity Advisor Global Equity Cl T	16.09	16.09	16.09	0	0.04	0.25
+FGFAX	Federated International Leaders Fund	30.07	30.07	30.07	0	0.09	0.30
+FGFBX	Federated International Leaders Fund	28.05	28.05	28.05	0	0.08	0.29
+FGFCX	Federated International Leaders Fund	27.93	27.93	27.93	0	0.08	0.29
+FGFIX	Federated Mortgage Fund Institutional	9.820	9.820	9.820	0	0.010	0.10
+FGFLX	Federated International Leaders Fund	30.16	30.16	30.16	0	0.09	0.30
+FGFRX	Federated International Leaders Fund- R	29.90	29.90	29.90	0	0.09	0.30
+FGFSX	Federated Mortgage Fund Svc Shs	9.810	9.810	9.810	0	0.000	0.00
+FGFWX	American Funds Retirement Income	10.89	10.89	10.89	0	0.00	0.00
+FGGAX	Franklin Global Government Bond Fund Cl	9.800	9.800	9.800	0	0.010	0.10
+FGHAX	Fidelity Advisor Global High Income Fd	9.460	9.460	9.460	0	0.010	0.11
+FGHCX	Fidelity Advisor Global High Income Fd	9.460	9.460	9.460	0	0.010	0.11
+FGHIX	Fidelity Advisor Global High Income Fund	9.460	9.460	9.460	0	0.010	0.11
+FGHNX	Fidelity Global High Income Fd	9.460	9.460	9.460	0	0.010	0.11
+FGHTX	Fidelity Advisor Global High Income Fd	9.460	9.460	9.460	0	0.010	0.11
+FGIAX	Nuveen Global Infrastructure Fd Cl A	11.31	11.31	11.31	0	0.04	0.35
+FGIBX	First Investors Growth & Income Fund B	20.17	20.17	20.17	0	0.00	0.00
+FGIKX	Fidelity Growth & Income Portfolio Class	31.23	31.23	31.23	0	0.07	0.22
+FGILX	Fidelity Global Equity Income Fd	12.39	12.39	12.39	0	-0.01	0.08
+FGIMX	Forward Global Infrastructure Fund	22.86	22.86	22.86	0	-0.07	0.31
+FGINX	First Investors Growth & Income A [A	21.75	21.75	21.75	0	0.00	0.00
+FGIOX	Fidelity Advisor Growth & Income Fund	26.27	26.27	26.27	0	0.06	0.23
+FGIPX	First Investors Growth & Income Fd Adv	21.91	21.91	21.91	0	0.00	0.00
+FGIQX	First Investors Growth & Income Fd Inst	21.83	21.83	21.83	0	0.00	0.00
+FGIRX	Fidelity Advisor Series I Fidelity	25.80	25.80	25.80	0	0.07	0.27
+FGITX	Fidelity Advisor Series I Fidelity	25.79	25.79	25.79	0	0.06	0.23
+FGIUX	Fidelity Advisor Series I Fidelity	24.34	24.34	24.34	0	0.06	0.25
+FGIWX	Nuveen Global Infrastructure Fu	11.31	11.31	11.31	0	0.04	0.35
+FGIYX	Nuveen Global Infrastructure Fd Cl I	11.31	11.31	11.31	0	0.04	0.35
+FGKNX	Fss Strategic Income Fund - Cl R6	9.660	9.660	9.660	0	0.010	0.10
+FGLAX	Fidelity Advisor Global Balanced Fund	23.36	23.36	23.36	0	0.02	0.09
+FGLCX	Fidelity Advisor Global Balanced Fund	22.70	22.70	22.70	0	0.02	0.09
+FGLDX	Invesco Gold & Precious Metals Fd	5.760	5.760	5.760	0	-0.040	0.69
+FGLEX	Federated Global Equity Fd Insti Shs	9.110	9.110	9.110	0	0.010	0.11
+FGLGX	Fidelity Series Growth & Income Fund	13.46	13.46	13.46	0	0.03	0.22
+FGLIX	Fidelity Advisor Global Balanced Fund	23.58	23.58	23.58	0	0.02	0.08
+FGLLX	Fidelity Series Intrinsic Opportunities	15.16	15.16	15.16	0	0.05	0.33
+FGLRX	Forward Global Infrastructure Fund	22.97	22.97	22.97	0	-0.07	0.30
+FGLTX	Fidelity Advisor Global Balanced Fund	23.17	23.17	23.17	0	0.03	0.13
+FGMNX	Fidelity GNMA Fund	11.71	11.71	11.71	0	0.01	0.09
+FGNCX	Nuveen Global Infrastructure Fd Cl C	11.18	11.18	11.18	0	0.04	0.36
+FGNRX	Nuveen Global Infrastructure Fd Cl R3	11.46	11.46	11.46	0	0.04	0.35
+FGOAX	Federated Government Income Securities	9.080	9.080	9.080	0	0.000	0.00
+FGOBX	Federated Government Income Securities	9.060	9.060	9.060	0	0.010	0.11
+FGOCX	Federated Government Income Securities	9.090	9.090	9.090	0	0.000	0.00
+FGOIX	Government Income Securities Inc.	9.060	9.060	9.060	0	0.000	0.00
+FGOPX	Fa 529 Growth Opportunities Port-Cl P	15.71	15.71	15.71	0	0.24	1.55
+FGORX	Franklin US Govt Sec Fund Cl R6	6.390	6.390	6.390	0	0.010	0.16
+FGOVX	Fidelity Government Income Fund	10.67	10.67	10.67	0	0.00	0.00
+FGOZX	Tpln Glb Opportunities - Cl Adv	18.86	18.86	18.86	0	-0.02	0.11
+FGPAX	Fa 529 Global Strategies Port-Cl A	11.86	11.86	11.86	0	0.14	1.19
+FGPCX	Fa 529 Global Strategies Port-Cl C	11.56	11.56	11.56	0	0.14	1.23
+FGRAX	Franklin Growth Opportunities Fund Class	32.48	32.48	32.48	0	0.01	0.03
+FGRCX	Fidelity Advisor Mega Cap Stock Fund	16.31	16.31	16.31	0	0.03	0.18
+FGREX	Invesco Global Real Estate Fd Cl R6	13.93	13.93	13.93	0	0.02	0.14
+FGRIX	Fidelity Growth and Income Pt	31.26	31.26	31.26	0	0.08	0.26
+FGROX	Emerald Growth Fund Institutional Class	20.45	20.45	20.45	0	0.14	0.69
+FGRRX	Franklin Global Real Estate Fund A Class	9.660	9.660	9.660	0	0.020	0.21
+FGRSX	Federated International Leaders Fd R6	30.13	30.13	30.13	0	0.09	0.30
+FGRTX	Fidelity Mega Cap Stock Fund	16.65	16.65	16.65	0	0.04	0.24
+FGSAX	Federated Mdt Mid Cap Growth Strategies	34.83	34.83	34.83	0	0.01	0.03
+FGSBX	Federated Mdt Mid Cap Growth Strategies	25.71	25.71	25.71	0	0.01	0.04
+FGSCX	Federated Mdt Mid Cap Growth Strategies	26.25	26.25	26.25	0	0.01	0.04
+FGSIX	Federated Mdt Mid Cap Growth Strategies	35.57	35.57	35.57	0	0.01	0.03
+FGSKX	Federated Mdt Mid-Cap Growth Strategies	32.90	32.90	32.90	0	0.01	0.03
+FGSPX	Fa 529 Global Strategies Port-Cl P	11.64	11.64	11.64	0	0.14	1.22
+FGSRX	Franklin Growth Series Fund - Class R	78.25	78.25	78.25	0	0.00	0.00
+FGTAX	Fidelity Advisor Mega Cap Stock Fund	16.52	16.52	16.52	0	0.03	0.18
+FGTIX	Franklin Templeton Growth Target Fund	17.69	17.69	17.69	0	0.01	0.06
+FGTNX	Fidelity Advisor Global Equity Income Fd	12.71	12.71	12.71	0	-0.01	0.08
+FGTRX	Franklin Templeton Growth Target Fund -	17.44	17.44	17.44	0	0.01	0.06
+FGTYX	Nuveen Tactical Market Opportunities	10.000	10.000	10.000	0	0.000	0.00
+FGTZX	Ftfa-Franklin Templeton Growth Target	17.78	17.78	17.78	0	0.01	0.06
+FGUAX	Federated Government Ultrashort Duration	9.820	9.820	9.820	0	0.000	0.00
+FGULX	Federated Government Ultrashort	9.880	9.880	9.880	0	0.000	0.00
+FGUSX	Federated Government Ultra Short	9.870	9.870	9.870	0	0.000	0.00
+FGVXX	First American Funds Institutional	0.0100	0.0100	0.0100	0	0.0000	0.00
+FGWBX	Strategic Advisers Value Multi-Manager	13.74	13.74	13.74	0	0.02	0.15
+FGXXX	First American Government Oblig	0.2900	0.2900	0.2900	0	0.0100	3.57
+FHAIX	Franklin High Income Fund Class A	1.840	1.840	1.840	0	0.010	0.55
+FHBBX	Federated High Income Bond Fund Class B	7.520	7.520	7.520	0	0.010	0.13
+FHCAX	Fa 529 High Income Port-Cl A	25.54	25.54	25.54	0	0.02	0.08
+FHCCX	Fidelity Advisor Series Vii Fidelity	30.74	30.74	30.74	0	-0.04	0.13
+FHCIX	Fidelity Advisor Health Care Fund Class	40.84	40.84	40.84	0	-0.06	0.15
+FHEAX	Fidelity Advisor Real Estate Fund Class	25.54	25.54	25.54	0	0.15	0.59
+FHECX	Fidelity Advisor Real Estate Fund Class	25.04	25.04	25.04	0	0.15	0.60
+FHEIX	Fidelity Advisor Real Estate Fund Class	25.77	25.77	25.77	0	0.15	0.59
+FHEJX	First Investors Hedged U.S. Equity	9.990	9.990	9.990	0	0.000	0.00
+FHEKX	First Investors Hedged U.S. Equity	9.990	9.990	9.990	0	0.000	0.00
+FHELX	First Investors Hedged U.S. Equity	9.990	9.990	9.990	0	0.000	0.00
+FHETX	Fidelity Advisor Real Estate Fund Class	25.52	25.52	25.52	0	0.15	0.59
+FHFAX	Fidelity Advisor Freedom 2055 Fd Cl A	11.56	11.56	11.56	0	0.01	0.09
+FHFCX	Fidelity Advisor Freedom 2055 Fd Cl C	11.48	11.48	11.48	0	0.01	0.09
+FHFIX	Fidelity Advisor Freedom 2055 Fund Class	11.61	11.61	11.61	0	0.02	0.17
+FHFTX	Fidelity Advisor Freedom 2055 Fd Cl T	11.51	11.51	11.51	0	0.01	0.09
+FHFWX	American Funds Retirement Income	10.77	10.77	10.77	0	0.00	0.00
+FHIAX	Fidelity Advisor High Income Cl A	7.740	7.740	7.740	0	0.000	0.00
+FHICX	Federated High Income Bond Fund Class C	7.510	7.510	7.510	0	0.000	0.00
+FHIDX	Fa 529 High Income Port-Cl D	24.30	24.30	24.30	0	0.02	0.08
+FHIFX	Fidelity Focused High Income Fund	8.510	8.510	8.510	0	0.000	0.00
+FHIGX	Fidelity Municipal Income Fund	13.81	13.81	13.81	0	-0.01	0.07
+FHIIX	Federated High Income Bond Fund Class A	7.530	7.530	7.530	0	0.000	0.00
+FHIPX	Fa 529 High Income Port-Cl P	23.48	23.48	23.48	0	0.02	0.09
+FHIRX	Franklin High Income Fund Class R	1.870	1.870	1.870	0	0.010	0.54
+FHITX	Fidelity Advisor High Income Cl T	7.720	7.720	7.720	0	0.000	0.00
+FHIXX	First American Tax Free Obligat	0.3300	0.3300	0.3300	0	0.0100	3.13
+FHJMX	Fidelity Advisor Europe Fund Class I	37.27	37.27	37.27	0	-0.05	0.13
+FHJSX	Strategic Advisers Core Multi-Manager	12.00	12.00	12.00	0	-0.01	0.08
+FHJTX	Fidelity Advisor Europe Fund Class C	36.82	36.82	36.82	0	-0.06	0.16
+FHJUX	Fidelity Advisor Europe Fund Class A	37.16	37.16	37.16	0	-0.05	0.13
+FHJVX	Fidelity Advisor Europe Fund Class T	37.14	37.14	37.14	0	-0.05	0.13
+FHKAX	Fidelity Advisor China Region Fund Class	26.31	26.31	26.31	0	0.06	0.23
+FHKCX	Fidelity China Region	26.63	26.63	26.63	0	0.07	0.26
+FHKIX	Fidelity Advisor China Region Fund Class	26.47	26.47	26.47	0	0.07	0.27
+FHKTX	Fidelity Advisor China Region Fund Class	26.21	26.21	26.21	0	0.07	0.27
+FHMCX	Nuveen Small Cap Select Fund Cl C	7.160	7.160	7.160	0	0.040	0.56
+FHNCX	Fidelity Advisor High Income Cl C	7.710	7.710	7.710	0	0.000	0.00
+FHNIX	Fidelity Advisor High Income Fund Class	7.750	7.750	7.750	0	0.000	0.00
+FHPCX	Fa 529 High Income Port-Cl C	22.65	22.65	22.65	0	0.02	0.09
+FHRRX	Fhit- High Income Fund - Cl R6	1.830	1.830	1.830	0	0.000	0.00
+FHTFX	Federated Municipal High Yield Advantage	9.250	9.250	9.250	0	0.000	0.00
+FHTIX	Federated High Yield Trust- Is Shares	6.710	6.710	6.710	0	0.000	0.00
+FHYAX	Federated High Yield Trust- A Shares	6.740	6.740	6.740	0	0.010	0.15
+FHYCX	Federated High Yield Trust- C Shares	6.730	6.730	6.730	0	0.000	0.00
+FHYIX	Franklin High Yield Tax Free Income Fund	11.05	11.05	11.05	0	0.00	0.00
+FHYSX	Federated High Yield Strategy Portfolio	13.17	13.17	13.17	0	0.00	0.00
+FHYTX	Federated High Yield Trust Svc Shs	6.720	6.720	6.720	0	0.010	0.15
+FHYVX	Franklin High Yield Tax-Free Income Fund	10.90	10.90	10.90	0	0.00	0.00
+FIADX	Fidelity Advisor International Discovery	39.51	39.51	39.51	0	0.05	0.13
+FIAFX	Fidelity Advisor Freedom Income Fund	11.00	11.00	11.00	0	0.01	0.09
+FIAGX	Fidelity Advisor International Growth	11.56	11.56	11.56	0	0.02	0.17
+FIANX	Fa Strategic Income 529 Port A	11.35	11.35	11.35	0	0.05	0.44
+FIARX	Fidelity Advisor Income Replacement Fund	57.85	57.85	57.85	0	0.05	0.09
+FIASX	Fidelity Advisor International Small Cap	24.28	24.28	24.28	0	0.05	0.21
+FIATX	Fidelity Advisor Ser ViII Fidelity	15.78	15.78	15.78	0	0.02	0.13
+FIBAX	Spartan Intermediate Treasury Bond Fund	11.32	11.32	11.32	0	0.00	0.00
+FIBFX	Fidelity Series Investment Grade Bond	11.65	11.65	11.65	0	0.00	0.00
+FIBGX	First Investors Global Fund Class B Inc.	5.890	5.890	5.890	0	0.000	0.00
+FIBIX	Spartan Intermediate Treasury Bond Index	11.32	11.32	11.32	0	0.00	0.00
+FIBPX	Federated International Bond Strategy	15.46	15.46	15.46	0	0.05	0.32
+FIBTX	Frost Moderate Allocation Fund	12.90	12.90	12.90	0	0.01	0.08
+FIBZX	Templeton International Bond Fund Class	10.14	10.14	10.14	0	0.00	0.00
+FICAX	First Investors Multi State Insured	13.23	13.23	13.23	0	0.00	0.00
+FICCX	Fidelity Advisor Canada Fund Class I	49.81	49.81	49.81	0	-0.30	0.60
+FICDX	Fidelity Canada Fund	49.88	49.88	49.88	0	-0.30	0.60
+FICEX	Frost Core Growth Equity Fund Insti	13.75	13.75	13.75	0	0.04	0.29
+FICFX	First Investors California Tax Exempt	13.12	13.12	13.12	0	0.00	0.00
+FICGX	First Investors Select Growth Fund Class	11.32	11.32	11.32	0	-0.01	0.09
+FICHX	First Investors Select Growth Fd Adv Cl	11.44	11.44	11.44	0	-0.01	0.09
+FICIX	First Investors Select Growth Fd Inst Cl	11.49	11.49	11.49	0	-0.01	0.09
+FICJX	First Investors California Tax Exempt	13.20	13.20	13.20	0	0.00	0.00
+FICKX	Fa Strategic Income 529 Port C	11.09	11.09	11.09	0	0.05	0.45
+FICLX	First Investors California Tax Exempt	13.20	13.20	13.20	0	0.00	0.00
+FICMX	Federated Government Income Trust -	10.42	10.42	10.42	0	0.01	0.10
+FICNX	Fidelity Connecticut Municipal Incom	12.05	12.05	12.05	0	0.00	0.00
+FICPX	Fa 529 Inflation Protected Bd Port-Cl C	15.00	15.00	15.00	0	0.08	0.54
+FICRX	Fidelity Advisor Income Replacement Fund	57.62	57.62	57.62	0	0.05	0.09
+FICSX	Fidelity Advisor International Small Cap	23.45	23.45	23.45	0	0.05	0.21
+FICTX	First Investors Multi-State Insured	13.71	13.71	13.71	0	0.00	0.00
+FICUX	First Investors Multi-State Insured Tax	13.71	13.71	13.71	0	0.01	0.07
+FICVX	Fidelity Advisor Convertible Securities	27.49	27.49	27.49	0	0.07	0.26
+FICYX	First Investors Connecticut Tax Exempt	13.61	13.61	13.61	0	0.00	0.00
+FICZX	First Investors Connecticut Tax Exempt	13.79	13.79	13.79	0	0.00	0.00
+FIDAX	John Hancock Financial Industries Fund	16.89	16.89	16.89	0	0.07	0.42
+FIDBX	John Hancock Financial Industries Fund	15.50	15.50	15.50	0	0.06	0.39
+FIDCX	John Hancock Financial Industries Fd Cl	15.52	15.52	15.52	0	0.05	0.32
+FIDDX	Fa 529 Inflation Protected Bd Port-Cl D	16.06	16.06	16.06	0	0.09	0.56
+FIDKX	Fidelity International Discovery Fund	39.54	39.54	39.54	0	0.06	0.15
+FIDMX	Forward International Dividend Fund	6.510	6.510	6.510	0	0.000	0.00
+FIDPX	Federated International Dividend	8.820	8.820	8.820	0	-0.030	0.34
+FIDSX	Fidelity Select Financial Services	86.41	86.41	86.41	0	0.13	0.15
+FIDVX	Frost Value Equity Fund Inst Class	10.13	10.13	10.13	0	0.01	0.10
+FIEIX	Touchstone International Value Fd Inst	7.700	7.700	7.700	0	0.010	0.13
+FIEMX	Fidelity Advisor Emerging Europe Middle	8.220	8.220	8.220	0	-0.010	0.12
+FIENX	Fidelity International Enhanced Index	8.410	8.410	8.410	0	0.010	0.12
+FIEUX	Fidelity Europe Fund	37.25	37.25	37.25	0	-0.05	0.13
+FIFFX	Fidelity Advisor Freedom 2040 Fund Class	13.93	13.93	13.93	0	0.02	0.14
+FIFIX	First Investors Fund For Income A	2.480	2.480	2.480	0	0.000	0.00
+FIFJX	First Investors Fund For Income Inc. Cl	2.480	2.480	2.480	0	0.000	0.00
+FIFKX	First Investors Fund For Income Adv Cl	2.480	2.480	2.480	0	0.000	0.00
+FIFLX	First Investors Fund For Income Fd Inst	2.490	2.490	2.490	0	0.000	0.00
+FIFRX	Franklin Growth Fund Cl R6	78.87	78.87	78.87	0	0.01	0.01
+FIFSX	First Security Municipal Bond Fund -	10.51	10.51	10.51	0	0.00	0.00
+FIGAX	Nuveen Intermediate Government Bond	8.920	8.920	8.920	0	0.000	0.00
+FIGBX	First Investors Select Growth Fd Cl B	9.870	9.870	9.870	0	0.000	0.00
+FIGCX	Fidelity Advisor International Growth	11.35	11.35	11.35	0	0.01	0.09
+FIGEX	Franklin India Growth Fund Class R6	14.33	14.33	14.33	0	-0.12	0.83
+FIGFX	Fidelity International Growth Fund	11.65	11.65	11.65	0	0.02	0.17
+FIGIX	Federated US Government Securities Fund	11.09	11.09	11.09	0	0.00	0.00
+FIGKX	Federated US Government Securities Fund	11.08	11.08	11.08	0	0.00	0.00
+FIGRX	Fidelity International Discovery	39.60	39.60	39.60	0	0.05	0.13
+FIGSX	Fidelity Series International Growth	14.19	14.19	14.19	0	0.02	0.14
+FIGTX	Federated US Government Securities Fund	11.09	11.09	11.09	0	0.00	0.00
+FIGVX	First Investors Gov Fund Inc A	10.88	10.88	10.88	0	0.00	0.00
+FIGWX	Nuveen Large Cap Growth Opportunities Cl	33.40	33.40	33.40	0	-0.03	0.09
+FIGYX	First Investors Government Fund Inc	10.86	10.86	10.86	0	0.00	0.00
+FIGZX	Franklin India Growth Fund Advisor Class	14.27	14.27	14.27	0	-0.12	0.83
+FIHBX	Federated Institutional High Yield Bond	9.900	9.900	9.900	0	0.010	0.10
+FIHFX	Fidelity Freedom Index 2035 Fd Cl K	16.03	16.03	16.03	0	0.01	0.06
+FIHLX	Federated Institutional High Yi	9.900	9.900	9.900	0	0.000	0.00
+FIHUX	First Investors Government Fd Adv Cl	10.90	10.90	10.90	0	0.00	0.00
+FIHVX	First Investors Government Fd Inst Cl	10.93	10.93	10.93	0	0.00	0.00
+FIIAX	Fidelity Advisor Mid Cap II Fund Class A	18.81	18.81	18.81	0	0.06	0.32
+FIICX	Fidelity Advisor Mid Cap II Fund Class C	17.10	17.10	17.10	0	0.05	0.29
+FIIFX	Federated Intermediate Corporate Bond	9.470	9.470	9.470	0	0.000	0.00
+FIIGX	First Investors Series Investment Grade	9.940	9.940	9.940	0	-0.010	0.10
+FIIHX	First Investors Investment Grade Fund	9.870	9.870	9.870	0	-0.010	0.10
+FIIIX	Fidelity Advisor International Growth	11.63	11.63	11.63	0	0.02	0.17
+FIIJX	First Investors Investment Grade Fd Adv	9.990	9.990	9.990	0	0.000	0.00
+FIIKX	First Investors Investment Grade Fd Inst	9.970	9.970	9.970	0	0.000	0.00
+FIIMX	Fidelity Advisor Mid Cap II Fund Class I	19.34	19.34	19.34	0	0.06	0.31
+FIINX	First Investors International Fund Class	13.95	13.95	13.95	0	-0.04	0.29
+FIIOX	First Investors International Fund Class	13.11	13.11	13.11	0	-0.04	0.30
+FIIPX	First Investors International Fd Adv Cl	14.12	14.12	14.12	0	-0.04	0.28
+FIIQX	First Investors International Fd Inst Cl	14.15	14.15	14.15	0	-0.04	0.28
+FIIRX	Fidelity Advisor Income Replacement 2032	57.87	57.87	57.87	0	0.05	0.09
+FIISX	First Investors Global Fund A	7.360	7.360	7.360	0	-0.010	0.14
+FIITX	First Investors Global Fd Adv Cl	7.490	7.490	7.490	0	0.000	0.00
+FIIUX	First Investors Global Fd Inst Cl	7.530	7.530	7.530	0	0.000	0.00
+FIIVX	Fidelity Advisor Income Replacement 2038	58.67	58.67	58.67	0	0.06	0.10
+FIIWX	Fidelity Advisor Income Replacement 2040	60.01	60.01	60.01	0	0.06	0.10
+FIJEX	Frost Total Return Bond Fund Insti Class	10.54	10.54	10.54	0	0.00	0.00
+FIKDX	Frost Kempner Multi-Cap Deep Value	9.380	9.380	9.380	0	0.000	0.00
+FIKFX	Fidelity Freedom Index Income Fund Cl K	11.66	11.66	11.66	0	0.01	0.09
+FIKSX	Frost Mid Cap Equity Fund Insti Class	9.960	9.960	9.960	0	0.030	0.30
+FIKTX	Frost Kempner Treasury and Income Fund	10.09	10.09	10.09	0	0.00	0.00
+FILAX	Fidelity Advisor Income Replacement Fund	55.56	55.56	55.56	0	0.03	0.05
+FILCX	Fidelity Advisor Income Replacement Fund	55.41	55.41	55.41	0	0.02	0.04
+FILDX	Frost Low Duration Bond Fund Insti Class	10.27	10.27	10.27	0	0.00	0.00
+FILFX	Strategic Advisers International Fund	9.880	9.880	9.880	0	0.250	2.60
+FILIX	Fidelity Advisor Income Replacement 2020	55.56	55.56	55.56	0	0.03	0.05
+FILRX	Franklin International Growth Fd Cl R6	11.52	11.52	11.52	0	-0.01	0.09
+FILTX	Fidelity Advisor Income Replacement Fund	55.56	55.56	55.56	0	0.02	0.04
+FIMAX	First Investors Multi State Insured	12.22	12.22	12.22	0	0.00	0.00
+FIMBX	First Investors Opportunity Fund [Class	30.07	30.07	30.07	0	0.12	0.40
+FIMEX	Nuveen Mid Cap Index Class I	18.54	18.54	18.54	0	0.07	0.38
+FIMFX	Franklin Mutual International Fund -	14.22	14.22	14.22	0	0.07	0.49
+FIMGX	First Investors Multi-State Tax Free	12.19	12.19	12.19	0	0.00	0.00
+FIMHX	First Investors Massachusetts Tax Exempt	12.25	12.25	12.25	0	0.00	0.00
+FIMIX	Fidelity Minnesota Municipal Income Fund	11.99	11.99	11.99	0	0.00	0.00
+FIMJX	First Investors Massachusetts Tax Exempt	12.25	12.25	12.25	0	0.00	0.00
+FIMKX	Fidelity Advisor Emerging Markets Fund	23.08	23.08	23.08	0	-0.09	0.39
+FIMNX	First Investors Multi-State Insured	12.34	12.34	12.34	0	0.00	0.00
+FIMOX	First Investors Minnesota Tax Exempt	12.27	12.27	12.27	0	0.00	0.00
+FIMPX	Nuveen Small Cap Growth Opportunities Cl	24.57	24.57	24.57	0	0.15	0.61
+FIMQX	First Investors Minnesota Tax Exempt	12.34	12.34	12.34	0	0.00	0.00
+FIMRX	First Investors Minnesotts Tax Exempt	12.36	12.36	12.36	0	0.00	0.00
+FIMTX	Intermediate Municipal Trust	10.50	10.50	10.50	0	0.01	0.10
+FIMUX	Frost Municipal Bond Fund Insti Class	10.68	10.68	10.68	0	0.00	0.00
+FIMYX	Federated Intermediate Municipal Trust Y	10.49	10.49	10.49	0	0.00	0.00
+FINAX	Franklin International Small Cap Growth	18.44	18.44	18.44	0	0.09	0.49
+FINCX	Forward International Dividend Fd Cl C	7.990	7.990	7.990	0	0.010	0.13
+FINDX	Franklin India Growth Fund Class C	13.20	13.20	13.20	0	-0.11	0.83
+FINEX	Templeton Foreign Smaller Companies Fund	16.54	16.54	16.54	0	0.01	0.06
+FINFX	Fundamental Investors Class F-2 Shares	54.24	54.24	54.24	0	-0.04	0.07
+FINGX	Franklin India Growth Fund Class A	13.96	13.96	13.96	0	-0.12	0.85
+FINIX	Nuveen Core Bond Fund Class I	10.06	10.06	10.06	0	0.01	0.10
+FINJX	First Investors Multi State Insured	13.29	13.29	13.29	0	0.00	0.00
+FINKX	First Investors Multi-State Insured Tax	13.22	13.22	13.22	0	0.00	0.00
+FINLX	First Investors New Jersey Tax Exempt	13.28	13.28	13.28	0	0.00	0.00
+FINMX	Forward International Real Estate Fd	14.15	14.15	14.15	0	0.01	0.07
+FINNX	First Investors New Jersey Tax Exempt	13.26	13.26	13.26	0	0.00	0.00
+FINOX	Fidelity Advisor International Bond Fund	9.120	9.120	9.120	0	0.010	0.11
+FINPX	Fidelity Inflation Protected Bond	12.43	12.43	12.43	0	0.02	0.16
+FINRX	Fidelity Advisor International Bond Fund	9.100	9.100	9.100	0	0.010	0.11
+FINSX	Fidelity Advisor New Insights Fund Class	28.31	28.31	28.31	0	0.02	0.07
+FINTX	Fidelity Advisor International Bond Fund	9.110	9.110	9.110	0	0.000	0.00
+FINUX	Fidelity International Bond Fund Retail	9.120	9.120	9.120	0	0.010	0.11
+FINVX	Fidelity Series International Value Fund	9.630	9.630	9.630	0	0.020	0.21
+FINWX	Fidelity Advisor International Bond Fund	9.120	9.120	9.120	0	0.010	0.11
+FINZX	Franklin Insured Tax-Free Income Fund	12.44	12.44	12.44	0	0.00	0.00
+FIOAX	Fidelity Advisor Income Replacement Fund	60.83	60.83	60.83	0	0.05	0.08
+FIOBX	First Investors International	9.360	9.360	9.360	0	0.010	0.11
+FIOCX	Fidelity Advisor Income Replacement Fund	60.59	60.59	60.59	0	0.05	0.08
+FIODX	First Investors International	9.400	9.400	9.400	0	0.010	0.11
+FIOEX	First Investors International	9.440	9.440	9.440	0	0.010	0.11
+FIOFX	Fidelity Freedom Index 2045 Fd Cl K	16.27	16.27	16.27	0	0.02	0.12
+FIOHX	First Investors Multi State Insured	12.84	12.84	12.84	0	0.00	0.00
+FIOIX	Fidelity Advisor Income Replacement 2026	60.84	60.84	60.84	0	0.05	0.08
+FIOJX	First Investors Ohio Tax Exempt Fund	12.81	12.81	12.81	0	0.00	0.00
+FIOKX	First Investors Ohio Tax Exempt Fund	12.66	12.66	12.66	0	0.00	0.00
+FIOLX	First Investors Ohio Tax Exempt Fund	12.94	12.94	12.94	0	0.00	0.00
+FIONX	Fidelity Sai International Index Fund	10.57	10.57	10.57	0	0.02	0.19
+FIOOX	Fidelity Series 1000 Value Index Fund	11.28	11.28	11.28	0	0.00	0.00
+FIOTX	Fidelity Advisor Income Replacement Fund	60.86	60.86	60.86	0	0.04	0.07
+FIPAX	Fidelity Advisor Inflation Protected	12.29	12.29	12.29	0	0.01	0.08
+FIPBX	Spartan Inflation Protected Bond Index	10.05	10.05	10.05	0	0.01	0.10
+FIPCX	Fidelity Advisor Inflation Protected	11.78	11.78	11.78	0	0.01	0.08
+FIPDX	Spartan Inflation Protected Bond Index	10.05	10.05	10.05	0	0.01	0.10
+FIPEX	Fa 529 Inflation Protected Bd Port-Cl A	16.88	16.88	16.88	0	0.09	0.54
+FIPFX	Fidelity Freedom Index 2050 Fd Cl K	16.38	16.38	16.38	0	0.01	0.06
+FIPIX	Fidelity Advisor Inflation-Protected	12.39	12.39	12.39	0	0.01	0.08
+FIPPX	Fa 529 Inflation Protected Bd Port-Cl P	15.56	15.56	15.56	0	0.08	0.52
+FIPTX	Fidelity Advisor Inflation Protected	12.29	12.29	12.29	0	0.01	0.08
+FIRAX	Fidelity Advisor International Real	10.62	10.62	10.62	0	0.02	0.19
+FIRCX	Fidelity Advisor International Real	10.36	10.36	10.36	0	0.02	0.19
+FIRDX	First Investors Real Estate Fund - Class	10.55	10.55	10.55	0	0.07	0.67
+FIREX	Fidelity International Real Estate Fund	10.74	10.74	10.74	0	0.01	0.09
+FIRFX	Fidelity Advisor Income Replacement 2042	60.04	60.04	60.04	0	0.06	0.10
+FIRGX	First Investors Real Estate Fund -	10.59	10.59	10.59	0	0.07	0.67
+FIRHX	First Investors Real Estate Fund -	10.57	10.57	10.57	0	0.06	0.57
+FIRIX	Fidelity Advisor International Real	10.70	10.70	10.70	0	0.02	0.19
+FIRJX	Fidelity Income Replacement Fund 2016	50.93	50.93	50.93	0	0.00	0.00
+FIRKX	Fidelity Income Replacement Fund 2018	55.18	55.18	55.18	0	0.01	0.02
+FIRLX	Fidelity Income Replacement Fund 2020	55.56	55.56	55.56	0	0.03	0.05
+FIRMX	Fidelity Income Replacement Fund 2022	59.38	59.38	59.38	0	0.04	0.07
+FIRNX	Fidelity Income Replacement Fund 2024	59.10	59.10	59.10	0	0.05	0.08
+FIROX	Fidelity Income Replacement Fund 2026	60.84	60.84	60.84	0	0.05	0.08
+FIRPX	Fidelity Income Replacement Fund 2028	61.58	61.58	61.58	0	0.06	0.10
+FIRQX	Fidelity Income Replacement Fund 2030	60.74	60.74	60.74	0	0.06	0.10
+FIRRX	Fidelity Income Replacement Fund 2032	57.87	57.87	57.87	0	0.05	0.09
+FIRSX	Fidelity Income Replacement Fund 2034	60.53	60.53	60.53	0	0.05	0.08
+FIRTX	Fidelity Advisor International Real	10.54	10.54	10.54	0	0.02	0.19
+FIRUX	Fidelity Income Replacement Fund 2036	61.38	61.38	61.38	0	0.06	0.10
+FIRVX	Fidelity Income Replacement 2038 Fund	58.67	58.67	58.67	0	0.05	0.09
+FIRWX	Fidelity Income Replacement 2040 Fund	60.00	60.00	60.00	0	0.06	0.10
+FISAX	F.I.S.T. Adjustable U.S. Government	8.410	8.410	8.410	0	0.000	0.00
+FISBX	First Investors Special Situations	20.22	20.22	20.22	0	0.11	0.55
+FISCX	F.I.S.T. Convertible Securities Fund	18.89	18.89	18.89	0	-0.02	0.11
+FISDX	Franklin International Small Cap Growth	18.45	18.45	18.45	0	0.09	0.49
+FISEX	Franklin Equity Income Fund Class A	23.18	23.18	23.18	0	-0.03	0.13
+FISFX	Nuveen Inflation Protected Securities	11.54	11.54	11.54	0	0.01	0.09
+FISGX	Nuveen Mid Cap Growth Opportunities Cl	44.45	44.45	44.45	0	0.08	0.18
+FISHX	Fidelity Advisor Limited Term Municipal	10.71	10.71	10.71	0	0.00	0.00
+FISMX	Fidelity International Small Cap	24.69	24.69	24.69	0	0.05	0.20
+FISPX	Federated Max-Cap Index Fund	15.26	15.26	15.26	0	0.00	0.00
+FISRX	Franklin Income Series Fund - Class R	2.210	2.210	2.210	0	0.000	0.00
+FISSX	First Investors Series Special	26.43	26.43	26.43	0	0.14	0.53
+FISTX	First Investors Special Situations Fd	26.60	26.60	26.60	0	0.14	0.53
+FISUX	First Investors Special Situations Fd	26.74	26.74	26.74	0	0.15	0.56
+FITAX	First Investors Tax Exempt Income Fund	9.870	9.870	9.870	0	0.000	0.00
+FITCX	First Investors Tax Exempt Income Fd Cl	9.830	9.830	9.830	0	0.000	0.00
+FITDX	First Investors Tax Exempt Income Fund	9.860	9.860	9.860	0	0.000	0.00
+FITEX	First Investors Tax Exempt Income Fund	9.890	9.890	9.890	0	0.000	0.00
+FITGX	Fidelity Advisor International Growth	11.52	11.52	11.52	0	0.01	0.09
+FITHX	Fidelity Advisor Freedom 2035 Fund Class	13.02	13.02	13.02	0	0.02	0.15
+FITIX	Fidelity Advisor Mid Cap II Fund Class T	18.38	18.38	18.38	0	0.05	0.27
+FITRX	First Investors Series Fund Total Return	19.19	19.19	19.19	0	0.00	0.00
+FITSX	Federated Government Income Trust	10.42	10.42	10.42	0	0.01	0.10
+FITTX	Fidelity Advisor Income Replacement 2042	60.03	60.03	60.03	0	0.06	0.10
+FITUX	First Investors Total Return Fd Adv Cl	19.28	19.28	19.28	0	0.01	0.05
+FITVX	First Investors Total Return Fd Inst Cl	19.32	19.32	19.32	0	0.00	0.00
+FITWX	Fidelity Advisor Freedom 2025 Fund Class	12.92	12.92	12.92	0	0.01	0.08
+FITZX	Franklin Federal Intermediate-Term	12.59	12.59	12.59	0	0.00	0.00
+FIUBX	First Investors Equity Income Fd Cl B	9.650	9.650	9.650	0	-0.010	0.10
+FIUIX	Fidelity Utilities Fund	25.43	25.43	25.43	0	0.08	0.32
+FIUSX	First Investors Opportunity Fund A	37.76	37.76	37.76	0	0.15	0.40
+FIUTX	First Investors Equity Income Fd Cl A	9.870	9.870	9.870	0	0.000	0.00
+FIUUX	First Investors Equity Income Fd Adv Cl	9.890	9.890	9.890	0	-0.010	0.10
+FIUVX	First Investors Equity Income Fd Inst Cl	9.930	9.930	9.930	0	-0.010	0.10
+FIUXX	First American Prime Obligations	0.0600	0.0600	0.0600	0	0.0100	20.00
+FIVAX	First Investors Multi State Insured	13.48	13.48	13.48	0	0.00	0.00
+FIVBX	First Investors Virginia Tax Exempt Fund	13.36	13.36	13.36	0	0.00	0.00
+FIVCX	First Investors Virginia Tax Exempt Fund	13.45	13.45	13.45	0	0.00	0.00
+FIVDX	First Investors Virginia Tax Exempt Fund	13.55	13.55	13.55	0	0.00	0.00
+FIVFX	Fidelity Aggressive International Fund	17.76	17.76	17.76	0	0.01	0.06
+FIVIX	Touchstone International Value Fd Inst	7.670	7.670	7.670	0	0.010	0.13
+FIVLX	Fidelity International Value Fund	8.100	8.100	8.100	0	0.020	0.25
+FIVMX	Fidelity Advisor International Value	8.090	8.090	8.090	0	0.020	0.25
+FIVOX	Fidelity Advisor International Value	8.060	8.060	8.060	0	0.010	0.12
+FIVPX	Fidelity Advisor International Value	8.080	8.080	8.080	0	0.020	0.25
+FIVQX	Fidelity Advisor International Value	8.110	8.110	8.110	0	0.020	0.25
+FIVUX	First Investors Opportunity Fd Adv Cl	38.26	38.26	38.26	0	0.15	0.39
+FIVVX	First Investors Opportunity Fd Inst Cl	38.17	38.17	38.17	0	0.15	0.39
+FIVXX	First American Investment Funds Money	0.0200	0.0200	0.0200	0	0.0000	0.00
+FIWFX	Fidelity Freedom Index 2015 Fund Class W	13.89	13.89	13.89	0	0.01	0.07
+FIWTX	Fidelity Freedom Index 2020 Fund Class W	14.40	14.40	14.40	0	0.01	0.07
+FIXIX	Fidelity Advisor International Small Cap	24.89	24.89	24.89	0	0.05	0.20
+FIXRX	Fidelity Income Replacement 2042 Fund	60.04	60.04	60.04	0	0.06	0.10
+FJACX	Fidelity Series Small Cap Discovery Fund	10.58	10.58	10.58	0	0.08	0.76
+FJAKX	Fidelity Series Small Cap Discovery Fund	10.59	10.59	10.59	0	0.08	0.76
+FJIFX	Fidelity Freedom Index 2005 Fd Cl K	12.91	12.91	12.91	0	0.01	0.08
+FJMNX	Nuveen Minnesota Municipal Bond Fd	12.12	12.12	12.12	0	0.01	0.08
+FJMVX	Strategic Advisers Multi-Manager 2040	11.04	11.04	11.04	0	0.16	1.47
+FJPCX	Fidelity Advisor Japan Fund Class C	12.38	12.38	12.38	0	0.10	0.81
+FJPDX	Fidelity Advisor Event Driven	11.63	11.63	11.63	0	0.09	0.78
+FJPIX	Fidelity Advisor Japan Fund Class I	12.54	12.54	12.54	0	0.11	0.88
+FJPNX	Fidelity Japan Fund	12.55	12.55	12.55	0	0.10	0.80
+FJPTX	Fidelity Advisor Japan Fund Class T	12.49	12.49	12.49	0	0.10	0.81
+FJRLX	Fidelity Limited Term Bond Fund	11.61	11.61	11.61	0	0.00	0.00
+FJSCX	Fidelity Japan Small Companies Fund	15.07	15.07	15.07	0	0.11	0.74
+FJSIX	Nuveen High Income Bond Cl A	7.530	7.530	7.530	0	0.020	0.27
+FJSYX	Nuveen High Income Bond Cl Y	7.550	7.550	7.550	0	0.020	0.27
+FKACX	Franklin Growth Opportunities Fund Class	28.32	28.32	28.32	0	0.00	0.00
+FKAIX	Federated Kaufmann Small Cap Fund - Is	25.30	25.30	25.30	0	0.08	0.32
+FKARX	Franklin Growth Opportunities Fund Class	31.35	31.35	31.35	0	0.01	0.03
+FKASX	Federated Kaufmann Small Cap Fund A	25.23	25.23	25.23	0	0.08	0.32
+FKBAX	Franklin Total Return Fund Class A	10.03	10.03	10.03	0	0.01	0.10
+FKBSX	Federated Kaufmann Small Cap Fund B	22.25	22.25	22.25	0	0.07	0.32
+FKCAX	Franklin Flex Cap Growth Fund Advisor	47.60	47.60	47.60	0	0.09	0.19
+FKCCX	Nuveen Ky Municipal Bond Fd Cl C	11.28	11.28	11.28	0	0.00	0.00
+FKCGX	Franklin Flex Cap Growth Fund Class A	45.60	45.60	45.60	0	0.09	0.20
+FKCIX	Franklin California Intermediate Term	12.46	12.46	12.46	0	0.00	0.00
+FKCSX	Federated Kaufmann Small Cap Fund C	22.26	22.26	22.26	0	0.08	0.36
+FKDNX	Franklin Dynatech Fund Class A	51.68	51.68	51.68	0	-0.03	0.06
+FKEMX	Fidelity Emerging Markets Fund Class K	24.97	24.97	24.97	0	-0.10	0.40
+FKGRX	Franklin Growth Fund Class A	78.64	78.64	78.64	0	0.00	0.00
+FKIFX	Fidelity Freedom Index 2010 Fd Cl K	13.61	13.61	13.61	0	0.01	0.07
+FKINX	Franklin Income Fund Class A	2.250	2.250	2.250	0	0.000	0.00
+FKITX	Franklin Federal Intermediate Term Tax	12.56	12.56	12.56	0	0.00	0.00
+FKKSX	Federated Kaufman Small Cap Fund Class R	25.31	25.31	25.31	0	0.09	0.36
+FKLAX	Franklin Louisiana Tax-Free Income Fund	11.61	11.61	11.61	0	-0.01	0.09
+FKLCX	Franklin K2 Long Short Credit Fund Class	10.36	10.36	10.36	0	0.01	0.10
+FKLQX	Franklin K2 Long Short Credit Fund Class	10.47	10.47	10.47	0	0.01	0.10
+FKLRX	Franklin K2 Long Short Credit Fund Class	10.40	10.40	10.40	0	0.01	0.10
+FKLSX	Franklin K2 Long Short Credit Fund Class	10.47	10.47	10.47	0	0.01	0.10
+FKLZX	Franklin K2 Long Short Credit Fund	10.47	10.47	10.47	0	0.01	0.10
+FKMAX	Franklin K2 Global Macro Opportunities	9.920	9.920	9.920	0	0.010	0.10
+FKMCX	Fidelity Mid-Cap Stock Fund Class K	35.09	35.09	35.09	0	0.14	0.40
+FKMDX	Franklin K2 Global Macro Opportunities	9.910	9.910	9.910	0	0.010	0.10
+FKMOX	Strategic Advisers Value Multi-Manager	13.68	13.68	13.68	0	0.03	0.22
+FKMQX	Franklin K2 Global Macro Opportunities	9.930	9.930	9.930	0	0.020	0.20
+FKMRX	Franklin K2 Global Macro Opportunities	9.920	9.920	9.920	0	0.010	0.10
+FKMZX	Franklin K2 Global Macro Opportunities	9.930	9.930	9.930	0	0.020	0.20
+FKNCX	New York Intermediate-Term Tax Free	12.03	12.03	12.03	0	0.00	0.00
+FKNIX	Franklin New York Intermediate-Term	12.00	12.00	12.00	0	0.00	0.00
+FKRCX	Franklin Gold and Precious Metals Fund	23.16	23.16	23.16	0	-0.04	0.17
+FKSAX	Franklin Strategic Income Fd Advisor	9.650	9.650	9.650	0	0.000	0.00
+FKSCX	Franklin International Smaller Companies	18.49	18.49	18.49	0	0.08	0.43
+FKSRX	Franklin Strategic Income Fund - Class R	9.610	9.610	9.610	0	0.010	0.10
+FKSTX	Nuveen Flagship Kansas Muni Bd Fd Cl A	11.18	11.18	11.18	0	0.00	0.00
+FKTFX	Franklin California Tax-Free Income Fund	7.800	7.800	7.800	0	0.000	0.00
+FKTHX	Fidelity Freedom K 2035 Fund	15.56	15.56	15.56	0	0.03	0.19
+FKTIX	Franklin Federal Tax-Free Income Fund	12.55	12.55	12.55	0	0.00	0.00
+FKTWX	Fidelity Freedom K 2025 Fund	14.90	14.90	14.90	0	0.02	0.13
+FKUSX	Franklin U.S. Government Securities Fund	6.370	6.370	6.370	0	0.010	0.16
+FKUTX	Franklin Utilities Fund Class A	18.03	18.03	18.03	0	0.02	0.11
+FKVFX	Fidelity Freedom K 2015 Fund	13.54	13.54	13.54	0	0.02	0.15
+FKYCX	Nuveen Flagship Ky Muni Bd Cl CA Portf	11.28	11.28	11.28	0	0.00	0.00
+FKYRX	Nuveen Flagship Ky Muni Bd Fd Cl R [Srs	11.28	11.28	11.28	0	0.00	0.00
+FKYTX	Nuveen Flagship Kentucky Muni Bd Fd Cl A	11.28	11.28	11.28	0	0.00	0.00
+FLAAX	Nuveen Flagship All-American Muni Bd	12.00	12.00	12.00	0	0.00	0.00
+FLACX	Fidelity Advisor Stock Selector All Cap	35.87	35.87	35.87	0	-0.01	0.03
+FLADX	Franklin Lifesmart 2040 Retirement	11.39	11.39	11.39	0	0.01	0.09
+FLAGX	Aggressive Growth Fd	9.960	9.960	9.960	0	0.050	0.50
+FLAIX	Franklin Louisiana Tax-Free Income Fund	11.79	11.79	11.79	0	0.00	0.00
+FLARX	Pioneer Floating Rate Fund Class A	6.770	6.770	6.770	0	0.000	0.00
+FLATX	Fidelity Latin America Fund	22.08	22.08	22.08	0	0.05	0.23
+FLAUX	Strategic Advisers Core Multi-Manager Fd	11.95	11.95	11.95	0	-0.01	0.08
+FLBAX	Spartan Long-Term Treasury Bond Index	14.63	14.63	14.63	0	-0.01	0.07
+FLBCX	Fa 529 Limited Term Bond Port-Cl C	14.88	14.88	14.88	0	0.01	0.07
+FLBDX	Total Return Bond Fd	9.570	9.570	9.570	0	0.020	0.21
+FLBIX	Spartan Long-Term Treasury Bond Index	14.63	14.63	14.63	0	-0.01	0.07
+FLCCX	Fidelity Advisor Series I Fidelity	26.44	26.44	26.44	0	0.08	0.30
+FLCDX	Fidelity Large Cap Value Index	10.42	10.42	10.42	0	0.01	0.10
+FLCEX	Fidelity Large Cap Core Enhanced Index	12.27	12.27	12.27	0	0.01	0.08
+FLCFX	Nuveen Large Cap Growth Opportunities Cl	33.55	33.55	33.55	0	-0.03	0.09
+FLCGX	Quantex Fund	32.44	32.44	32.44	0	0.18	0.56
+FLCHX	Fidelity Large Cap Value Index	10.42	10.42	10.42	0	0.00	0.00
+FLCKX	Fidelity Leveraged Company Stock Fund	41.83	41.83	41.83	0	0.14	0.34
+FLCMX	Fidelity Large Cap Value Index	10.42	10.42	10.42	0	0.00	0.00
+FLCOX	Fidelity Large Cap Value Index	10.42	10.42	10.42	0	0.00	0.00
+FLCPX	Fidelity Sai U.S. Large Cap Index Fund	11.65	11.65	11.65	0	0.00	0.00
+FLCSX	Fidelity Large Cap Stock Fund	28.15	28.15	28.15	0	0.09	0.32
+FLCYX	Nuveen Large Cap Growth Opportunities	29.40	29.40	29.40	0	-0.03	0.10
+FLDAX	Franklin Low Duration Total Return Fund	9.890	9.890	9.890	0	0.000	0.00
+FLDCX	Franklin Low Duration Total Return Fd Cl	9.860	9.860	9.860	0	0.000	0.00
+FLDDX	Fa 529 Limited Term Bond Port-Cl D	15.97	15.97	15.97	0	0.02	0.13
+FLDFX	Balanced Fund	10.84	10.84	10.84	0	0.04	0.37
+FLDGX	Dynamic Growth Fd	9.720	9.720	9.720	0	0.040	0.41
+FLDKX	First Investors Limited Duration High	9.690	9.690	9.690	0	0.000	0.00
+FLDLX	First Investors Limited Duration High	9.720	9.720	9.720	0	0.000	0.00
+FLDMX	First Investors Limited Duration High	9.730	9.730	9.730	0	0.000	0.00
+FLDOX	Meeder Dividend Opportunities Fund	10.23	10.23	10.23	0	0.07	0.69
+FLDZX	Franklin Low Duration Total Return Fund	9.940	9.940	9.940	0	0.000	0.00
+FLERX	Franklin Lifesmart 2030 Retirement	11.31	11.31	11.31	0	0.01	0.09
+FLFAX	Fidelity Advisor Latin America Fund Cl A	22.13	22.13	22.13	0	0.06	0.27
+FLFCX	Fidelity Advisor Latin America Fund Cl C	22.31	22.31	22.31	0	0.05	0.22
+FLFGX	Global Opportunities Fund	9.800	9.800	9.800	0	0.080	0.82
+FLFIX	Fidelity Advisor Latin America Fund	22.06	22.06	22.06	0	0.06	0.27
+FLFTX	Fidelity Advisor Latin America Fund Cl T	22.16	22.16	22.16	0	0.06	0.27
+FLGEX	Fidelity Large Cap Growth Enhanced Index	15.46	15.46	15.46	0	0.01	0.06
+FLGIX	Franklin Global Listed Infrastructure	12.46	12.46	12.46	0	0.07	0.56
+FLICX	Deutsche Communications Fund	27.78	27.78	27.78	0	0.02	0.07
+FLIFX	Fidelity Freedom Index 2015 Fd Cl K	13.89	13.89	13.89	0	0.01	0.07
+FLILX	Strategic Advisers Emerging Markets Fund	9.520	9.520	9.520	0	0.310	3.37
+FLIXX	First American Treasury Obligations Fund	0.0900	0.0900	0.0900	0	0.0000	0.00
+FLMCX	Nuveen Flagship Michigan Muni Bd Fd Cl C	11.92	11.92	11.92	0	0.00	0.00
+FLMFX	Muirfield Fund	6.760	6.760	6.760	0	0.030	0.45
+FLMLX	Fidelity Advisor Series Equity Income	12.46	12.46	12.46	0	0.02	0.16
+FLMTX	Franklin Lifesmart 2015 Retirement	11.05	11.05	11.05	0	0.01	0.09
+FLMVX	Jpmorgan Mid Cap Value Fund	37.63	37.63	37.63	0	0.10	0.27
+FLNCX	Nuveen Flagship North Carolina Muni Bd	11.33	11.33	11.33	0	0.00	0.00
+FLOLX	Franklin Lifesmart 2040 Retirement	11.24	11.24	11.24	0	0.01	0.09
+FLPKX	Fidelity Low-Priced Stock Fund Class K	50.45	50.45	50.45	0	0.12	0.24
+FLPSX	Fidelity Low-Priced Stock Fund	50.46	50.46	50.46	0	0.11	0.22
+FLRAX	Nuveen Large Cap Select Class A	21.62	21.62	21.62	0	0.04	0.19
+FLRCX	Pioneer Floating Ratefund Class C	6.780	6.780	6.780	0	0.010	0.15
+FLRDX	Franklin Lifesmart 2015 Retirement	11.04	11.04	11.04	0	0.01	0.09
+FLREX	Franklin Lifesmart 2040 Retirement	11.45	11.45	11.45	0	0.01	0.09
+FLRFX	Franklin Lifesmart 2025 Retirement	11.73	11.73	11.73	0	0.00	0.00
+FLRGX	Franklin Lifesmart 2035 Retirement	12.03	12.03	12.03	0	0.01	0.08
+FLRHX	Franklin Lifesmart 2035 Retirement	12.17	12.17	12.17	0	0.01	0.08
+FLRIX	Franklin Lifesmart 2045 Retirement	11.71	11.71	11.71	0	0.00	0.00
+FLRJX	Franklin Lifesmart 2045 Retirement	11.99	11.99	11.99	0	0.00	0.00
+FLRKX	Pioneer Floating Rate Fund- Class K	6.770	6.770	6.770	0	0.000	0.00
+FLRLX	Franklin Lifesmart 2045 Retirement	12.16	12.16	12.16	0	0.01	0.08
+FLRMX	Franklin Lifesmart 2020 Retirement	10.84	10.84	10.84	0	0.00	0.00
+FLROX	Franklin Lifesmart 2020 Retirement	10.87	10.87	10.87	0	0.00	0.00
+FLRQX	Franklin Lifesmart 2020 Retirement	10.76	10.76	10.76	0	0.00	0.00
+FLRRX	Fist Low Duration Total Return Fund Cl	9.940	9.940	9.940	0	0.000	0.00
+FLRSX	Franklin Lifesmart 2030 Retirement	11.25	11.25	11.25	0	0.01	0.09
+FLRTX	Franklin Lifesmart 2030 Retirement	11.09	11.09	11.09	0	0.00	0.00
+FLRUX	Miller/Howard Infrastructure Fund -	22.04	22.04	22.04	0	0.40	1.85
+FLRVX	Franklin Lifesmart 2020 Retirement	10.81	10.81	10.81	0	0.00	0.00
+FLRWX	Franklin Lifesmart 2030 Retirement	11.21	11.21	11.21	0	0.00	0.00
+FLRYX	Nuveen Large Cap Select Class I	21.80	21.80	21.80	0	0.04	0.18
+FLRZX	Franklin Lifesmart 2030 Retirement	11.29	11.29	11.29	0	0.00	0.00
+FLSAX	Fidelity Advisor Leveraged Company Stock	55.21	55.21	55.21	0	0.20	0.36
+FLSBX	Franklin Lifesmart 2055 Retirement	9.620	9.620	9.620	0	0.010	0.10
+FLSCX	Fidelity Advisor Leveraged Company Stock	51.30	51.30	51.30	0	0.18	0.35
+FLSFX	Forward Credit Analysis Long/Short Fund	8.010	8.010	8.010	0	0.000	0.00
+FLSGX	Franklin Lifesmart 2040 Retirement	11.36	11.36	11.36	0	0.00	0.00
+FLSHX	Franklin Lifesmart 2040 Retirement	11.44	11.44	11.44	0	0.00	0.00
+FLSIX	Forward Credit Analysis Long/Short Fund	7.950	7.950	7.950	0	0.000	0.00
+FLSJX	Franklin Lifesmart 2050 Retirement	11.48	11.48	11.48	0	0.00	0.00
+FLSKX	Franklin Lifesmart 2050 Retirement	11.37	11.37	11.37	0	0.00	0.00
+FLSLX	Forward Credit Analysis Long/Short Fund	7.970	7.970	7.970	0	0.000	0.00
+FLSMX	Forward Credit Analysis Long/Short Fd	7.950	7.950	7.950	0	0.000	0.00
+FLSNX	Franklin Lifesmart 2050 Retirement	11.47	11.47	11.47	0	0.01	0.09
+FLSOX	Franklin Lifesmart 2050 Retirement	11.55	11.55	11.55	0	0.01	0.09
+FLSPX	Meeder Spectrum Fund	10.16	10.16	10.16	0	0.03	0.30
+FLSQX	Franklin Pelagos Commodities Strategy	6.290	6.290	6.290	0	0.030	0.48
+FLSRX	Forward Credit Analysis Long/Short Fund	8.010	8.010	8.010	0	0.000	0.00
+FLSTX	Fidelity Advisor Leveraged Company Stock	54.00	54.00	54.00	0	0.20	0.37
+FLSVX	Franklin Pelagos Commodities Strategy	6.160	6.160	6.160	0	0.030	0.49
+FLSWX	Franklin Pelagos Commodities Strategy	6.250	6.250	6.250	0	0.030	0.48
+FLSZX	Franklin Lifesmart 2055 Retirement	9.660	9.660	9.660	0	0.000	0.00
+FLTAX	Fa 529 Limited Term Bond Port-Cl A	16.77	16.77	16.77	0	0.02	0.12
+FLTCX	Nuveen Flagship Limited Term Muni Bd Fd	11.14	11.14	11.14	0	-0.01	0.09
+FLTDX	Nuveen Flagship Limited Term Muni Bd Fd	11.18	11.18	11.18	0	0.00	0.00
+FLTFX	Franklin Lifesmart 2055 Retirement	9.640	9.640	9.640	0	0.000	0.00
+FLTIX	Nuveen Short Term Bond Class I	9.910	9.910	9.910	0	0.000	0.00
+FLTKX	Franklin Lifesmart 2055 Retirement	9.660	9.660	9.660	0	0.000	0.00
+FLTMX	Fidelity Intermediate Municipal Income	10.70	10.70	10.70	0	0.00	0.00
+FLTNX	Franklin Lifesmart 2055 Retirement	9.550	9.550	9.550	0	0.000	0.00
+FLTPX	Fa 529 Limited Term Bond Port-Cl P	15.42	15.42	15.42	0	0.02	0.13
+FLTRX	Nuveen Flagship Limited Term Municipal	11.13	11.13	11.13	0	0.00	0.00
+FLTSX	Opportunities Fund of Funds Class F	9.910	9.910	9.910	0	0.030	0.30
+FLUAX	Fidelity Advisor Stock Selector Large	17.75	17.75	17.75	0	0.02	0.11
+FLUEX	Fidelity Advisor Stock Selector Large	17.34	17.34	17.34	0	0.03	0.17
+FLUIX	Fidelity Advisor Stock Selector Large	17.82	17.82	17.82	0	0.03	0.17
+FLUTX	Fidelity Advisor Stock Selector Large	17.71	17.71	17.71	0	0.03	0.17
+FLVCX	Fidelity Leveraged Company Stock Fd	41.74	41.74	41.74	0	0.14	0.34
+FLVEX	Fidelity Large Cap Value Enhanced Index	11.40	11.40	11.40	0	0.01	0.09
+FLVIX	Fidelity Advisor Leveraged Company Stock	56.09	56.09	56.09	0	0.20	0.36
+FLYCX	Nuveen Large Cap Select Class C	20.20	20.20	20.20	0	0.04	0.20
+FLYRX	Pioneer Floating Rate Fund Class Y	6.790	6.790	6.790	0	0.000	0.00
+FMAAX	Federated Absolute Return Fd A Shs	9.760	9.760	9.760	0	-0.010	0.10
+FMABX	Focused Multi-Asset Strategy Portfolio -	16.37	16.37	16.37	0	0.06	0.37
+FMAFX	Fa 529 Moderate Growth Port-Cl A	21.87	21.87	21.87	0	0.27	1.25
+FMAGX	Fidelity Magellan	91.74	91.74	91.74	0	0.06	0.07
+FMAHX	Franklin Massachusetts Tax-Free	12.13	12.13	12.13	0	0.00	0.00
+FMAIX	Franklin Massachusetts Insured Tax-Free	12.26	12.26	12.26	0	0.00	0.00
+FMAKX	Strategic Advisers Core Income	10.14	10.14	10.14	0	0.02	0.20
+FMALX	Fidelity Advisor Series Growth & Income	13.30	13.30	13.30	0	0.03	0.23
+FMAMX	Fidelity Advisor Stock Selector All Cap	36.26	36.26	36.26	0	0.00	0.00
+FMARX	Rx Tactical Rotation Fund -	9.760	9.760	9.760	0	-0.010	0.10
+FMATX	Focused Multi-Asset Strategy Portfolio	16.36	16.36	16.36	0	0.05	0.31
+FMBBX	Federated Absolute Return Fd B Shs	9.590	9.590	9.590	0	-0.010	0.10
+FMBKX	Strategic Advisers International	11.66	11.66	11.66	0	0.02	0.17
+FMBPX	Federated Mortgage Strategy Portfolio	10.18	10.18	10.18	0	0.01	0.10
+FMBRX	Mutual Beacon - Cl R6	15.83	15.83	15.83	0	0.04	0.25
+FMCAX	Fidelity Advisor Stock Selector Mid Cap	32.63	32.63	32.63	0	0.01	0.03
+FMCCX	Fidelity Advisor Stock Selector Mid Cap	33.92	33.92	33.92	0	0.02	0.06
+FMCDX	Fidelity Advisor Stock Selector Mid Cap	32.50	32.50	32.50	0	0.02	0.06
+FMCEX	Fidelity Advisor Stock Selector Mid Cap	29.75	29.75	29.75	0	0.01	0.03
+FMCFX	Fidelity Municipal Income 2019 Fund	10.77	10.77	10.77	0	0.00	0.00
+FMCGX	Fa 529 Moderate Growth Port-Cl C	19.52	19.52	19.52	0	0.23	1.19
+FMCKX	Fidelity Advisor Emerging Markets Class	22.02	22.02	22.02	0	-0.09	0.41
+FMCRX	Federated Mid-Cap Index Fd Is Shs	26.39	26.39	26.39	0	0.10	0.38
+FMCSX	Fidelity Mid-Cap Stock Fund	35.07	35.07	35.07	0	0.14	0.40
+FMCVX	Fvit-Microcap Value Fund - Class R6	33.15	33.15	33.15	0	0.11	0.33
+FMCYX	Nuveen Mid Cap Index Class R3	18.20	18.20	18.20	0	0.06	0.33
+FMDAX	Nuveen Small Cap Index Class A	14.75	14.75	14.75	0	0.09	0.61
+FMDCX	Federated Mid-Cap Index Fd Svc Shs	26.39	26.39	26.39	0	0.10	0.38
+FMDIX	Franklin Maryland Tax-Free Income Fund	11.76	11.76	11.76	0	0.00	0.00
+FMDRX	Mutual Global Discovery - Cl R6	30.87	30.87	30.87	0	0.10	0.32
+FMDTX	Franklin Maryland Tax-Free Income Fund	11.54	11.54	11.54	0	0.00	0.00
+FMDZX	Franklin Maryland Tax-Free Income Fund	11.55	11.55	11.55	0	0.00	0.00
+FMEAX	Fidelity Advisor Emerging Europe Middle	8.220	8.220	8.220	0	-0.010	0.12
+FMECX	Nuveen Mid Cap Growth Opportunities Cl C	30.56	30.56	30.56	0	0.05	0.16
+FMEFX	Nuveen Mid Cap Growth Opportunities Fd	44.70	44.70	44.70	0	0.08	0.18
+FMEIX	Fidelity Mid Cap Enhanced Index Fund	13.63	13.63	13.63	0	0.05	0.37
+FMELX	Strategic Advisers Growth Multi-Manager	13.13	13.13	13.13	0	0.00	0.00
+FMEQX	Wasatch - 1St Source Income Fund	10.27	10.27	10.27	0	0.00	0.00
+FMEUX	Franklin Mutual European Cl R6	18.74	18.74	18.74	0	0.12	0.64
+FMEYX	Nuveen Mid Cap Growth Opportunities	36.28	36.28	36.28	0	0.07	0.19
+FMFAX	Fidelity Advisor Materials Fund Class A	74.79	74.79	74.79	0	-0.26	0.35
+FMFCX	Fidelity Advisor Materials Fund Class C	72.31	72.31	72.31	0	-0.25	0.34
+FMFEX	Fidelity Advisor Materials Fund Class I	75.07	75.07	75.07	0	-0.25	0.33
+FMFIX	Rbb Fd Free Market Fixed Income Fund	10.45	10.45	10.45	0	0.01	0.10
+FMFMX	Fidelity Advisor Series Equity Growth	11.56	11.56	11.56	0	-0.01	0.09
+FMFTX	Fidelity Advisor Materials Fund Class T	74.17	74.17	74.17	0	-0.26	0.35
+FMFVX	Franklin Mutual Financial Services Fund	19.63	19.63	19.63	0	0.12	0.62
+FMGAX	Fidelity Advisor Mortgage Securities Cl	11.46	11.46	11.46	0	0.00	0.00
+FMGCX	Rx Dynamic Stock Fund - Class C	4.720	4.720	4.720	0	0.000	0.00
+FMGDX	Fa 529 Moderate Growth Port-Cl D	21.07	21.07	21.07	0	0.26	1.25
+FMGEX	Frontier MFG Global Equity Fund -	16.07	16.07	16.07	0	0.03	0.19
+FMGGX	Fss Small-Mid Cap Growth Fund Cl R6	37.34	37.34	37.34	0	0.01	0.03
+FMGIX	Frontier MFG Core Infrastructure Fund -	15.25	15.25	15.25	0	0.02	0.13
+FMGKX	Fidelity Magellan Fund Class K	91.65	91.65	91.65	0	0.06	0.07
+FMGOX	Fa 529 Moderate Growth Port-Old Cl A	21.90	21.90	21.90	0	0.26	1.20
+FMGPX	Frontier MFG Global Plus Fund-	10.21	10.21	10.21	0	0.02	0.20
+FMGRX	Rx Dynamic Stock Fund - Institutional	4.970	4.970	4.970	0	0.000	0.00
+FMHTX	Fidelity Michigan Municipal Income Fund	12.63	12.63	12.63	0	0.00	0.00
+FMIAX	Mutual International Fd Cl A	14.11	14.11	14.11	0	0.06	0.43
+FMICX	Virtus Contrarian Value Fund Class C	33.48	33.48	33.48	0	-0.20	0.59
+FMIEX	Wasatch - 1St Source Income Equity Fund	9.190	9.190	9.190	0	-0.010	0.11
+FMIFX	Fidelity Municipal Income 2017 Fund	10.47	10.47	10.47	0	0.00	0.00
+FMIHX	Fmi Large Cap Fund	20.34	20.34	20.34	0	-0.02	0.10
+FMIIX	Federated Absolute Return Fd Is Shs	9.850	9.850	9.850	0	-0.010	0.10
+FMIJX	Fmi International Fund	30.82	30.82	30.82	0	0.03	0.10
+FMILX	Fidelity New Millennium Fund	37.17	37.17	37.17	0	0.08	0.22
+FMIMX	Fmi Common Stock Fund	25.75	25.75	25.75	0	0.12	0.47
+FMINX	Franklin Minnesota Insured Tax-Free	12.70	12.70	12.70	0	0.00	0.00
+FMISX	Franklin Massachusetts Insured Tax Free	12.13	12.13	12.13	0	0.00	0.00
+FMITX	Nuveen Flagship Michigan Muni Bd Fd Cl A	11.95	11.95	11.95	0	0.00	0.00
+FMIVX	Virtus Contrarian Value Fund Class A	35.00	35.00	35.00	0	-0.20	0.57
+FMIZX	Mutual International Fd Cl Z	14.20	14.20	14.20	0	0.07	0.50
+FMJAX	Strategic Advisers Multi-Manager 2025	11.03	11.03	11.03	0	0.12	1.10
+FMJBX	Strategic Advisers Multi-Manager 2025	11.02	11.02	11.02	0	0.13	1.19
+FMJCX	Strategic Advisers Multi-Manager 2035	11.11	11.11	11.11	0	0.16	1.46
+FMJDX	Strategic Advisers International	11.64	11.64	11.64	0	0.01	0.09
+FMJEX	Strategic Advisers Multi-Manager 2035	11.09	11.09	11.09	0	0.16	1.46
+FMJFX	Strategic Advisers Multi-Manager 2045	11.26	11.26	11.26	0	0.16	1.44
+FMJGX	Strategic Advisers Multi-Manager 2045	11.24	11.24	11.24	0	0.16	1.44
+FMJIX	Strategic Advisers Multi-Manager 2030	10.84	10.84	10.84	0	0.14	1.31
+FMJJX	Strategic Advisers Multi-Manager 2030	10.83	10.83	10.83	0	0.14	1.31
+FMJKX	Strategic Advisers Multi-Manager 2040	11.02	11.02	11.02	0	0.16	1.47
+FMJLX	Strategic Advisers Multi-Manager 2050	11.04	11.04	11.04	0	0.16	1.47
+FMJMX	Strategic Advisers Multi-Manager 2050	11.02	11.02	11.02	0	0.16	1.47
+FMJNX	Strategic Advisers Multi-Manager 2055	11.24	11.24	11.24	0	0.15	1.35
+FMJOX	Strategic Advisers Multi-Manager 2055	11.22	11.22	11.22	0	0.16	1.45
+FMJPX	Strategic Advisers Multi-Manager Income	10.29	10.29	10.29	0	0.06	0.59
+FMJQX	Strategic Advisers Multi-Manager Income	10.28	10.28	10.28	0	0.06	0.59
+FMJRX	Strategic Advisers Multi-Manager 2005	10.44	10.44	10.44	0	0.07	0.68
+FMJSX	Strategic Advisers Multi-Manager 2005	10.43	10.43	10.43	0	0.07	0.68
+FMJTX	Strategic Advisers Multi-Manager 2010	10.63	10.63	10.63	0	0.10	0.95
+FMJUX	Strategic Advisers Multi-Manager 2010	10.61	10.61	10.61	0	0.09	0.86
+FMJVX	Strategic Advisers Multi-Manager 2015	10.83	10.83	10.83	0	0.11	1.03
+FMJWX	Strategic Advisers Multi-Manager 2015	10.81	10.81	10.81	0	0.10	0.93
+FMJYX	Strategic Advisers Multi-Manager 2020	10.82	10.82	10.82	0	0.11	1.03
+FMJZX	Strategic Advisers Multi-Manager 2020	10.81	10.81	10.81	0	0.11	1.03
+FMKAX	Fidelity Advisor Emerging Markets Income	14.45	14.45	14.45	0	0.07	0.49
+FMKCX	Fidelity Advisor Emerging Markets Income	14.56	14.56	14.56	0	0.07	0.48
+FMKIX	Fidelity Advisor Emerging Markets Income	14.17	14.17	14.17	0	0.06	0.43
+FMLAX	Rx Tactical Rotation Fund - Class C	9.680	9.680	9.680	0	0.000	0.00
+FMLSX	Wasatch - 1St Source Long/Short Fund	12.74	12.74	12.74	0	0.05	0.39
+FMLTX	Franklin Lifesmart 2045 Retirement	12.16	12.16	12.16	0	0.01	0.08
+FMMAX	Fa 529 Money Market Port-Cl A	11.62	11.62	11.62	0	0.00	0.00
+FMMCX	Fa 529 Money Market Port-Cl C	11.13	11.13	11.13	0	0.00	0.00
+FMMDX	Fa 529 Money Market Port-Cl D	11.43	11.43	11.43	0	0.00	0.00
+FMMLX	Fidelity Advisor Series Stock Selector	12.02	12.02	12.02	0	0.02	0.17
+FMMPX	Fa 529 Money Market Port-Cl P	11.28	11.28	11.28	0	0.01	0.09
+FMMRX	Nuveen Flagship Mo Muni Bd Fd Cl R [Srs	11.72	11.72	11.72	0	0.01	0.09
+FMNBX	Federated Muni & Stock Advantage Fd B	12.68	12.68	12.68	0	0.00	0.00
+FMNCX	Federated Municipal High Yield Advantage	9.250	9.250	9.250	0	0.000	0.00
+FMNDX	Fidelity Conservative Income Municipal	10.05	10.05	10.05	0	0.00	0.00
+FMNEX	Rbb Fd Free Market International Equity	9.530	9.530	9.530	0	0.000	0.00
+FMNIX	Franklin Minnesota Insured Tax-Free	12.83	12.83	12.83	0	0.00	0.00
+FMNZX	Franklin Minnesota Tax-Free Income Fd Cl	12.71	12.71	12.71	0	0.00	0.00
+FMOAX	Federated Municipal High Yield Advantage	9.250	9.250	9.250	0	0.000	0.00
+FMOBX	Federated Municipal High Yield Advantage	9.250	9.250	9.250	0	0.000	0.00
+FMOCX	Nuveen Flagship Missouri Municipal Bond	11.69	11.69	11.69	0	0.00	0.00
+FMOIX	Franklin Missouri Tax-Free Income Fund	12.28	12.28	12.28	0	0.00	0.00
+FMOTX	Nuveen Flagship Missouri Municipal Bd Fd	11.72	11.72	11.72	0	0.00	0.00
+FMPAX	Fidelity Advisor Mid Cap Value Fund	23.55	23.55	23.55	0	0.07	0.30
+FMPCX	Nuveen Small Cap Growth Opportunities Cl	17.18	17.18	17.18	0	0.10	0.59
+FMPEX	Fidelity Advisor Mid Cap Value Fund	22.79	22.79	22.79	0	0.06	0.26
+FMPFX	Nuveen Small Cap Growth Opportu	24.58	24.58	24.58	0	0.15	0.61
+FMPIX	Fidelity Advisor Municipal Income Fund	13.74	13.74	13.74	0	0.00	0.00
+FMPOX	Fidelity Advisor Mid Cap Value Fund	23.69	23.69	23.69	0	0.07	0.30
+FMPSX	Frontier MFG Global Plus Fund -	10.22	10.22	10.22	0	0.02	0.20
+FMPTX	Fidelity Advisor Mid Cap Value Fund	23.43	23.43	23.43	0	0.06	0.26
+FMPYX	Nuveen Small Cap Growth Opportunities Cl	20.32	20.32	20.32	0	0.12	0.59
+FMQRX	Mutual Quest - Cl R6	15.92	15.92	15.92	0	0.06	0.38
+FMQSX	Mutual Quest Fund Class R	15.51	15.51	15.51	0	0.06	0.39
+FMRCX	Federated Absolute Return Fd C Shs	9.550	9.550	9.550	0	-0.010	0.10
+FMRMX	Fidelity Advisor Event Driven	11.73	11.73	11.73	0	0.10	0.86
+FMSAX	Fidelity Income Fund Fidelity Advisor	11.49	11.49	11.49	0	0.01	0.09
+FMSCX	Fidelity Advisor Mortgage Securities	11.45	11.45	11.45	0	0.01	0.09
+FMSFX	Fidelity Mortgage Securities Fund	11.49	11.49	11.49	0	0.01	0.09
+FMSHX	Franklin Mutual Shares Cl R6	28.20	28.20	28.20	0	0.07	0.25
+FMSLX	FMC Select Fund	30.11	30.11	30.11	0	-0.10	0.33
+FMSTX	Federated Mdt Stock Trust Is Shares	26.61	26.61	26.61	0	0.08	0.30
+FMSVX	FMC Strategic Value Fund	25.32	25.32	25.32	0	0.21	0.84
+FMTAX	Federated Short-Intermediate Duration	10.34	10.34	10.34	0	0.00	0.00
+FMTFX	Franklin Michigan Tax-Free Income Fd Cl	12.03	12.03	12.03	0	0.00	0.00
+FMTIX	Franklin Templeton Moderate Target Fund	15.05	15.05	15.05	0	0.01	0.07
+FMTLX	Franklin Lifesmart 2035 Retirement	12.16	12.16	12.16	0	0.00	0.00
+FMTNX	First Investors Multi-State Tax Free	13.67	13.67	13.67	0	0.00	0.00
+FMTQX	First Investors Multi-State Insured Tax	13.64	13.64	13.64	0	0.00	0.00
+FMTTX	First Investors North Carolina Tax	13.70	13.70	13.70	0	0.00	0.00
+FMTUX	First Investors North Carolina Tax	13.67	13.67	13.67	0	0.00	0.00
+FMTZX	Franklin Templeton Moderate Target Fund	15.09	15.09	15.09	0	0.01	0.07
+FMUAX	Federated Muni & Stock Advantage Fd A	12.69	12.69	12.69	0	0.00	0.00
+FMUCX	Federated Muni & Stock Advantage Fd C	12.68	12.68	12.68	0	0.00	0.00
+FMUEX	Rbb Fundfree Market US Equity Fund	16.38	16.38	16.38	0	0.07	0.43
+FMUFX	Federated Muni and Stock Advantage Fund	12.69	12.69	12.69	0	0.00	0.00
+FMUIX	Federated Muni and Stock Advantage Fund	12.69	12.69	12.69	0	0.00	0.00
+FMUSX	Federated Municipal Ultrashort Fd Is	9.990	9.990	9.990	0	0.000	0.00
+FMUUX	Federated Municipal Ultrashort Fund	9.990	9.990	9.990	0	0.000	0.00
+FMVAX	Franklin Midcap Value Fund Class A	15.01	15.01	15.01	0	0.09	0.60
+FMVCX	Franklin Midcap Value Fund Class C	14.72	14.72	14.72	0	0.09	0.62
+FMVFX	Matson Money Fixed Income Vi Portfolio	25.35	25.35	25.35	0	0.00	0.00
+FMVIX	Matson Money International Equity Vi	23.24	23.24	23.24	0	0.02	0.09
+FMVPX	Federated Managed Volatility Strategy	8.580	8.580	8.580	0	0.020	0.23
+FMVRX	Franklin Midcap Value Fund Clas	15.01	15.01	15.01	0	0.08	0.54
+FMVSX	Nuveen Mid Cap Value Fund Class R	36.70	36.70	36.70	0	0.10	0.27
+FMVUX	Matson Money U.S. Equity Vi Portfolio	27.11	27.11	27.11	0	0.12	0.44
+FMVZX	Franklin Midcap Value Fund Clas	15.09	15.09	15.09	0	0.09	0.60
+FMXKX	Federated Max Cap Index Fund Class R	15.13	15.13	15.13	0	0.00	0.00
+FMXSX	Federated Max-Cap Index Fd Svc Shs	15.14	15.14	15.14	0	0.00	0.00
+FMYIX	Federated Municipal High Yield	9.240	9.240	9.240	0	0.000	0.00
+FNAPX	Strategic Advisers Small-Cap	10.87	10.87	10.87	0	0.06	0.56
+FNARX	Fidelity Select Portfolio Natural	29.40	29.40	29.40	0	0.05	0.17
+FNBCX	Fidelity Advisor Limited Term Bond Fund	11.55	11.55	11.55	0	-0.01	0.09
+FNCAX	Franklin Nextstep Conservative Fund	10.67	10.67	10.67	0	0.03	0.28
+FNCCX	Nuveen Nm Municipal Bond Fd Cl C	10.73	10.73	10.73	0	0.00	0.00
+FNCDX	Franklin Nextstep Conservative Fund	10.63	10.63	10.63	0	0.03	0.28
+FNCFX	Franklin Income Fund Cl R6	2.240	2.240	2.240	0	0.010	0.45
+FNCIX	Franklin North Carolina Tax-Free Income	12.28	12.28	12.28	0	0.00	0.00
+FNCMX	Fidelity Nasdaq Composite Index	69.77	69.77	69.77	0	0.11	0.16
+FNCRX	Franklin Natural Resources Fund Class C	24.76	24.76	24.76	0	0.02	0.08
+FNCVX	Franklin Nextstep Conservative	10.68	10.68	10.68	0	0.04	0.38
+FNCZX	Franklin North Carolina Tax-Free Income	12.10	12.10	12.10	0	0.00	0.00
+FNGAX	Franklin International Growth Fund Class	11.43	11.43	11.43	0	-0.01	0.09
+FNGBX	Franklin Nextstep Growth Fund Class A	11.26	11.26	11.26	0	0.06	0.54
+FNGCX	Franklin Nextstep Growth Fund Class C	11.21	11.21	11.21	0	0.05	0.45
+FNGVX	Franklin Nextstep Growth Fund C	11.26	11.26	11.26	0	0.05	0.45
+FNGZX	Franklin International Growth Fund Class	11.50	11.50	11.50	0	-0.01	0.09
+FNHSX	Frontier Silk Invest New Horizo	9.410	9.410	9.410	0	-0.030	0.32
+FNIAX	Fidelity Advisor New Insights Class A	27.74	27.74	27.74	0	0.02	0.07
+FNICX	Fidelity Advisor New Insights Class C	24.99	24.99	24.99	0	0.02	0.08
+FNIHX	Ai U.S. Inflation-Protected Fund - Class	10.89	10.89	10.89	0	0.01	0.09
+FNIIX	Franklin New Jersey Tax-Free Income Fund	12.05	12.05	12.05	0	0.00	0.00
+FNITX	Fidelity Advisor New Insights Class T	27.01	27.01	27.01	0	0.02	0.07
+FNJHX	Fidelity New Jersey Municipal Income	12.28	12.28	12.28	0	0.00	0.00
+FNJPX	Strategic Advisers Multi-Manager 2060	9.830	9.830	9.830	0	0.140	1.44
+FNJZX	Franklin New Jersey Tax-Free Income Fund	11.91	11.91	11.91	0	0.00	0.00
+FNKCX	Frank Value Fund Class C	12.65	12.65	12.65	0	0.03	0.24
+FNKIX	Frank Value Fund Institutional Class	13.41	13.41	13.41	0	0.03	0.22
+FNKLX	Fidelity Advisor Series Equity Income	12.47	12.47	12.47	0	0.02	0.16
+FNMAX	Fidelity Advisor New York Municipal	13.86	13.86	13.86	0	0.00	0.00
+FNMCX	Nuveen Flagship Nm Muni Bd Fd Cl C [Srs	10.72	10.72	10.72	0	0.01	0.09
+FNMDX	Franklin Nextstep Moderate Fund Class A	11.16	11.16	11.16	0	0.05	0.45
+FNMFX	Franklin Nextstep Moderate Fund Class C	11.12	11.12	11.12	0	0.05	0.45
+FNMIX	Fidelity New Markets Income Fund	16.43	16.43	16.43	0	0.08	0.49
+FNMRX	Nuveen Flagship Nm Muni Bd Fd Cl R [Srs	10.78	10.78	10.78	0	0.01	0.09
+FNMTX	Nuveen Flagship New Mexico Muni Bd Fd Cl	10.72	10.72	10.72	0	0.01	0.09
+FNMZX	Franklin Nextstep Moderate Fund	11.17	11.17	11.17	0	0.06	0.54
+FNORX	Fidelity Investment Trust Fidelity	49.74	49.74	49.74	0	0.30	0.61
+FNPAX	Fa 529 New Insights Port-Cl A	21.98	21.98	21.98	0	0.28	1.29
+FNPCX	Fa 529 New Insights Port-Cl C	20.33	20.33	20.33	0	0.26	1.30
+FNPIX	Financials Ultrasector Profund Investor	15.40	15.40	15.40	0	0.05	0.33
+FNPPX	Fa 529 New Insights Port-Cl P	20.89	20.89	20.89	0	0.27	1.31
+FNPQX	Strategic Advisers Multi-Manager 2060	9.810	9.810	9.810	0	0.140	1.45
+FNPSX	Financials Ultrasector Profund Service	13.48	13.48	13.48	0	0.05	0.37
+FNRAX	Franklin Strategic Series Natural	27.36	27.36	27.36	0	0.03	0.11
+FNRCX	Fidelity Advisor Energy Class C	30.97	30.97	30.97	0	0.09	0.29
+FNSMX	Forward International Small Companies	18.14	18.14	18.14	0	0.06	0.33
+FNSVX	Frontier Netols Small Cap Value Fund -	9.260	9.260	9.260	0	0.040	0.43
+FNSYX	Frontier Netols Small Cap Value Fund -	8.730	8.730	8.730	0	0.050	0.58
+FNTAX	Nuveen Nebraska Municipal Bond Fund	11.16	11.16	11.16	0	0.00	0.00
+FNTCX	Nuveen Nebraska Municipal Bond Fund Cl	11.08	11.08	11.08	0	0.00	0.00
+FNTYX	Nuveen Nebraska Municipal Bond Fd Cl I	11.18	11.18	11.18	0	0.01	0.09
+FNYAX	Franklin New York Tax Free Income Fund	11.60	11.60	11.60	0	-0.01	0.09
+FNYCX	Fidelity Advisor New York Municipal	13.86	13.86	13.86	0	0.00	0.00
+FNYFX	First Investors New York Tax-Free Fund	14.83	14.83	14.83	0	0.00	0.00
+FNYGX	First Investors New York Insured Tax	14.81	14.81	14.81	0	0.00	0.00
+FNYHX	First Investors New York Tax Exempt Fund	14.83	14.83	14.83	0	0.00	0.00
+FNYIX	Franklin NY Tax Free Income Fund Class C	11.59	11.59	11.59	0	0.00	0.00
+FNYJX	First Investors New York Tax Exempt Fund	14.85	14.85	14.85	0	0.00	0.00
+FNYPX	Fidelity Advisor New York Municipal	13.87	13.87	13.87	0	0.00	0.00
+FNYTX	Franklin New York Tax-Free Income Fund	11.60	11.60	11.60	0	0.00	0.00
+FNYZX	Franklin New York Intermediate-Term	12.03	12.03	12.03	0	0.00	0.00
+FOBAX	Tributary Balanced Fd Instl	17.29	17.29	17.29	0	-0.01	0.06
+FOBPX	Tributary Balanced Fund Institutional	17.19	17.19	17.19	0	-0.01	0.06
+FOCAX	Sunamerica Focused Alpha Growth Fd Cl A	24.89	24.89	24.89	0	0.10	0.40
+FOCCX	Sunamerica Focused Alpha Growth Fd Cl C	24.02	24.02	24.02	0	0.10	0.42
+FOCFX	Fidelity Municipal Income 2021 Fund	11.16	11.16	11.16	0	-0.01	0.09
+FOCIX	The Fairholme Focused Income Fund	10.94	10.94	10.94	0	0.00	0.00
+FOCKX	Fidelity OTC Portfolio Class K	87.66	87.66	87.66	0	-0.03	0.03
+FOCPX	Fidelity OTC Pt	86.67	86.67	86.67	0	-0.03	0.03
+FOCWX	Sunamerica Focused Alpha Growth Fd Cl W	25.14	25.14	25.14	0	0.10	0.40
+FOEIX	Motley Fool Epic Voyage Fund-	12.27	12.27	12.27	0	0.05	0.41
+FOFZX	Franklin Oregon Tax-Free Income Fund	12.11	12.11	12.11	0	0.01	0.08
+FOGIX	Motley Fool Great America Fund-	19.44	19.44	19.44	0	0.07	0.36
+FOGPX	Tributary Growth Opportunities Fund	16.48	16.48	16.48	0	0.00	0.00
+FOGRX	Tributary Growth Opportunities Fd Instl	16.25	16.25	16.25	0	-0.01	0.06
+FOHCX	Nuveen Flagship Ohio Muni Bd Fd Cl C	11.92	11.92	11.92	0	0.00	0.00
+FOHFX	Fidelity Ohio Municipal Income Fund	12.66	12.66	12.66	0	0.00	0.00
+FOHIX	Fidelity Series 100 Index Fund	14.38	14.38	14.38	0	-0.01	0.07
+FOHJX	Fidelity Series 100 Index Fund Class F	14.38	14.38	14.38	0	-0.01	0.07
+FOHTX	Nuveen Flagship Ohio Muni Bd Fd Cl A	11.96	11.96	11.96	0	0.00	0.00
+FOIIX	Motley Fool Independence Fund-	21.25	21.25	21.25	0	0.09	0.43
+FOINX	Tributary Income Fd Instl	10.59	10.59	10.59	0	0.00	0.00
+FOIPX	Tributary Income Fund Institutional Plus	10.59	10.59	10.59	0	0.00	0.00
+FOITX	Franklin Ohio Insured Tax-Free Income	13.22	13.22	13.22	0	0.00	0.00
+FOMAX	Fidelity Advisor Municipal Income 2021	11.16	11.16	11.16	0	-0.01	0.09
+FOMCX	Fidelity Advisor Mortgage Securities Cl	11.44	11.44	11.44	0	0.00	0.00
+FOMIX	Fidelity Advisor Municipal Income 2021	11.16	11.16	11.16	0	-0.01	0.09
+FONPX	Tributary Nebraska Tax-Free Fund -	10.06	10.06	10.06	0	0.00	0.00
+FOOLX	Motley Fool Independence Fund	21.21	21.21	21.21	0	0.09	0.43
+FOPAX	Fidelity Advisor International Small Cap	15.50	15.50	15.50	0	0.00	0.00
+FOPCX	Fidelity Advisor International Small Cap	14.95	14.95	14.95	0	0.00	0.00
+FOPIX	Fidelity Advisor International Small Cap	15.67	15.67	15.67	0	0.00	0.00
+FOPPX	Franklin Growth Opportunities Fd Cl R6	34.65	34.65	34.65	0	0.00	0.00
+FOPTX	Fidelity Advisor International Small Cap	15.37	15.37	15.37	0	0.00	0.00
+FORCX	Nuveen Oregon Intermediate Muni Bd Fd Cl	10.58	10.58	10.58	0	0.01	0.09
+FORIX	Franklin Oregon Tax-Free Income Fund	12.27	12.27	12.27	0	0.01	0.08
+FOSBX	Tributary Small Company Fund Insti Plus	25.94	25.94	25.94	0	0.11	0.43
+FOSCX	Tributary Small Company Fd Instl	25.88	25.88	25.88	0	0.12	0.47
+FOSFX	Fidelity Overseas Fund	42.57	42.57	42.57	0	0.14	0.33
+FOSIX	Tributary Short-Intermediate Bond Fd	9.420	9.420	9.420	0	0.000	0.00
+FOSKX	Fidelity Overseas Fund Class K	42.50	42.50	42.50	0	0.14	0.33
+FOSPX	Tributary Short-Intermediate Bond Fd	9.450	9.450	9.450	0	0.010	0.11
+FOTAX	Nuveen Oregon Intermediate Muni Bd Fd Cl	10.57	10.57	10.57	0	0.01	0.09
+FOVAX	First Trust/Confluence Small Cap Value	29.24	29.24	29.24	0	0.12	0.41
+FOVCX	First Trust/Confluence Small Cap Value	26.99	26.99	26.99	0	0.12	0.45
+FOVIX	First Trust/Confluence Small Cap Value	29.87	29.87	29.87	0	0.13	0.44
+FOZXX	First American U.S. Treasury Money	0.1500	0.1500	0.1500	0	0.0000	0.00
+FPAAX	Fa 529 Port 2019-Cl A	19.07	19.07	19.07	0	0.15	0.79
+FPABX	Federated Pennsylvania Municipal Income	11.28	11.28	11.28	0	0.00	0.00
+FPACX	Fpa Funds Trust Fpa Crescent Portfolio	32.82	32.82	32.82	0	0.02	0.06
+FPADX	Spartan Emerging Markets Index Fd	9.230	9.230	9.230	0	-0.020	0.22
+FPBFX	Fidelity Pacific-Basin Fund	29.51	29.51	29.51	0	0.11	0.37
+FPCAX	Fa 529 Port 2016-Cl A	18.06	18.06	18.06	0	0.11	0.61
+FPCCX	Nuveen Pa Municipal Bond Fd Cl C	11.40	11.40	11.40	0	0.00	0.00
+FPCDX	Fa 529 Port 2016-Cl D	17.44	17.44	17.44	0	0.10	0.58
+FPCFX	Nuveen Core Plus Bond Fund Class R6	11.20	11.20	11.20	0	0.00	0.00
+FPCGX	Fort Pitt Capital Total Return Fund	21.33	21.33	21.33	0	0.10	0.47
+FPCIX	Strategic Advisers Core Income Fund	10.77	10.77	10.77	0	0.02	0.19
+FPCLX	Fa 529 Port 2034-Cl P	10.55	10.55	10.55	0	0.17	1.64
+FPCMX	Fa 529 Port 2031-Cl P	16.39	16.39	16.39	0	0.25	1.55
+FPCOX	Fa 529 Port 2016-Old Cl A	18.09	18.09	18.09	0	0.11	0.61
+FPCPX	Fa 529 Port 2016-Cl P	16.82	16.82	16.82	0	0.09	0.54
+FPDAX	Fa 529 Port 2031-Cl A	16.73	16.73	16.73	0	0.25	1.52
+FPDCX	Fa 529 Port 2031-Cl C	16.17	16.17	16.17	0	0.24	1.51
+FPDDX	Fa 529 Port 2019-Cl D	18.35	18.35	18.35	0	0.14	0.77
+FPDPX	Fa 529 Port 2028-Cl P	22.92	22.92	22.92	0	0.30	1.33
+FPDXX	First American Prime Obligation Class D	0.0200	0.0200	0.0200	0	0.0000	0.00
+FPEAX	First Trust Preferred Securities and	21.72	21.72	21.72	0	0.03	0.14
+FPECX	First Trust Preferred Securities and	21.76	21.76	21.76	0	0.03	0.14
+FPEFX	First Trust Preferred Securities and	21.91	21.91	21.91	0	0.03	0.14
+FPEIX	First Trust Preferred Securities and	21.80	21.80	21.80	0	0.03	0.14
+FPELX	Franklin Pelagos Commodities Strategy	6.350	6.350	6.350	0	0.020	0.32
+FPEMX	Spartan Emerging Markets Index Fd Inv Cl	9.210	9.210	9.210	0	-0.020	0.22
+FPERX	First Trust Preferred Securities and	21.69	21.69	21.69	0	0.03	0.14
+FPFAX	Fa 529 Port 2028-Cl A	23.77	23.77	23.77	0	0.31	1.32
+FPFCX	Fa 529 Port 2028-Cl C	22.42	22.42	22.42	0	0.29	1.31
+FPFPX	Fa 529 Port 2025-Cl P	15.68	15.68	15.68	0	0.18	1.16
+FPFZX	Franklin Pennsylvania Tax-Free Income	10.49	10.49	10.49	0	0.00	0.00
+FPGAX	Fa 529 Port 2025-Cl A	16.56	16.56	16.56	0	0.19	1.16
+FPGCX	Federated Prudent Dollarbear Fund C	9.670	9.670	9.670	0	-0.010	0.10
+FPGIX	Federated Prudent Dollarbear Fund Is	10.26	10.26	10.26	0	-0.01	0.10
+FPHAX	Fidelity Select Pharmaceuticals	19.32	19.32	19.32	0	-0.01	0.05
+FPHCX	Fa 529 Port 2025-Cl C	15.29	15.29	15.29	0	0.17	1.12
+FPIAX	Fa 529 Port 2022-Cl A	24.25	24.25	24.25	0	0.24	1.00
+FPICX	Fa 529 Port 2022-Cl C	21.97	21.97	21.97	0	0.21	0.97
+FPIFX	Fidelity Freedom Index 2020 Fd Cl K	14.41	14.41	14.41	0	0.02	0.14
+FPIOX	Strategic Advisers Income Opportunities	9.320	9.320	9.320	0	0.020	0.22
+FPIVX	Fpa International Value Fund	12.36	12.36	12.36	0	0.10	0.82
+FPIXX	First American Prime Obligations Fund	0.1600	0.1600	0.1600	0	0.0100	6.67
+FPJAX	Fidelity Advisor Japan Fund Class A	12.50	12.50	12.50	0	0.10	0.81
+FPJCX	Fa 529 Port 2016-Cl C	16.33	16.33	16.33	0	0.09	0.55
+FPKAX	Fa 529 Port 2022-Old Cl A	24.27	24.27	24.27	0	0.23	0.96
+FPLCX	Fa 529 Port 2019-Cl C	17.20	17.20	17.20	0	0.13	0.76
+FPLLX	Fa 529 Port 2034-Cl C	10.50	10.50	10.50	0	0.17	1.65
+FPMAX	Spartan Emerging Markets Index Fd	9.220	9.220	9.220	0	-0.020	0.22
+FPMBX	Nuveen Flagship Pennsylvania Municipal	11.41	11.41	11.41	0	0.01	0.09
+FPMIX	Spartan Emerging Markets Index Fd Insti	9.230	9.230	9.230	0	-0.020	0.22
+FPNIX	Fpa New Income	10.06	10.06	10.06	0	0.00	0.00
+FPNTX	Nuveen Flagship Pennsylvania Muni Bd Fd	11.45	11.45	11.45	0	0.00	0.00
+FPOBX	Franklin Payout 2017 Fund Cl Adv	10.09	10.09	10.09	0	0.00	0.00
+FPODX	Franklin Payout 2018 Fund Cl Adv	10.17	10.17	10.17	0	0.00	0.00
+FPOEX	Franklin Payout 2019 Fund Cl R6	10.31	10.31	10.31	0	0.00	0.00
+FPOFX	Franklin Payout 2019 Fund Cl Adv	10.31	10.31	10.31	0	0.00	0.00
+FPOGX	Franklin Payout 2020 Fund Cl R6	10.38	10.38	10.38	0	0.00	0.00
+FPOHX	Franklin Payout 2020 Fund Cl Adv	10.38	10.38	10.38	0	0.00	0.00
+FPOJX	Franklin Payout 2021 Fund Cl Adv	10.54	10.54	10.54	0	0.00	0.00
+FPOKX	Franklin Payout 2017 Fund Cl R6	10.09	10.09	10.09	0	0.00	0.00
+FPOLX	Franklin Payout 2018 Fund Cl R6	10.17	10.17	10.17	0	0.00	0.00
+FPOMX	Franklin Payout 2021 Fund Cl R6	10.54	10.54	10.54	0	0.00	0.00
+FPPCX	Fa 529 Port 2019-Cl P	17.72	17.72	17.72	0	0.13	0.74
+FPPFX	Fpa Perennial Fund	9.040	9.040	9.040	0	0.080	0.89
+FPPTX	Fpa Capital Fund	35.19	35.19	35.19	0	0.34	0.98
+FPRAX	Fpa Paramount Fund Inc.	17.57	17.57	17.57	0	0.03	0.17
+FPREX	Forward Real Estate Fund Insti Class	13.56	13.56	13.56	0	0.10	0.74
+FPSVX	Frontier Phocas Small Cap Value Fund -	35.97	35.97	35.97	0	0.27	0.76
+FPUKX	Fidelity Puritan Fund Class K	21.19	21.19	21.19	0	-0.02	0.09
+FPURX	Fidelity Puritan Fund	21.21	21.21	21.21	0	-0.01	0.05
+FPUXX	Retail Prime Obligations Fund Class V	0.4100	0.4100	0.4100	0	-0.0800	16.33
+FPVSX	Frontier Phocas Small Cap Value Fund -	36.01	36.01	36.01	0	0.28	0.78
+FPXAX	Fa 529 Value Strategies Port-Cl P	27.67	27.67	27.67	0	0.18	0.65
+FPXCX	Nuveen Small Cap Index Fund C C	13.98	13.98	13.98	0	0.08	0.58
+FPXTX	Fidelity Pennsylvania Municipal Income	11.58	11.58	11.58	0	0.00	0.00
+FQAAX	Strategic Advisers Emerging Markets Fund	9.530	9.530	9.530	0	0.320	3.47
+FQABX	Strategic Advisers Emerging Markets Fund	9.510	9.510	9.510	0	0.320	3.48
+FQACX	Strategic Advisers Growth Multi-Manager	13.12	13.12	13.12	0	0.00	0.00
+FQAEX	Strategic Advisers Growth Multi-Manager	13.11	13.11	13.11	0	0.00	0.00
+FQAFX	Strategic Advisers Income Opportunities	9.910	9.910	9.910	0	0.030	0.30
+FQAGX	Strategic Advisers Income Opportunities	9.910	9.910	9.910	0	0.030	0.30
+FQAHX	Strategic Advisers International	11.63	11.63	11.63	0	0.02	0.17
+FQAIX	Strategic Advisers International	11.61	11.61	11.61	0	0.02	0.17
+FQAJX	Strategic Advisers Small-Mid Cap	10.86	10.86	10.86	0	0.06	0.56
+FQAKX	Strategic Advisers Small-Mid Cap	10.82	10.82	10.82	0	0.06	0.56
+FQALX	Strategic Advisers Value Multi-Manager	13.68	13.68	13.68	0	0.03	0.22
+FQAMX	Strategic Advisers Value Multi-Manager	13.67	13.67	13.67	0	0.03	0.22
+FQANX	Strategic Advisers Core Income	10.14	10.14	10.14	0	0.02	0.20
+FQAOX	Strategic Advisers Core Income	10.14	10.14	10.14	0	0.02	0.20
+FQAPX	Strategic Advisers Core Multi-Manager	11.95	11.95	11.95	0	-0.01	0.08
+FQAQX	Strategic Advisers Core Multi-Manager	11.94	11.94	11.94	0	-0.01	0.08
+FQIFX	Fidelity Freedom Index 2025 Fd Cl K	15.12	15.12	15.12	0	0.01	0.07
+FQUAX	Amg Fq U.S. Equity Fund Investor Class	16.10	16.10	16.10	0	0.05	0.31
+FRAAX	Franklin Growth Opportunities Fund	34.44	34.44	34.44	0	0.01	0.03
+FRACX	Touchstone Flexible Income Fd Cl C	10.84	10.84	10.84	0	0.00	0.00
+FRALX	Franklin Alabama Tax Free Income Fund	11.55	11.55	11.55	0	0.00	0.00
+FRAMX	Fidelity Advisor Income Replacement Fund	59.39	59.39	59.39	0	0.04	0.07
+FRAPX	Fidelity Advisor Income Replacement 2028	61.58	61.58	61.58	0	0.05	0.08
+FRASX	Fidelity Advisor Income Replacement 2034	60.54	60.54	60.54	0	0.06	0.10
+FRBAX	John Hancock Regional Bank Fund - Class	20.47	20.47	20.47	0	0.10	0.49
+FRBCX	John Hancock Regional Bank Fd Cl C	19.50	19.50	19.50	0	0.10	0.52
+FRBFX	John Hancock Regional Bank Fund - Class	19.46	19.46	19.46	0	0.09	0.46
+FRBRX	Fss Fr Bio-Tech Discovery Cl R6	143.9	143.9	143.9	0	1.2	0.83
+FRBSX	Franklin Balance Sheet Investment Fund	35.91	35.91	35.91	0	0.12	0.34
+FRCAX	Franklin CA Insured Tax-Free Class C	13.68	13.68	13.68	0	0.00	0.00
+FRCCX	First Investors Covered Call ST	10.46	10.46	10.46	0	0.02	0.19
+FRCDX	First Investors Covered Call ST	10.45	10.45	10.45	0	0.02	0.19
+FRCEX	First Investors Covered Call ST	10.47	10.47	10.47	0	0.02	0.19
+FRCGX	Franklin Flex Cap Growth Fund Class R	43.09	43.09	43.09	0	0.08	0.19
+FRCIX	Franklin California Tax Free Trust CA	13.47	13.47	13.47	0	-0.01	0.07
+FRCMX	Fidelity Advisor Income Replacement Fund	59.28	59.28	59.28	0	0.04	0.07
+FRCOX	Franklin Colorado Tax Free Income Fund	12.10	12.10	12.10	0	0.00	0.00
+FRCSX	Fvit-Franklin Small Cap Value Fund - Cl	55.68	55.68	55.68	0	0.25	0.45
+FRCTX	Franklin California Tax Free Income Fund	7.790	7.790	7.790	0	0.000	0.00
+FRCZX	Franklin California Intermediate-Term	12.49	12.49	12.49	0	0.00	0.00
+FRDAX	Franklin Rising Dividends Fund Advisor	53.79	53.79	53.79	0	-0.26	0.48
+FRDPX	Franklin Managed Trust Rising Dividends	53.82	53.82	53.82	0	-0.26	0.48
+FRDRX	Franklin Rising Dividends Fund - Class R	53.64	53.64	53.64	0	-0.26	0.48
+FRDTX	Franklin Rising Dividends Fund Class C	52.86	52.86	52.86	0	-0.26	0.49
+FREAX	Nuveen Real Estate Securities Fund Class	25.43	25.43	25.43	0	0.14	0.55
+FREDX	Fidelity Series Real Estate Equity Fd	15.06	15.06	15.06	0	0.09	0.60
+FREEX	Franklin Real Estate Securituies Fund Cl	25.07	25.07	25.07	0	0.15	0.60
+FREFX	Fidelity Series Real Estate Fd Cl F	15.07	15.07	15.07	0	0.09	0.60
+FREGX	Nuveen Real Estate Securities Fund Class	25.93	25.93	25.93	0	0.14	0.54
+FREIX	Franklin Equity Income Fund - Class R	23.17	23.17	23.17	0	-0.03	0.13
+FRELX	Franklin Lifesmart 2025 Retirement	11.62	11.62	11.62	0	0.00	0.00
+FRERX	Franklin Total Return Fund Cl R6	10.08	10.08	10.08	0	0.00	0.00
+FRESX	Fidelity Real Estate Pt	46.49	46.49	46.49	0	0.23	0.50
+FRETX	Franklin Equity Income Fund Class C	22.99	22.99	22.99	0	-0.03	0.13
+FRFAX	Prudential Floating Rate Income Fd Cl A	9.840	9.840	9.840	0	0.000	0.00
+FRFCX	Prudential Floating Rate Income Fd Cl C	9.840	9.840	9.840	0	0.000	0.00
+FRFDX	First Investors Floating Rate Fund -	9.640	9.640	9.640	0	0.000	0.00
+FRFEX	First Investors Floating Rate Fund -	9.640	9.640	9.640	0	0.000	0.00
+FRFIX	Franklin Florida Tax -Free Income Fund	11.50	11.50	11.50	0	0.00	0.00
+FRFLX	Franklin Florida Tax-Free Income Fund	11.28	11.28	11.28	0	0.00	0.00
+FRFNX	First Investors Floating Rate Fund -	9.630	9.630	9.630	0	0.000	0.00
+FRFTX	Franklin Federal Tax Free Income Fund	12.55	12.55	12.55	0	0.00	0.00
+FRFXX	Federated Capital Reserves Fund	0.7000	0.7000	0.7000	0	0.0000	0.00
+FRFZX	Prudential Floating Rate Income Fd Cl Z	9.850	9.850	9.850	0	0.000	0.00
+FRGEX	Fidelity Series Stock Selector Large Cap	11.89	11.89	11.89	0	0.01	0.08
+FRGOX	Franklin Gold and Precious Metals Fund	21.53	21.53	21.53	0	-0.04	0.19
+FRGSX	Franklin Growth Fund Class C	72.72	72.72	72.72	0	0.00	0.00
+FRGWX	Nuveen First American Large Cap Growth	30.75	30.75	30.75	0	-0.03	0.10
+FRHIX	Franklin High Yield Tax-Free Income Fund	10.85	10.85	10.85	0	0.00	0.00
+FRIAX	Franklin Income Fund Advisor Class	2.230	2.230	2.230	0	0.000	0.00
+FRICX	Federated Floating Rate Strategic Income	9.900	9.900	9.900	0	0.010	0.10
+FRIFX	Fidelity Real Estate Income	12.43	12.43	12.43	0	0.03	0.24
+FRIMX	Fidelity Advisor Income Replacement 2022	59.37	59.37	59.37	0	0.04	0.07
+FRINX	Fidelity Advisor Real Estate Income Fund	12.37	12.37	12.37	0	0.03	0.24
+FRIOX	Fidelity Advisor Real Estate Income Fund	12.25	12.25	12.25	0	0.03	0.25
+FRIPX	Nuveen Inflation Protected Securities	11.27	11.27	11.27	0	0.01	0.09
+FRIQX	Fidelity Advisor Real Estate Income Fund	12.38	12.38	12.38	0	0.03	0.24
+FRIRX	Fidelity Advisor Real Estate Income Fund	12.40	12.40	12.40	0	0.03	0.24
+FRISX	Fmt Rising Dividends Fd Cl R6	53.79	53.79	53.79	0	-0.26	0.48
+FRITX	Franklin Insured Tax-Free Income Fund	12.63	12.63	12.63	0	0.00	0.00
+FRJAX	Fidelity Advisor Income Replacement Fund	50.94	50.94	50.94	0	0.00	0.00
+FRJCX	Fidelity Advisor Income Replacement Fund	50.07	50.07	50.07	0	0.00	0.00
+FRJIX	Fidelity Advisor Income Replacement 2016	50.93	50.93	50.93	0	0.00	0.00
+FRJTX	Fidelity Advisor Income Replacement Fund	50.79	50.79	50.79	0	0.00	0.00
+FRKAX	Fidelity Advisor Income Replacement Fund	55.16	55.16	55.16	0	0.01	0.02
+FRKCX	Fidelity Advisor Income Replacement Fund	54.84	54.84	54.84	0	0.00	0.00
+FRKIX	Fidelity Advisor Income Replacement 2018	55.18	55.18	55.18	0	0.01	0.02
+FRKSX	Nuveen Flagship Ks Muni Bd Fd Cl R [Srs	11.23	11.23	11.23	0	0.00	0.00
+FRKTX	Fidelity Advisor Income Replacement Fund	55.17	55.17	55.17	0	0.01	0.02
+FRKYX	Franklin Kentucky Tax Free Income Fund	11.41	11.41	11.41	0	0.00	0.00
+FRLAX	Franklin Real Estate Securities Fd	25.28	25.28	25.28	0	0.15	0.60
+FRLCX	Nuveen Real Estate Securities Fd Cl C	24.77	24.77	24.77	0	0.13	0.53
+FRLEX	Franklin Lifesmart 2050 Retirement	11.55	11.55	11.55	0	0.01	0.09
+FRLLX	Fidelity Series Equity Income Fund Class	12.48	12.48	12.48	0	0.03	0.24
+FRLSX	Forward Real Estate Long/Short Fd	38.49	38.49	38.49	0	0.24	0.63
+FRMCX	Franklin Microcap Value Fund Class A	32.83	32.83	32.83	0	0.12	0.37
+FRMIX	Mutual International Fd Cl R	14.04	14.04	14.04	0	0.07	0.50
+FRMOX	Franklin Missouri Tax-Free Income Fund	12.16	12.16	12.16	0	0.00	0.00
+FRMPX	Nuveen Small Cap Growth Opportunities Cl	21.31	21.31	21.31	0	0.13	0.61
+FRMTX	Franklin Michigan Insured Tax-Free	12.17	12.17	12.17	0	0.00	0.00
+FRMZX	Franklin Missouri Tax-Free Fund Class	12.17	12.17	12.17	0	0.00	0.00
+FRNAX	Fidelity Advisor Income Replacement Fund	59.10	59.10	59.10	0	0.04	0.07
+FRNCX	Fidelity Advisor Income Replacement Fund	58.88	58.88	58.88	0	0.05	0.08
+FRNIX	Fidelity Advisor Income Replacement 2024	59.09	59.09	59.09	0	0.04	0.07
+FRNJX	Franklin New Jersey Tax-Free Income Fund	11.90	11.90	11.90	0	0.00	0.00
+FRNKX	Frank Value Fund	13.30	13.30	13.30	0	0.03	0.23
+FRNMX	Forward Frontier Strategy Fund	7.560	7.560	7.560	0	0.060	0.80
+FRNRX	Franklin Natural Resources Fund Class A	25.61	25.61	25.61	0	0.02	0.08
+FRNTX	Fidelity Advisor Income Replacement Fund	59.08	59.08	59.08	0	0.04	0.07
+FROMX	Forward Frontier Strategy Fund Advisor	7.710	7.710	7.710	0	0.050	0.65
+FRONX	Forward Frontier Strategy Fund Investor	7.740	7.740	7.740	0	0.050	0.65
+FRORX	Franklin Oregon Tax-Free Income Fund Cl	12.09	12.09	12.09	0	0.00	0.00
+FROTX	Franklin Convertible Securities Fund	18.61	18.61	18.61	0	-0.02	0.11
+FROZX	Franklin Ohio Tax-Free Income Fund Class	13.06	13.06	13.06	0	0.00	0.00
+FRPAX	Franklin Pennsylvania Tax-Free Income	10.48	10.48	10.48	0	0.00	0.00
+FRPTX	Franklin Pennsylvania Tax-Free Income	10.60	10.60	10.60	0	0.00	0.00
+FRQAX	Fidelity Advisor Income Replacement Fund	60.74	60.74	60.74	0	0.05	0.08
+FRQCX	Fidelity Advisor Income Replacement Fund	60.41	60.41	60.41	0	0.06	0.10
+FRQIX	Fidelity Advisor Income Replacement 2030	60.74	60.74	60.74	0	0.05	0.08
+FRQTX	Fidelity Advisor Income Replacement Fund	60.84	60.84	60.84	0	0.05	0.08
+FRRAX	Franklin Real Return Fund Class A	10.15	10.15	10.15	0	0.00	0.00
+FRRCX	Franklin Real Return Fund Class C	10.07	10.07	10.07	0	0.01	0.10
+FRRRX	Franklin Real Return Fund	10.20	10.20	10.20	0	0.00	0.00
+FRRSX	Franklin Real Estate Securities Fund	24.15	24.15	24.15	0	0.14	0.58
+FRSAX	Federated Floating Rate Strategic Income	9.890	9.890	9.890	0	0.010	0.10
+FRSCX	Dreyfus Mid-Cap Growth Fund Class C	6.990	6.990	6.990	0	0.010	0.14
+FRSDX	Dreyfus Mid-Cap Growth Fund Class A	8.160	8.160	8.160	0	0.010	0.12
+FRSGX	Franklin Small-Mid Cap Growth Fund Class	34.47	34.47	34.47	0	0.01	0.03
+FRSIX	Franklin Small-Mid Cap Growth Fund Class	26.34	26.34	26.34	0	0.00	0.00
+FRSLX	Nuveen Mid Cap Growth Opportunities Cl	38.33	38.33	38.33	0	0.07	0.18
+FRSPX	Dreyfus Mid-Cap Growth Fund Class F	8.540	8.540	8.540	0	0.020	0.23
+FRSRX	Dreyfus Mid-Cap Growth Fund Class I	8.520	8.520	8.520	0	0.010	0.12
+FRSSX	Nuveen Real Estate Securities Fd Cl R3	25.79	25.79	25.79	0	0.14	0.55
+FRSTX	Franklin Strategic Series - Franklin	9.640	9.640	9.640	0	0.000	0.00
+FRTAX	Franklin Templeton 2035 Retirement	12.06	12.06	12.06	0	0.01	0.08
+FRTCX	Franklin Templeton 2015 Retirement	10.87	10.87	10.87	0	0.02	0.18
+FRTIX	Franklin Tennessee Municipal Bond Fund	11.57	11.57	11.57	0	0.00	0.00
+FRTMX	Fidelity Advisor Income Replacement Fund	59.44	59.44	59.44	0	0.04	0.07
+FRTSX	Franklin Lifesmart 2020 Retirement	10.87	10.87	10.87	0	0.00	0.00
+FRUAX	Franklin Utilities Fund Advisor Class	18.15	18.15	18.15	0	0.01	0.06
+FRUGX	Franklin Custodian Funds Inc. US	6.320	6.320	6.320	0	0.000	0.00
+FRURX	Franklin Utilities Series Fund - Class R	17.97	17.97	17.97	0	0.02	0.11
+FRUSX	Franklin Utilities Fund Class C	17.95	17.95	17.95	0	0.02	0.11
+FRVAX	Franklin Virginia Tax-Free Income Fd Cl	11.69	11.69	11.69	0	0.00	0.00
+FRVFX	Franklin Small Cap Value Fund Class C	48.30	48.30	48.30	0	0.22	0.46
+FRVLX	Franklin Small Cap Value Fund Class A	53.47	53.47	53.47	0	0.24	0.45
+FRVZX	Franklin Virginia Tax-Free Income Fd Cl	11.70	11.70	11.70	0	0.00	0.00
+FRXIX	Spartan Real Estate Index Fd Inv Cl	16.97	16.97	16.97	0	0.09	0.53
+FSAAX	Fidelity Advisor Asset Manager 60% Class	11.30	11.30	11.30	0	0.00	0.00
+FSACX	Nuveen Strategy Aggressive Growth	14.08	14.08	14.08	0	0.03	0.21
+FSADX	Strategic Advisers Income Opportunities	9.910	9.910	9.910	0	0.030	0.30
+FSAEX	Fidelity Series All Sector Equity Fund	13.50	13.50	13.50	0	-0.01	0.07
+FSAGX	Fidelity Select Gold Pt	26.53	26.53	26.53	0	-0.12	0.45
+FSAHX	Fidelity Short Duration High Income Fund	9.400	9.400	9.400	0	0.010	0.11
+FSAIX	Fidelity Select Air Transportation Pt	65.36	65.36	65.36	0	0.98	1.52
+FSALX	Fa 529 Strategic Div & Income Port-Cl A	14.42	14.42	14.42	0	0.12	0.84
+FSAMX	Fidelity Strategic Advisors Emerging	9.090	9.090	9.090	0	0.310	3.53
+FSANX	Fidelity Asset Manager 60%	11.36	11.36	11.36	0	0.01	0.09
+FSARX	First Security Municipal Bond Fund - A	10.51	10.51	10.51	0	0.00	0.00
+FSASX	Nuveen Strategy Aggressive Growth	14.49	14.49	14.49	0	0.02	0.14
+FSATX	Fidelity Advisor Asset Manager 60% Class	11.24	11.24	11.24	0	0.00	0.00
+FSAVX	Fidelity Select Automotive Portfolio	36.59	36.59	36.59	0	0.07	0.19
+FSAYX	Nuveen Strategy Aggressive Growth	14.75	14.75	14.75	0	0.03	0.20
+FSAZX	Fidelity Arizona Municipal Income Fund	12.49	12.49	12.49	0	0.00	0.00
+FSBAX	Spartan Short-Term Treasury Bond Index	10.55	10.55	10.55	0	0.00	0.00
+FSBBX	Federated Global Allocation Fund Class B	17.57	17.57	17.57	0	0.02	0.11
+FSBCX	Federated Global Allocation Fund Class C	17.51	17.51	17.51	0	0.02	0.11
+FSBDX	Fidelity Series Blue Chip Growth Fund	11.69	11.69	11.69	0	0.02	0.17
+FSBEX	Fidelity Series Blue Chip Growth Fund	11.70	11.70	11.70	0	0.01	0.09
+FSBHX	Fidelity Advisor Short Duration High	9.400	9.400	9.400	0	0.010	0.11
+FSBIX	Spartan Short-Term Treasury Bond Index	10.55	10.55	10.55	0	0.00	0.00
+FSBKX	Federated Global Allocation Fund Class R	17.89	17.89	17.89	0	0.02	0.11
+FSBLX	Federated Global Allocation Fun	18.02	18.02	18.02	0	0.02	0.11
+FSCAX	Nuveen Small Cap Value Fund Class A	22.14	22.14	22.14	0	0.17	0.77
+FSCCX	Nuveen Small Cap Value Fd Cl I	22.89	22.89	22.89	0	0.17	0.75
+FSCDX	Fidelity Advisor Series I Fidelity	25.07	25.07	25.07	0	0.16	0.64
+FSCEX	Fidelity Advisor Series I Fidelity	19.85	19.85	19.85	0	0.13	0.66
+FSCFX	Strategic Advisers Small-Mid Cap Fund	13.21	13.21	13.21	0	0.17	1.30
+FSCGX	Fidelity Select Industrial Equipment	39.71	39.71	39.71	0	-0.18	0.45
+FSCHX	Fidelity Select Chemical Pt	146.2	146.2	146.2	0	-0.4	0.26
+FSCIX	Fidelity Advisor Small Cap Fund Class I	27.14	27.14	27.14	0	0.17	0.63
+FSCKX	Spartan Mid Cap Index Fd Fidelity Advg	18.05	18.05	18.05	0	0.05	0.28
+FSCLX	Spartan Mid Cap Index Fd Inv Cl	18.03	18.03	18.03	0	0.05	0.28
+FSCNX	Fidelity Advisor Asset Manager 60% Class	11.11	11.11	11.11	0	0.01	0.09
+FSCOX	Fidelity International Small Cap	15.68	15.68	15.68	0	0.00	0.00
+FSCPX	Fidelity Select Consumer Discretionary	36.13	36.13	36.13	0	0.04	0.11
+FSCRX	Fidelity Small Cap Discovery Fund	29.02	29.02	29.02	0	0.21	0.73
+FSCSX	Software and IT Services Portfolio	135.6	135.6	135.6	0	0.2	0.18
+FSCTX	Fidelity Advisor Series I Fidelity	23.46	23.46	23.46	0	0.15	0.64
+FSCVX	Nuveen Small Cap Value Fd Cl C	18.93	18.93	18.93	0	0.14	0.75
+FSCWX	Nuveen Small Cap Value Fund Cla	22.90	22.90	22.90	0	0.18	0.79
+FSDAX	Fidelity Select Defense & Aerospace	124.7	124.7	124.7	0	-0.2	0.18
+FSDCX	Fidelity Select Communications Equipment	31.39	31.39	31.39	0	-0.01	0.03
+FSDHX	Fidelity Advisor Short Duration High	9.400	9.400	9.400	0	0.010	0.11
+FSDIX	Fidelity Strategic Dividend & Income	15.03	15.03	15.03	0	0.02	0.13
+FSDPX	Fidelity Select Materials Portfolio	75.20	75.20	75.20	0	-0.26	0.34
+FSEAX	Fidelity Emerging Asia Fund	34.72	34.72	34.72	0	-0.04	0.12
+FSECX	Fa 529 Strategic Div & Income Port-Cl C	14.05	14.05	14.05	0	0.12	0.86
+FSEHX	Fidelity Advisor Short Duration High	9.400	9.400	9.400	0	0.010	0.11
+FSEIX	Nuveen Mid Cap Value Fund I	37.12	37.12	37.12	0	0.11	0.30
+FSELX	Fidelity Select Electronics Pt	88.10	88.10	88.10	0	-0.42	0.47
+FSEMX	Spartan Extended Market Index Fund	55.08	55.08	55.08	0	0.28	0.51
+FSENX	Fidelity Select Energy	43.68	43.68	43.68	0	0.13	0.30
+FSERX	Franklin Real Estate Securities Fd Cl R6	25.29	25.29	25.29	0	0.15	0.60
+FSESX	Fidelity Select Energy Services Pt	45.85	45.85	45.85	0	-0.11	0.24
+FSEVX	Spartan Extended Market Index Fund	55.09	55.09	55.09	0	0.29	0.53
+FSFFX	Fidelity Series All-Sector Equity Fund	13.50	13.50	13.50	0	-0.01	0.07
+FSFHX	Fidelity Advisor Short Duration High	9.400	9.400	9.400	0	0.010	0.11
+FSFIX	Nuveen Strategy Conservative Allocation	11.45	11.45	11.45	0	0.00	0.00
+FSFRX	Nuveen Strategic Income Fund Class R6	10.81	10.81	10.81	0	0.00	0.00
+FSFYX	Nuveen Strategy Conservative Allocation	11.45	11.45	11.45	0	0.01	0.09
+FSGAX	Franklin Small -Mid Cap Growth Fund	37.01	37.01	37.01	0	0.01	0.03
+FSGCX	Franklin Strategic Income Fund Class C	9.640	9.640	9.640	0	0.010	0.10
+FSGDX	Spartan Global Ex US Index Fd Fidelity	11.48	11.48	11.48	0	0.01	0.09
+FSGEX	Fidelity Series Global Ex U.S. Index	11.30	11.30	11.30	0	0.01	0.09
+FSGFX	Strategic Advisers Growth Fund	16.69	16.69	16.69	0	0.16	0.97
+FSGGX	Spartan Global Ex US Index Fd Fidelity	11.49	11.49	11.49	0	0.01	0.09
+FSGIX	Federated US Government Securities Fund	10.39	10.39	10.39	0	0.00	0.00
+FSGNX	Nuveen Strategy Balanced Allocation	10.24	10.24	10.24	0	0.01	0.10
+FSGRX	Franklin Small Cap Growth Fund Class A	18.48	18.48	18.48	0	0.03	0.16
+FSGSX	Spartan Global Ex US Index Fd Insti Cl	11.49	11.49	11.49	0	0.01	0.09
+FSGTX	Federated U.S. Government Securities	10.40	10.40	10.40	0	0.00	0.00
+FSGUX	Spartan Global Ex US Index Fd Inv Cl	11.48	11.48	11.48	0	0.01	0.09
+FSGVX	Federated US Government Securities Fund	10.40	10.40	10.40	0	0.00	0.00
+FSGYX	Nuveen Strategy Growth Allocation	12.19	12.19	12.19	0	0.02	0.16
+FSHAX	Nuveen Short Tax Free Fund Class A	10.12	10.12	10.12	0	0.00	0.00
+FSHBX	Fidelity Short Term Bond Fund	8.660	8.660	8.660	0	0.000	0.00
+FSHCX	Health Care Services Portfolio	83.75	83.75	83.75	0	0.29	0.35
+FSHFX	Fidelity Series High Income Fd Cl F	9.360	9.360	9.360	0	0.010	0.11
+FSHIX	Federated Short-Intermediate Duration	10.33	10.33	10.33	0	0.00	0.00
+FSHNX	Fidelity Series High Income Fd	9.360	9.360	9.360	0	0.010	0.11
+FSHOX	Fidelity Select Construction and Housing	61.18	61.18	61.18	0	-0.02	0.03
+FSHSX	Federated Short-Intermediate Duration	10.34	10.34	10.34	0	0.00	0.00
+FSHYX	Nuveen Short Tax Free Fund Class I	10.12	10.12	10.12	0	-0.01	0.10
+FSIAX	Fidelity Advisor Stratigic Income T	12.17	12.17	12.17	0	0.01	0.08
+FSICX	Fidelity School Street Trust Fidelity	10.91	10.91	10.91	0	0.01	0.09
+FSIDX	Fidelity Advisor Strategic Dividend &	15.00	15.00	15.00	0	0.02	0.13
+FSIEX	Touchstone International Value Fd Cl A	7.670	7.670	7.670	0	0.010	0.13
+FSIFX	First Investors Strategic Income Fd Cl A	9.510	9.510	9.510	0	0.000	0.00
+FSIGX	Fidelity Series Investment Grade Bond	11.65	11.65	11.65	0	0.01	0.09
+FSIHX	First Investors Strategic Income Fd Adv	9.490	9.490	9.490	0	0.000	0.00
+FSIIX	Spartan International Index Fund	37.31	37.31	37.31	0	0.09	0.24
+FSIMX	Forward Select Income Fund Advisor Fund	25.06	25.06	25.06	0	0.06	0.24
+FSIOX	Fidelity Series 1000 Value Index Fund	11.29	11.29	11.29	0	0.01	0.09
+FSIPX	Fidelity Series Inflation-Protected Bond	10.02	10.02	10.02	0	0.01	0.10
+FSIQX	Spartan Inflation-Protected Bond Index	10.05	10.05	10.05	0	0.01	0.10
+FSIRX	Fidelity Advisor Strategic Real Return	8.830	8.830	8.830	0	0.030	0.34
+FSISX	Federated Short-Term Income Fd Svc Shs	8.540	8.540	8.540	0	0.000	0.00
+FSITX	Spartan U.S. Bond Index Fd Fidelity	11.99	11.99	11.99	0	0.01	0.08
+FSIUX	Invesco Dividend Income Fd Cl R5	23.00	23.00	23.00	0	-0.04	0.17
+FSIVX	Spartan International Index Fund	37.32	37.32	37.32	0	0.09	0.24
+FSIYX	Spartan Inflation Protected Bond Index	10.05	10.05	10.05	0	0.01	0.10
+FSJCX	Nuveen Strategy Conservative Allocation	11.38	11.38	11.38	0	0.01	0.09
+FSJHX	Fidelity Advisor Stock Selector All Cap	36.21	36.21	36.21	0	0.00	0.00
+FSJSX	Nuveen Strategy Conservative Allocation	11.42	11.42	11.42	0	0.00	0.00
+FSKAX	Spartan Total Market Index Fd Fidelity	63.60	63.60	63.60	0	0.06	0.09
+FSKCX	Nuveen Strategy Balanced Allocation	10.07	10.07	10.07	0	0.01	0.10
+FSKKX	Franklin K2 Alternative Strategies Fund	10.88	10.88	10.88	0	0.01	0.09
+FSKLX	Fidelity Sai International Minimum	10.27	10.27	10.27	0	-0.01	0.10
+FSKSX	Nuveen Strategy Balanced Allocation Fund	10.12	10.12	10.12	0	0.02	0.20
+FSKTX	Spartan Total Market Index Fd Insti Cl	63.60	63.60	63.60	0	0.06	0.09
+FSKYX	Nuveen Strategy Balanced Allocation Fd	10.21	10.21	10.21	0	0.01	0.10
+FSLAX	Fa 529 Small Cap Port-Cl A	32.42	32.42	32.42	0	0.45	1.41
+FSLBX	Fidelity Select Brokerage & Investment	61.69	61.69	61.69	0	0.25	0.41
+FSLCX	Fidelity Commonwealth Trust Fidelity	18.15	18.15	18.15	0	0.04	0.22
+FSLEX	Fidelity Select Environmental and	21.33	21.33	21.33	0	0.03	0.14
+FSLPX	Franklin Pelagos Commodities Strategy	6.410	6.410	6.410	0	0.020	0.31
+FSLSX	Fidelity Value Strategies Fund	45.02	45.02	45.02	0	0.14	0.31
+FSLVX	Fidelity Stock Selector Large Cap Value	17.90	17.90	17.90	0	0.03	0.17
+FSMAX	Spartan Extended Markets Index Fd	55.08	55.08	55.08	0	0.29	0.53
+FSMDX	Spartan Mid Cap Index Fd Fidelity Advg	18.06	18.06	18.06	0	0.06	0.33
+FSMEX	Fidelity Select Portfolio Medical	43.25	43.25	43.25	0	-0.13	0.30
+FSMFX	Franklin Strategic Mortgage Por	9.590	9.590	9.590	0	0.010	0.10
+FSMIX	Franklin Strategic Mortgage Portfolio	9.590	9.590	9.590	0	0.000	0.00
+FSMLX	Fss Small Cap Growth Fund Cl R6	19.80	19.80	19.80	0	0.03	0.15
+FSMPX	Fa 529 Stock Selector Mid Cap Port-Cl P	25.46	25.46	25.46	0	0.18	0.71
+FSMRX	Franklin Small-Mid Cap Growth Fund -	32.18	32.18	32.18	0	0.00	0.00
+FSMVX	Fidelity Mid Cap Value Fund	23.86	23.86	23.86	0	0.07	0.29
+FSMZX	Franklin Strategic Mortgage Por	9.580	9.580	9.580	0	0.010	0.10
+FSNAX	Nuveen Strategy Growth Allocation Class	12.12	12.12	12.12	0	0.02	0.17
+FSNCX	Nuveen Strategy Growth Allocation	11.76	11.76	11.76	0	0.02	0.17
+FSNGX	Fidelity Select Natural Gas Portfolio	26.36	26.36	26.36	0	0.10	0.38
+FSNHX	Frontier Silk Invest New Horizo	9.410	9.410	9.410	0	-0.030	0.32
+FSNIX	Fidelity Advisor Asset Manager 60% Class	11.36	11.36	11.36	0	0.00	0.00
+FSNSX	Nuveen Strategy Growth Allocation Fund	11.94	11.94	11.94	0	0.02	0.17
+FSOAX	Fidelity Advisor Value Strategies Cl A	40.14	40.14	40.14	0	0.12	0.30
+FSOCX	Forward Select Opportunity Fund Class C	22.49	22.49	22.49	0	0.16	0.72
+FSODX	Fidelity Advisor Municipal Income 2023	10.51	10.51	10.51	0	0.00	0.00
+FSOFX	Fidelity Series Small Cap Opportunities	13.26	13.26	13.26	0	0.07	0.53
+FSONX	Forward Select Opportunity Fund Class A	22.52	22.52	22.52	0	0.16	0.72
+FSOPX	Fidelity Series Small Cap Opportunities	13.17	13.17	13.17	0	0.07	0.53
+FSORX	Forward Select Opportunity Fund Investor	22.54	22.54	22.54	0	0.15	0.67
+FSOTX	Forward Select Opportunity Fund	22.54	22.54	22.54	0	0.16	0.71
+FSPAX	Fa Small Cap 529 Port A	15.50	15.50	15.50	0	0.22	1.44
+FSPCX	Fidelity Select Insurance Portfolio	71.60	71.60	71.60	0	0.02	0.03
+FSPDX	Fa 529 Small Cap Port-Cl D	31.30	31.30	31.30	0	0.44	1.43
+FSPEX	Fa Small Cap 529 Port Z	15.65	15.65	15.65	0	0.22	1.43
+FSPGX	Fidelity Large Cap Growth Index	10.40	10.40	10.40	0	0.01	0.10
+FSPHX	Fidelity Select Health Care	203.2	203.2	203.2	0	-0.3	0.15
+FSPLX	Fa 529 Strategic Div & Income Port-Cl P	14.17	14.17	14.17	0	0.12	0.85
+FSPNX	Spartan International Index Fd Insti Cl	37.33	37.33	37.33	0	0.09	0.24
+FSPPX	Fa 529 Small Cap Port-Cl P	30.36	30.36	30.36	0	0.42	1.40
+FSPSX	Spartan International Index Fd Fidelity	37.33	37.33	37.33	0	0.09	0.24
+FSPTX	Fidelity Select Technology	133.5	133.5	133.5	0	0.3	0.21
+FSRAX	Fidelity Advisor Strategic Real Return	8.810	8.810	8.810	0	0.030	0.34
+FSRBX	Fidelity Select Banking Portfolio	25.87	25.87	25.87	0	0.09	0.35
+FSRCX	Fidelity Advisor Series II Fidelity	12.15	12.15	12.15	0	0.02	0.16
+FSREX	Fidelity Series Real Estate Income Fd	11.55	11.55	11.55	0	0.02	0.17
+FSRFX	Fidelity Select Transportation Portfolio	81.16	81.16	81.16	0	1.29	1.62
+FSRIX	Fidelity Advisor Strategic Income Fund	12.34	12.34	12.34	0	0.01	0.08
+FSRNX	Spartan Real Estate Index Fd Insti Cl	17.00	17.00	17.00	0	0.10	0.59
+FSRPX	Fidelity Select Retailing Pt	110.1	110.1	110.1	0	-0.3	0.23
+FSRRX	Fidelity Strategic Real Return Fund	8.850	8.850	8.850	0	0.030	0.34
+FSRTX	Fidelity Advisor Strategic Real Return	8.820	8.820	8.820	0	0.020	0.23
+FSRVX	Spartan Real Estate Index Fd Fidelity	16.99	16.99	16.99	0	0.09	0.53
+FSRWX	Fidelity Series Real Estate Income Fd Cl	11.55	11.55	11.55	0	0.02	0.17
+FSSAX	Franklin Small Cap Growth Fd Advisor Cl	19.66	19.66	19.66	0	0.03	0.15
+FSSDX	Fa 529 Stock Selector Mid Cap Port-Cl D	26.23	26.23	26.23	0	0.19	0.73
+FSSFX	Fidelity Advisor Series Small Cap Fund	10.72	10.72	10.72	0	0.07	0.66
+FSSKX	Fidelity Stock Selector All Cap Class K	36.32	36.32	36.32	0	0.00	0.00
+FSSMX	Fidelity Stock Sector Mid Cap Fund	33.85	33.85	33.85	0	0.01	0.03
+FSSNX	Spartan Small Cap Index Fd Fidelity Advg	17.20	17.20	17.20	0	0.10	0.58
+FSSPX	Spartan Small Cap Index Fd Inv Cl	17.18	17.18	17.18	0	0.11	0.64
+FSSRX	Franklin Small Cap Growth Fund Class R	17.70	17.70	17.70	0	0.03	0.17
+FSSSX	Spartan Small Cap Index Fd Insti Cl	17.20	17.20	17.20	0	0.10	0.58
+FSSVX	Spartan Small Cap Index Fd Fidelity Advg	17.20	17.20	17.20	0	0.10	0.58
+FSTAX	Fidelity Advisor Series II Fidelity	12.18	12.18	12.18	0	0.02	0.16
+FSTBX	Federated Global Allocation Fund Class A	18.02	18.02	18.02	0	0.02	0.11
+FSTCX	Fidelity Select Telecommunications Pt	71.27	71.27	71.27	0	0.30	0.42
+FSTEX	Invesco Energy Fd Investor Cl	26.17	26.17	26.17	0	0.14	0.54
+FSTFX	Fidelity Limited Term Municipal Income	10.70	10.70	10.70	0	0.00	0.00
+FSTGX	Fidelity Intermediate Government Income	10.82	10.82	10.82	0	0.00	0.00
+FSTIX	Federated Short-Term Income Fund -	8.540	8.540	8.540	0	0.000	0.00
+FSTKX	Federated Mdt Stock Trust Svc Shares	26.61	26.61	26.61	0	0.08	0.30
+FSTLX	Federated Mdt Stock Trust - Cla	26.61	26.61	26.61	0	0.08	0.30
+FSTMX	Spartan Total Market Index Fund Investor	63.60	63.60	63.60	0	0.06	0.09
+FSTPX	Spartan Mid Cap Index Fd Insti Cl	18.06	18.06	18.06	0	0.05	0.28
+FSTRX	Federated Mdt Stock Trust -A Shares	26.59	26.59	26.59	0	0.07	0.26
+FSTSX	Fidelity Series International Small Cap	15.71	15.71	15.71	0	0.00	0.00
+FSTTX	American Funds Short-Term Tax-Exempt Bd	10.19	10.19	10.19	0	0.00	0.00
+FSTUX	Invesco Dividend Income Fd Inv Cl	23.20	23.20	23.20	0	-0.04	0.17
+FSTVX	Spartan Total Market Index Fund Fidelity	63.61	63.61	63.61	0	0.06	0.09
+FSTYX	Federated Short Term Income Fundclass Y	8.540	8.540	8.540	0	0.000	0.00
+FSUIX	Fidelity Large Cap Growth Index	10.40	10.40	10.40	0	0.01	0.10
+FSUPX	Fidelity Large Cap Growth Index	10.40	10.40	10.40	0	0.01	0.10
+FSUTX	Fidelity Select Utilities Growth	74.54	74.54	74.54	0	0.26	0.35
+FSUVX	Fidelity Sai U.S. Minimum Volatility	11.35	11.35	11.35	0	-0.01	0.09
+FSVLX	Fidelity Select Consumer Finance	12.46	12.46	12.46	0	0.10	0.81
+FSVSX	Nuveen Small Cap Value Fund Class R3	21.66	21.66	21.66	0	0.17	0.79
+FSWIX	Fidelity Large Cap Growth Index	10.40	10.40	10.40	0	0.01	0.10
+FSWPX	Strategic Advisers Emerging Markets Fund	9.520	9.520	9.520	0	0.320	3.48
+FSWTX	Fidelity Advisor Municipal Income 2023	10.51	10.51	10.51	0	0.00	0.00
+FSXMX	Fa 529 Strategic Income Port-Cl C	16.84	16.84	16.84	0	0.07	0.42
+FSXPX	Fa 529 Strategic Income Port-Cl P	17.31	17.31	17.31	0	0.08	0.46
+FSZPX	Fa 529 Small Cap Port-Cl C	29.20	29.20	29.20	0	0.40	1.39
+FTAAX	Fidelity Advisor Asset Manager 30% Class	10.67	10.67	10.67	0	0.00	0.00
+FTABX	Fidelity Tax-Free Bond Fund	12.01	12.01	12.01	0	0.00	0.00
+FTADX	Fidelity Advisor International Discovery	39.04	39.04	39.04	0	0.05	0.13
+FTAEX	Fidelity Advisor Total International	8.020	8.020	8.020	0	0.000	0.00
+FTAFX	Fidelity Advisor Freedom Income Cl T	10.96	10.96	10.96	0	0.01	0.09
+FTAGX	Forward Tactical Growth Fund Class A	24.91	24.91	24.91	0	0.02	0.08
+FTANX	Fidelity Asset Manager 30%	10.68	10.68	10.68	0	0.01	0.09
+FTASX	Fidelity Advisor Asset Manager 70% Class	19.91	19.91	19.91	0	0.01	0.05
+FTAWX	Fidelity Advisor Asset Manager 20% Class	13.29	13.29	13.29	0	0.00	0.00
+FTAZX	Franklin Arizona Tax Free Income Fund	11.25	11.25	11.25	0	-0.01	0.09
+FTBAX	Fa 529 Total Bond Port-Cl A	11.13	11.13	11.13	0	0.02	0.18
+FTBBX	Federated International Bond Fund Class	10.50	10.50	10.50	0	0.02	0.19
+FTBCX	Fa 529 Total Bond Port-Cl C	10.80	10.80	10.80	0	0.02	0.19
+FTBFX	Fidelity Total Bond	10.89	10.89	10.89	0	0.00	0.00
+FTBPX	Fa 529 Total Bond Port-Cl P	10.93	10.93	10.93	0	0.02	0.18
+FTBRX	Fidelity Advisor Limited Term Bond Fund	11.59	11.59	11.59	0	0.00	0.00
+FTBTX	Fidelity Series Growth & Income Fund Cl	13.48	13.48	13.48	0	0.03	0.22
+FTCCX	Franklin Templeton Conservative Target	13.57	13.57	13.57	0	0.01	0.07
+FTCEX	Fidelity Advisor Total International	8.010	8.010	8.010	0	0.000	0.00
+FTCHX	Invesco Technology Fund Investor Cl	36.84	36.84	36.84	0	0.06	0.16
+FTCIX	Franklin Templeton Conservative Target	13.85	13.85	13.85	0	0.00	0.00
+FTCLX	Franklin Templeton Corefolio Allocation	16.85	16.85	16.85	0	0.01	0.06
+FTCNX	Fidelity Advisor Canada Fund Class T	49.38	49.38	49.38	0	-0.30	0.60
+FTCOX	Franklin Templeton Corefolio Allocation	17.14	17.14	17.14	0	0.01	0.06
+FTCRX	Franklin Templeton Conservative Target	13.79	13.79	13.79	0	0.00	0.00
+FTCVX	Fidelity Advisor Convertible Securities	27.43	27.43	27.43	0	0.06	0.22
+FTCWX	Fidelity Advisor Asset Manager 20% Class	13.21	13.21	13.21	0	0.00	0.00
+FTCZX	Franklin Templeton Conservative Target	13.86	13.86	13.86	0	0.01	0.07
+FTDWX	Fidelity Advisor Asset Manager 20% Class	13.26	13.26	13.26	0	0.00	0.00
+FTDZX	Fss Fr Bio-Tech Discovery Fund - Advisor	143.0	143.0	143.0	0	1.2	0.82
+FTECX	Touchstone International Value Fd Cl C	7.090	7.090	7.090	0	0.020	0.28
+FTEDX	Fidelity Advisor Total Emerging Markets	11.54	11.54	11.54	0	0.01	0.09
+FTEFX	Fidelity Advisor Total Emerging Markets	11.47	11.47	11.47	0	0.00	0.00
+FTEHX	Fidelity Advisor Total Emerging Markets	11.54	11.54	11.54	0	0.01	0.09
+FTEIX	Fidelity Advisor Total International	8.000	8.000	8.000	0	-0.010	0.12
+FTEJX	Fidelity Advisor Total Emerging Markets	11.53	11.53	11.53	0	0.00	0.00
+FTEMX	Fidelity Total Emerging Markets Fd	11.55	11.55	11.55	0	0.01	0.09
+FTFAX	Templeton Foreign Smaller Companies Fund	16.50	16.50	16.50	0	0.00	0.00
+FTFEX	Fidelity Advisor Freedom 2030 Cl T	13.50	13.50	13.50	0	0.01	0.07
+FTFFX	Fidelity Advisor Freedom 2040 Cl T	13.78	13.78	13.78	0	0.01	0.07
+FTFGX	Tpln Foreign Fund Cl R6	6.990	6.990	6.990	0	0.010	0.14
+FTFIX	Franklin Insured Tax-Free Income Fund	12.44	12.44	12.44	0	-0.01	0.08
+FTFMX	Fidelity New York Municipal Income Fund	13.86	13.86	13.86	0	0.00	0.00
+FTFZX	Franklin Federal Limited Term Tax-Free	10.41	10.41	10.41	0	0.00	0.00
+FTGAX	Franklin Georgia Tax-Free Income Fund	12.48	12.48	12.48	0	0.00	0.00
+FTGFX	Templeton Growth Fund Cl R6	23.22	23.22	23.22	0	0.02	0.09
+FTGLX	Federated Total Return Governme	11.24	11.24	11.24	0	0.00	0.00
+FTGMX	Forward Tactical Growth Fund Advisor	25.84	25.84	25.84	0	0.03	0.12
+FTGOX	Forward Tactical Growth Fund Class C	24.06	24.06	24.06	0	0.02	0.08
+FTGRX	Fidelity Advisor Mega Cap Stock Fund	16.51	16.51	16.51	0	0.03	0.18
+FTGSX	Federated Total Return Government Bond	11.24	11.24	11.24	0	0.00	0.00
+FTGTX	Franklin Templeton Growth Target Fund	17.16	17.16	17.16	0	0.01	0.06
+FTGWX	Forward Tactical Growth Fund	25.86	25.86	25.86	0	0.02	0.08
+FTHAX	Fuller & Thaler Behavioral Core Equity	18.83	18.83	18.83	0	0.12	0.64
+FTHCX	Fidelity Advisor Series Vii Fidelity	34.57	34.57	34.57	0	0.07	0.20
+FTHIX	Fuller & Thaler Behavioral Core Equity	19.05	19.05	19.05	0	0.13	0.69
+FTHRX	Fidelity Intermediate Bond Fund	11.09	11.09	11.09	0	0.00	0.00
+FTHSX	Fuller & Thaler Behavioral Core Equity	18.93	18.93	18.93	0	0.12	0.64
+FTIAX	Federated Short Term Income Fund Class A	8.540	8.540	8.540	0	0.000	0.00
+FTIBX	Federated International Bond Fund Class	10.41	10.41	10.41	0	0.02	0.19
+FTICX	Deutsche Communications Fund Class C	24.82	24.82	24.82	0	0.02	0.08
+FTIEX	Fidelity Total International Equity Fund	8.040	8.040	8.040	0	0.000	0.00
+FTIGX	Fidelity Total International In	10.42	10.42	10.42	0	0.01	0.10
+FTIHX	Fidelity Total International In	10.43	10.43	10.43	0	0.01	0.10
+FTIIX	Federated International Bond Fund Class	10.91	10.91	10.91	0	0.03	0.28
+FTINX	Fidelity Advisor Asset Manager 30% Class	10.68	10.68	10.68	0	0.01	0.09
+FTIPX	Fidelity Total International In	10.43	10.43	10.43	0	0.01	0.10
+FTIRX	Fidelity Advisor Income Replacement Fund	57.89	57.89	57.89	0	0.06	0.10
+FTISX	Fidelity Advisor International Small Cap	24.12	24.12	24.12	0	0.05	0.21
+FTIUX	Fidelity Total International In	10.43	10.43	10.43	0	0.01	0.10
+FTIWX	Fidelity Advisor Asset Manager 20% Class	13.31	13.31	13.31	0	0.01	0.08
+FTLAX	Nuveen Flagship Louisiana Muni Bd Fd Cl	11.69	11.69	11.69	0	0.00	0.00
+FTLCX	Nuveen Flagship Louisiana Municipal Bond	11.64	11.64	11.64	0	0.00	0.00
+FTLMX	Franklin Lifesmart 2025 Retirement	11.75	11.75	11.75	0	0.01	0.09
+FTLRX	Nuveen Flagship La Muni Bd Fd Cl R [Srs	11.72	11.72	11.72	0	0.00	0.00
+FTLTX	Fidelity Series Long-Term Treas	9.800	9.800	9.800	0	0.000	0.00
+FTMIX	First Investors Multi State Insured	12.40	12.40	12.40	0	0.00	0.00
+FTMJX	First Investors Michigan Tax Exempt Fund	12.35	12.35	12.35	0	0.00	0.00
+FTMKX	Fidelity Advisor Emerging Markets Class	22.80	22.80	22.80	0	-0.10	0.44
+FTMLX	First Investors Michigan Tax Exempt Fund	12.45	12.45	12.45	0	0.00	0.00
+FTMMX	First Investors Michigan Tax Exempt Fund	12.38	12.38	12.38	0	-0.01	0.08
+FTMRX	Franklin Templeton Moderate Target Fund	14.97	14.97	14.97	0	0.01	0.07
+FTMTX	Franklin Templeton Moderate Target Fund	14.58	14.58	14.58	0	0.01	0.07
+FTNCX	Nuveen Flagship Tennessee Muni Bd Fd Cl	12.20	12.20	12.20	0	0.00	0.00
+FTNDX	Nuveen Tn Municipal Bond Fd Cl C	12.18	12.18	12.18	0	0.01	0.08
+FTNRX	Nuveen Flagship Tn Muni Bd Fd Cl R [Srs	12.20	12.20	12.20	0	0.01	0.08
+FTNTX	Nuveen Flagship Tennessee Muni Bd Fd Cl	12.22	12.22	12.22	0	0.01	0.08
+FTNYX	Delaware Tax-Free New York Fund A Class	11.97	11.97	11.97	0	0.00	0.00
+FTOBX	First Investors Oregon Tax Exempt Fund	13.88	13.88	13.88	0	0.00	0.00
+FTOIX	Franklin Ohio Insured Tax-Free Income	13.05	13.05	13.05	0	0.00	0.00
+FTORX	First Investors Multi State Insured	13.97	13.97	13.97	0	0.00	0.00
+FTOTX	First Investors Oregon Tax Exempt Fund	13.94	13.94	13.94	0	0.01	0.07
+FTOUX	First Investors Oregon Tax Exempt Fund	13.95	13.95	13.95	0	0.01	0.07
+FTPAX	First Investors Multi-State Insured	13.42	13.42	13.42	0	0.00	0.00
+FTPDX	First Investors Multi-State Insured Tax	13.33	13.33	13.33	0	0.00	0.00
+FTPEX	First Investors Pennsylvania Tax Exempt	13.43	13.43	13.43	0	0.00	0.00
+FTPFX	First Investors Pennsylvania Tax Exempt	13.40	13.40	13.40	0	0.00	0.00
+FTPIX	Invesco Technology Fd Cl R5	42.49	42.49	42.49	0	0.07	0.17
+FTQGX	Fidelity Capital Trust Fidelity Focused	19.24	19.24	19.24	0	-0.01	0.05
+FTRAX	Franklin Templeton 2015 Retirement	11.00	11.00	11.00	0	0.02	0.18
+FTRBX	Federated Total Return Bond Fund	11.18	11.18	11.18	0	0.00	0.00
+FTRCX	Franklin Templeton 2035 Retirement	11.75	11.75	11.75	0	0.00	0.00
+FTRFX	Federated Total Return Bond Fd Svc Shs	11.18	11.18	11.18	0	0.00	0.00
+FTRGX	Federated Total Return Government Bond	11.24	11.24	11.24	0	0.00	0.00
+FTRIX	Fidelity Advisor Mega Cap Stock Fund	16.66	16.66	16.66	0	0.03	0.18
+FTRKX	Federated Total Return Bond Fund Class R	11.18	11.18	11.18	0	0.00	0.00
+FTRLX	Federated Total Return Bond Fund - R6	11.17	11.17	11.17	0	0.00	0.00
+FTRNX	Fidelity Trend Fund	88.36	88.36	88.36	0	0.05	0.06
+FTRPX	Fidelity Advisor Income Replacement Fund	61.57	61.57	61.57	0	0.05	0.08
+FTRRX	Franklin Total Return Fund - Class R	10.000	10.000	10.000	0	0.000	0.00
+FTRSX	Fidelity Advisor Income Replacement Fund	60.57	60.57	60.57	0	0.05	0.08
+FTRTX	Franklin Templeton 2025 Retirement	11.69	11.69	11.69	0	0.00	0.00
+FTRVX	Fidelity Advisor Income Replacement 2038	58.65	58.65	58.65	0	0.06	0.10
+FTRWX	Fidelity Advisor Income Replacement 2040	60.10	60.10	60.10	0	0.05	0.08
+FTSCX	Frontier Timpani Small Cap Growth Fund -	15.92	15.92	15.92	0	0.11	0.70
+FTSDX	Fidelity Advisor Strategic Dividend &	14.94	14.94	14.94	0	0.02	0.13
+FTSGX	Frontier Timpani Small Cap Growth Fund -	15.90	15.90	15.90	0	0.11	0.70
+FTSHX	Fidelity Advisor Limited Term Municipal	10.70	10.70	10.70	0	0.00	0.00
+FTSYX	Frontier Timpani Small Cap Growth Fund -	15.74	15.74	15.74	0	0.11	0.70
+FTTAX	Franklin Templeton 2045 Retirement	12.06	12.06	12.06	0	0.01	0.08
+FTTCX	Franklin Templeton 2025 Returement	11.45	11.45	11.45	0	0.00	0.00
+FTTEX	Fidelity Advisor Total International	8.050	8.050	8.050	0	0.000	0.00
+FTTHX	Fidelity Advisor Freedom 2035 Cl T	12.82	12.82	12.82	0	0.02	0.16
+FTTMX	Franklin Michigan Insured Tax Free	11.99	11.99	11.99	0	-0.01	0.08
+FTTNX	Fidelity Advisor Asset Manager 30% Class	10.66	10.66	10.66	0	0.00	0.00
+FTTRX	Templeton Global Total Return Fund Cl R6	11.45	11.45	11.45	0	-0.01	0.09
+FTTWX	Fidelity Advisor Freedom 2025 Cl T	12.82	12.82	12.82	0	0.01	0.08
+FTUAX	Fidelity Advisor Telecommunications Fund	70.86	70.86	70.86	0	0.30	0.43
+FTUCX	Fidelity Advisor Telecommunications Fund	70.42	70.42	70.42	0	0.30	0.43
+FTUIX	Fidelity Advisor Telecommunications Fund	71.12	71.12	71.12	0	0.30	0.42
+FTUTX	Fidelity Advisor Telecommunications Fund	70.41	70.41	70.41	0	0.30	0.43
+FTVFX	Fidelity Advisor Value Class T	21.95	21.95	21.95	0	0.06	0.27
+FTWRX	Templeton World Cl R6	15.68	15.68	15.68	0	0.03	0.19
+FUBFX	Spartan US Bond Index Fund Cl F	11.99	11.99	11.99	0	0.01	0.08
+FUFRX	Franklin Utilities Fund Cl R6	18.15	18.15	18.15	0	0.02	0.11
+FUGAX	Fidelity Advisor Utilities Cl A	26.67	26.67	26.67	0	0.10	0.38
+FUGCX	Fidelity Advisor Utilities Cl C	26.06	26.06	26.06	0	0.10	0.39
+FUGIX	Fidelity Advisor Utilities Fund Class I	27.20	27.20	27.20	0	0.09	0.33
+FUIXX	First American U.S. Treasury Money	0.0500	0.0500	0.0500	0	0.0000	0.00
+FULAX	Federated Ultrashort Bond Fund A Shares	9.110	9.110	9.110	0	0.000	0.00
+FULBX	Federated Ultra Short Bond Fd Svc Shs	9.110	9.110	9.110	0	0.000	0.00
+FULIX	Federated Ultra Short Bond Fund Insti	9.110	9.110	9.110	0	0.000	0.00
+FUNCX	Pioneer Fundamental Growth Fund Class C	18.24	18.24	18.24	0	-0.03	0.16
+FUNDX	Fund X Upgrader Fund	51.08	51.08	51.08	0	0.05	0.10
+FUNYX	Pioneer Fundamental Growth Fund Class Y	19.90	19.90	19.90	0	-0.03	0.15
+FUQIX	Fidelity Sai U.S. Quality Index Fund	10.94	10.94	10.94	0	0.01	0.09
+FURAX	Fidelity Advisor Income Replacement Fund	61.37	61.37	61.37	0	0.06	0.10
+FURCX	Fidelity Advisor Income Replacement Fund	60.99	60.99	60.99	0	0.05	0.08
+FURIX	Fidelity Advisor Income Replacement 2036	61.48	61.48	61.48	0	0.06	0.10
+FURTX	Fidelity Advisor Income Replacement Fund	61.33	61.33	61.33	0	0.06	0.10
+FUSAX	Franklin U.S. Government Securities Fund	6.390	6.390	6.390	0	0.010	0.16
+FUSBX	Federated Fund For U.S. Government	7.600	7.600	7.600	0	0.010	0.13
+FUSCX	Federated Fund For U.S. Government	7.590	7.590	7.590	0	0.000	0.00
+FUSEX	Spartan 500 Index Fund Investor Class	77.18	77.18	77.18	0	0.01	0.01
+FUSGX	Federated Fund For U.S. Government	7.600	7.600	7.600	0	0.010	0.13
+FUSIX	Strategic Advisers International II Fund	9.180	9.180	9.180	0	0.010	0.11
+FUSRX	Franklin U.S. Government Securities Fund	6.360	6.360	6.360	0	0.000	0.00
+FUSVX	Spartan 500 Index Fund Advantage Class	77.19	77.19	77.19	0	0.01	0.01
+FUTBX	Fidelity Sai U.S. Treasury Bond Index	10.21	10.21	10.21	0	0.00	0.00
+FUZXX	First American Treasury Obligations Fund	0.2100	0.2100	0.2100	0	0.0000	0.00
+FVACX	Nuveen Flagship Virginia Municipal Bond	11.45	11.45	11.45	0	0.01	0.09
+FVADX	Franklin Value Fund Advisor Class	55.67	55.67	55.67	0	0.24	0.43
+FVAIX	Franklin Virginia Tax-Free Income Fund	11.88	11.88	11.88	0	0.00	0.00
+FVALX	Forester Value Fund	11.70	11.70	11.70	0	-0.02	0.17
+FVASX	Fa 529 Value Strategies Port-Cl A	29.57	29.57	29.57	0	0.20	0.68
+FVATX	Nuveen Flagship Virginia Muni Bd Fd Cl A	11.46	11.46	11.46	0	0.00	0.00
+FVCAX	Franklin California High Yield Muni Fd	11.38	11.38	11.38	0	0.00	0.00
+FVCCX	Nuveen Va Municipal Bond Fd Cl C	11.45	11.45	11.45	0	0.00	0.00
+FVCSX	Fidelity Advisor Value Strategies Cl C	36.17	36.17	36.17	0	0.12	0.33
+FVDFX	Fidelity Value Discovery	24.73	24.73	24.73	0	0.04	0.16
+FVDKX	Fidelity Value Discovery Fund Class K	24.74	24.74	24.74	0	0.04	0.16
+FVFRX	Franklin Small Cap Value Fund - Class R	52.89	52.89	52.89	0	0.23	0.44
+FVGRX	Franklin Global Real Estate Fund Advisor	9.710	9.710	9.710	0	0.020	0.21
+FVHIX	Franklin High Income Fund Advisor Class	1.840	1.840	1.840	0	0.000	0.00
+FVIAX	Fidelity Advisor Government Income Class	10.69	10.69	10.69	0	0.01	0.09
+FVICX	Fidelity Advisor Government Income Class	10.68	10.68	10.68	0	0.00	0.00
+FVIFX	Fidelity Advisor Value Fund Class I	22.38	22.38	22.38	0	0.06	0.27
+FVIIX	Fidelity Advisor Government Income Fund	10.69	10.69	10.69	0	0.01	0.09
+FVILX	Forester Value Fund I - Share	12.01	12.01	12.01	0	-0.01	0.08
+FVITX	Fidelity Advisor Government Income Class	10.69	10.69	10.69	0	0.01	0.09
+FVIXX	First American Government Obligations	0.1300	0.1300	0.1300	0	0.0100	8.33
+FVLAX	Fidelity Advisor Value Leaders Class A	16.66	16.66	16.66	0	0.03	0.18
+FVLCX	Fidelity Advisor Value Leaders Class C	16.19	16.19	16.19	0	0.02	0.12
+FVLIX	Fidelity Advisor Value Leaders Fund	16.79	16.79	16.79	0	0.03	0.18
+FVLKX	Fidelity Value Fund Class K	106.6	106.6	106.6	0	0.3	0.28
+FVLTX	Fidelity Advisor Value Leaders Class T	16.68	16.68	16.68	0	0.02	0.12
+FVMLX	Pacific Financial Faith & Values Based	10.15	10.15	10.15	0	0.06	0.59
+FVOAX	Federated Managed Volatility Fund- A	9.200	9.200	9.200	0	0.010	0.11
+FVOCX	Federated Managed Volatility Fund- C	9.190	9.190	9.190	0	0.010	0.11
+FVOIX	Federated Managed Volatility Fund- Is	9.200	9.200	9.200	0	0.020	0.22
+FVRLX	Forester Value Fund Class R Shares	12.00	12.00	12.00	0	-0.01	0.08
+FVRMX	Franklin Microcap Value Fund Advisor	33.01	33.01	33.01	0	0.11	0.33
+FVSAX	Strategic Advisers Value Fund	17.84	17.84	17.84	0	0.12	0.68
+FVSCX	Fa 529 Value Strategies Port-Cl C	26.99	26.99	26.99	0	0.17	0.63
+FVSDX	Fa 529 Value Strategies Port-Cl D	28.37	28.37	28.37	0	0.19	0.67
+FVSKX	Fidelity Value Strategies Fund Class K	45.02	45.02	45.02	0	0.15	0.33
+FVWSX	Fidelity Series Opportunistic Insights	15.40	15.40	15.40	0	0.01	0.06
+FWAFX	Fidelity Advisor Worldwide Fund Class A	22.69	22.69	22.69	0	0.01	0.04
+FWATX	Fidelity Advisor Multi-Asset Income Fund	10.59	10.59	10.59	0	0.02	0.19
+FWBTX	Fidelity Advisor Multi-Asset Income Fund	10.59	10.59	10.59	0	0.02	0.19
+FWCCX	Nuveen Wi Municipal Bond Fd Cl C	11.10	11.10	11.10	0	0.00	0.00
+FWCFX	Fidelity Advisor Worldwide Fund Class C	22.20	22.20	22.20	0	0.01	0.05
+FWFIX	First Western Fixed Income Fund -	9.980	9.980	9.980	0	0.000	0.00
+FWHBX	Strategic Advisers Core Income	10.14	10.14	10.14	0	0.02	0.20
+FWIAX	Nuveen Flagship Wisconsin Muni Bd Fd Cl	11.10	11.10	11.10	0	0.00	0.00
+FWICX	Nuveen Flagship Wi Muni Bd Fd Cl C [Srs	11.10	11.10	11.10	0	-0.01	0.09
+FWIFX	Fidelity Advisor Worldwide Fund Class I	22.85	22.85	22.85	0	0.02	0.09
+FWIRX	Nuveen Flagship Wi Muni Bd Fd Cl R [Srs	11.13	11.13	11.13	0	0.00	0.00
+FWRAX	Fidelity Advisor Global Real Estate Fund	10.05	10.05	10.05	0	0.03	0.30
+FWRCX	Fidelity Advisor Global Real Estate Fund	10.04	10.04	10.04	0	0.03	0.30
+FWRIX	Fidelity Advisor Global Real Estate Fund	10.05	10.05	10.05	0	0.03	0.30
+FWRLX	Fidelity Select Wireless	8.860	8.860	8.860	0	-0.010	0.11
+FWRTX	Fidelity Advisor Global Real Estate Fund	10.05	10.05	10.05	0	0.03	0.30
+FWSBX	First Western Short Duration Bond Fund -	10.01	10.01	10.01	0	0.01	0.10
+FWSHX	First Western Short Duration High Yield	10.05	10.05	10.05	0	0.01	0.10
+FWTFX	Fidelity Advisor Worldwide Fund Class T	22.54	22.54	22.54	0	0.01	0.04
+FWWEX	Fidelity Series Opportunistic Insights	15.44	15.44	15.44	0	0.01	0.06
+FWWFX	Fidelity Worldwide Fund	22.96	22.96	22.96	0	0.02	0.09
+FXAIX	Spartan 500 Index Fd Advantage Insti Cl	77.19	77.19	77.19	0	0.00	0.00
+FXBAX	Psi Total Return Fund Class A	8.890	8.890	8.890	0	0.040	0.45
+FXCAX	Psi Calendar Effects Fund Class A	10.33	10.33	10.33	0	-0.01	0.10
+FXCTX	Franklin Connecticut Tax Free Income	10.86	10.86	10.86	0	0.00	0.00
+FXDAX	Altegris Fixed Income Long Short Fund -	8.630	8.630	8.630	0	0.010	0.12
+FXDCX	Altegris Fixed Income Long Short Fund -	8.610	8.610	8.610	0	0.010	0.12
+FXDIX	Altegris Fixed Income Long Short Fund -	8.650	8.650	8.650	0	0.010	0.12
+FXDNX	Altegris Fixed Income Long Short Fund -	8.630	8.630	8.630	0	0.010	0.12
+FXFAX	The FX Strategy Fund Class A	8.550	8.550	8.550	0	-0.150	1.72
+FXFIX	The FX Strategy Fund Class I	8.560	8.560	8.560	0	-0.150	1.72
+FXFXX	First American Treasury Obligat	0.2500	0.2500	0.2500	0	0.0000	0.00
+FXICX	Fixed Income Shares Series C	10.16	10.16	10.16	0	0.00	0.00
+FXIDX	Fixed Income Shares Series Ld	9.800	9.800	9.800	0	0.010	0.10
+FXIEX	Fixed Income Shares Series Te	10.31	10.31	10.31	0	0.00	0.00
+FXIFX	Fidelity Freedom Index 2030 Fd Cl K	15.49	15.49	15.49	0	0.01	0.06
+FXIMX	Fixed Income Shares Series M	10.89	10.89	10.89	0	0.01	0.09
+FXIRX	Fixed Income Shares Series R	9.330	9.330	9.330	0	0.010	0.11
+FXMAX	Psi All Asset Fund Class A	8.080	8.080	8.080	0	-0.010	0.12
+FXNAX	Spartan U.S. Bond Index Fd Fidelity	11.99	11.99	11.99	0	0.01	0.08
+FXNCX	Franklin North Carolina Tax-Free Income	12.10	12.10	12.10	0	0.00	0.00
+FXSAX	Psi Strategic Growth Fund Class A	9.510	9.510	9.510	0	0.020	0.21
+FXSIX	Spartan 500 Index Fd Insti Cl	77.19	77.19	77.19	0	0.00	0.00
+FXSTX	Spartan U.S. Bond Index Fd Insti Cl	11.99	11.99	11.99	0	0.01	0.08
+FXTAX	Psi Tactical Growth Fund Class A	9.580	9.580	9.580	0	0.090	0.95
+FYAIX	Access Flex High Yield Fund Investor	33.36	33.36	33.36	0	-0.03	0.09
+FYASX	Access Flex High Yield Fund Service	32.40	32.40	32.40	0	-0.04	0.12
+FYATX	Fidelity Advisor Series Short-Term	10.05	10.05	10.05	0	0.00	0.00
+FYBTX	Fidelity Series Short-Term Credit Fund	10.04	10.04	10.04	0	0.00	0.00
+FYCTX	Fidelity Series Short-Term Credit Fund	10.04	10.04	10.04	0	0.00	0.00
+FYGCX	Nuveen Intermediate Government Bond	8.940	8.940	8.940	0	0.000	0.00
+FYGRX	Nuveen Intermediate Government Bond	8.930	8.930	8.930	0	0.000	0.00
+FYGYX	Nuveen Intermediate Government Bond	8.930	8.930	8.930	0	0.000	0.00
+FYIPX	Nuveen Inflation Protected Securities	11.51	11.51	11.51	0	0.01	0.09
+FYMNX	Nuveen Minnesota Municipal Bd Fund	12.11	12.11	12.11	0	0.01	0.08
+FYRXX	Retail Prime Obligations Fund Class Y	0.2400	0.2400	0.2400	0	-0.1700	41.46
+FZAAX	Fidelity Advisor Balanced Fd Cl Z	19.64	19.64	19.64	0	-0.01	0.05
+FZABX	Fidelity Advisor Diversified	20.65	20.65	20.65	0	0.01	0.05
+FZACX	Fidelity Advisor Diversified Stock Fd Cl	22.95	22.95	22.95	0	0.06	0.26
+FZADX	Fidelity Advisor Dividend Growth Fd Cl Z	17.84	17.84	17.84	0	-0.01	0.06
+FZAEX	Fidelity Advisor Emerging Markets Fd Cl	23.07	23.07	23.07	0	-0.10	0.43
+FZAFX	Fidelity Advisor Equity Growth Fd Cl Z	107.4	107.4	107.4	0	-0.1	0.07
+FZAGX	Fidelity Advisor Equity Income Fd Cl Z	32.35	32.35	32.35	0	0.05	0.15
+FZAHX	Fidelity Advisor Growth Opportunities Fd	63.57	63.57	63.57	0	0.09	0.14
+FZAIX	Fidelity Advisor International Discovery	39.51	39.51	39.51	0	0.05	0.13
+FZAJX	Fidelity Advisor International Growth Fd	11.64	11.64	11.64	0	0.01	0.09
+FZAKX	Fidelity Advisor Leveraged Company Stock	56.14	56.14	56.14	0	0.20	0.36
+FZALX	Fidelity Advisor Mega Cap Stock Fd Cl Z	16.60	16.60	16.60	0	0.03	0.18
+FZAMX	Fidelity Advisor Mid Cap II Fd Cl Z	19.36	19.36	19.36	0	0.06	0.31
+FZANX	Fidelity Advisor New Insights Fd Cl Z	28.36	28.36	28.36	0	0.02	0.07
+FZAOX	Fidelity Advisor Small Cap Fd Cl Z	27.12	27.12	27.12	0	0.18	0.67
+FZAPX	Fidelity Advisor Stock Selector All Cap	36.24	36.24	36.24	0	0.00	0.00
+FZBAX	Franklin Flexible Alpha Bond Fund Cl Adv	9.950	9.950	9.950	0	0.000	0.00
+FZCAX	Franklin California Insured Tax-Free	13.50	13.50	13.50	0	0.00	0.00
+FZCCX	Nuveen Az Municipal Bond Fd Cl C	11.13	11.13	11.13	0	0.00	0.00
+FZFLX	Fidelity Sai Small-Mid Cap 500 Index	10.42	10.42	10.42	0	0.05	0.48
+FZIAX	Fidelity Advisor Intermediate Municipal	10.71	10.71	10.71	0	0.00	0.00
+FZICX	Fidelity Advisor Intermediate Municipal	10.71	10.71	10.71	0	0.00	0.00
+FZIIX	Fidelity Advisor Intermediate Municipal	10.72	10.72	10.72	0	0.00	0.00
+FZITX	Fidelity Advisor Intermediate Municipal	10.70	10.70	10.70	0	0.00	0.00
