@@ -16,12 +16,12 @@ source('00-utilities.R')
 # etf_base <- read_excel('Screener-Export Mutual Funds.xls', sheet = 'Current Criteria')
 etf_base <- read_excel('Screener-Export ETF.xls', sheet = 'Current Criteria')
 etf_base$`ETF Name` <- tolower(etf_base$`ETF Name`)
-etf_base <- etf_base[grepl(pattern = '.*fidelity.*', x = etf_base$`ETF Name`), ]
-
+names(etf_base) <- tolower(names(etf_base))
+names(etf_base) <- gsub(pattern = '\\s+', x = names(etf_base), replacement = '_')
+etf_base <- dplyr::filter(etf_base, grepl('.*fidelity.*|anguard.*', etf_name))
 
 #pull data from the Internet
-tickers <- etf_base$Ticker
-Stocks <- lapply(tickers, function(sym) {
+Stocks <- lapply(etf_base$ticker, function(sym) {
   xts_out <- dailyReturn(na.omit(getSymbols(sym, auto.assign=FALSE)))
   colnames(xts_out) <- sym
   xts_out
@@ -40,9 +40,12 @@ returns <- as.matrix(df[complete.cases(df),-1])
 
 #Plot returns
 ftr_df <- tidyr::gather(df, key = ticker, value = value, 2:ncol(df))
+ftr_df <- dplyr::inner_join(ftr_df, dplyr::select(etf_base, ticker, expense_ratio), by = 'ticker')
 dplyr::group_by(ftr_df, ticker) %>%
-  dplyr::summarise(mean_ret = mean(value, na.rm = TRUE), sd_ret = sd(value, na.rm = TRUE)) %>% 
-  ggplot(aes(x=sd_ret, y=mean_ret, label = ticker)) + geom_point() +
+  dplyr::summarise(mean_ret = mean(value, na.rm = TRUE)
+                   , sd_ret = sd(value, na.rm = TRUE)
+                    , mean_exp = mean(expense_ratio)) %>%
+  ggplot(aes(x=sd_ret, y=mean_ret, label = ticker, color = mean_exp, fill = mean_exp)) + geom_point() +
   geom_text(check_overlap = TRUE)
 
 # Run the eff.frontier function based on no short and 50% alloc. restrictions
