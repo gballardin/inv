@@ -24,7 +24,7 @@ etf_base <- dplyr::filter(etf_base, grepl('.*fidelity.*', etf_name)) #|anguard.*
 
 #pull data from the Internet
 Stocks <- lapply(etf_base$ticker, function(sym) {
-  xts_out <- dailyReturn(na.omit(getSymbols(sym, auto.assign=FALSE)))
+  xts_out <- dailyReturn(na.omit(getSymbols(sym, auto.assign=FALSE, src = 'google')))
   colnames(xts_out) <- sym
   xts_out
 })
@@ -41,7 +41,7 @@ df <- df[,sapply(df, function(x) (sum(is.na(x)) / length(x)) < .1)]
 returns <- as.matrix(df[complete.cases(df),-1])
 
 # Run the eff.frontier function based on no short and 50% alloc. restrictions
-eff <- eff.frontier(returns=returns, short="no", max.allocation=.95,
+eff <- eff.frontier(returns=returns, short="no", max.allocation=.35,
                     risk.premium.up=1, risk.increment=.001)
 
 # Find the optimal portfolio
@@ -73,5 +73,5 @@ head(dplyr::inner_join(eff.optimal.point, dplyr::select(etf_base, ticker, etf_na
 #   unique
 
 library(corrplot)
-M <- cor(returns[,c(2,5,7,10)])
+M <- cor(returns[,c(2,5,7,10,11)])
 corrplot(M, method="circle")
